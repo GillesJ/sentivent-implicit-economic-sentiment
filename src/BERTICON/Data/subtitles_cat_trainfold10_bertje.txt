@@ -1,0 +1,811 @@
+id	text	label
+0	Kweenie of da gij al es goed hebt stilgestaan bij het leven da ge de afgelopen jaren hebt geleid.	0
+1	Santé.	3
+10	Ja jongens. Dees is nie gezond ze. Pfff. Dees is nie gewoon. Na zen ik echt serieus aan het stressen hoor.	2
+100	Ik had de vorige keer ook al zoiets van: nie me mij, want how… Wa was het dan? Vijftien maanden daje dan weggebleven was na je elektronisch toezicht. Ma goed ja, inderdaad…	1
+101	Tis wat het is. Tis ook een belangrijke job eh. Als kik zo woog, khad uiteindelijk nog wel vijf kilo. Das fiftig dollar. Voor die mensen veel geld ze.	0
+102	Ideaal. Nu gaak minne pyjama pakken.	3
+103	Ik was wel gechoqueerd. Ja. Da ga zo buiten alle grenzen die dat er, die da ik ken. Das nie meer normaal.	2
+104	Oh, amai. Schol eh!	3
+105	Het is zelfs nie om jullie te choqueren dat ik jullie naar hier breng. Het is gewoon echt omdat het, omdat het hier zo is.	0
+106	Ja das inderdaad iets da jullie nog nie hebben gezien. Daarom ben ik blij da ge het, da ge het wel, da ge het nu wel es zie. Da ik ook over andere dingen bekommerd kan zijn dan materialistische dingen.	3
+107	Dat da… ja dat da een beetje een soort zelfbescherming is. Dak daar misschien anders zelf euh… te veel mee ga… te veel aan ga denken en te… te ongelukkig van ga worden.	5
+108	Ja gij waard ook heel blij als ge thuis waart.	3
+109	Alé ma, hou de moed erin. Salut.	4
+11	Geen buren. Geen last van iemand.	0
+110	Kmoet er nog altijd mee lachen omdat ik het euh nie echt besef. Euhm… Ma het doet zeker wel wa me mij. Tis euh bizar om te weten da ja ga trouwen.	3
+111	Een goeie danser, das toch wijs eh.	3
+112	We hebben nog redelijk  gelachen tijdens diene dans ook. Da was echt plezant daje zo… Da was een serieus moment ma ook dawet zo beetje konden downplayen zo en ja kvond da wel geweldig da we da kunnen doen.	3
+113	Das het eerste wa kik dan zeg eh. Ge moet es weten vanwaar dat da komt. Ma twas ook, alé, ik moet eerlijk zijn, wij hebben dan die nachtdienst gedaan. Ik was bekaf.	1
+114	Lang geleden da we hier wel samen hebben gegeten eh.	0
+115	Ik vind et een stomme methode ze. Een bikke modder mixen vinnik het.	1
+116	Heeey. Sorry eh. Ik heb net knoflookteentjes vastgehad, dus nu heb je een knoflookhandje.	3
+117	Doeme toch. Da moe wel passen eh?	1
+118	Ge ziet er goe uit. Hallo.	3
+119	Ik woonde der al een paar jaar bij ook eh, bij het slachtoffer dus… alé zij bij mij dus…	5
+12	Nee, sorry ik word daar zo kwaad van. Ik word daar echt boos van.	1
+120	Het komt nu  gewoon efkes allemaal heel hard binnen.	5
+121	Alé hij verdient hier wel goe eh.	3
+122	Wij hopen beide voor Lenny dat het een lief meisjen is. Met een goed karakter natuurlijk, das heel belangrijk. Hij is eigenlijk al heel lang op zoek en ja… Misschien lukt het nu voor hem eh.	3
+123	We hebben al zo veel gedaan op zo’n korte tijd. We zijn zo’n hechte groep geworden, vind ik. We zijn nog geen week weg, of net een week weg. Dus euh, ja. Zot.	3
+124	Maar nu, als ik u ga terug laten gaan naar uw cel… Ik ga nie beweren da je kalm kan zijn ma der gaan toch geen ongelukken gebeuren eh?	2
+125	Das ietske da los ligt om omdak nie meer weet hoe dak het erin moe steken.	0
+126	Sinds net voor Kerstmis eigenlijk zijn wij nie meer getrouwd en da is even een heel moeilijke periode geweest vo mij.	5
+127	Toch ongelooflijk. Der durft hier geen een zeggen aan een gedetineerde datn moe zn haar knippen.	1
+128	Er zullen wel dingen… Maja zulke dingen vind ik wel goe. Vind ik wel wijs.	3
+129	Ik ga die direct op instagram zetten eh, goed?	3
+13	Doen, Joke. Doen. Echt, ik sta derachter. Ik steun u.	3
+130	Toen we dees zagen, waren we heel blij. Ge hebt een dak boven uw kop, nie iedereen heeft da hier en ja. Ik vind da ook een heel proper huis tegenover de andere da we hier allemaal zien.	3
+131	Ik vond da een van de beste momenten van mijn leven da we daar aankwamen en… Die bus en al die kinderen en zo. Oh.	3
+132	Jazeker, omdat het gewoon onterecht is. Het is echt onterecht dit.	1
+133	Ibiza! Woooh!	3
+134	Das heel mooi beschreven.	3
+135	Franky heeft ons ook een bikke wakker gehouden, want die snurkt wa.	0
+136	Nee, da is keisip.	5
+137	Eindelijk ga ik vannacht in een goe bed slapen. Amai. Die flutmatrasjes, kga ze nie missen. Voila.	3
+138	Met mij gaat het heel goed. De afgelopen periode heb ik eigenlijk hetzelfde beleefd als de periode voor de trouw dus ik heb eigenlijk een heel stabiel leven. 	3
+139	Mijn telefoon ligt hier op te laden, zeker?	0
+14	Tis een beetje een cursus stressbestendigheid.	2
+140	Ik probeer zoveel ik kan mezelf te zijn.	0
+141	Ja. Das rap eh.	3
+142	Ik ben wel trots op u  da ge deraan hebt meegedaan.	3
+143	Ik denk dat we hier een heel sterke match hebben.	3
+144	Ge kunt nogal dansen godverdikke.	3
+145	Dus dit is den eerste keer dat we onze junior echt zo loslaten.	4
+146	Jaaa! Komaan!	3
+147	Het leukste ja vind ik nog altijd z’n enthousiasme ook en zijn lach en ook echt een levensgenieter. Kdenk da we daar op da vlak der sowieso ook tzelfde in in alé int leven staan. Ma vooral ook da Victor iemand is da ik nu, na mijn gevoel, volledig kan vertrouwen ook. Altijd.	3
+148	Kdacht dak da mega leuk ging vinden en dan na een uur dacht ik van “oh my god wanneer ist lunchpauze? Want da ga hier nog drie uur duren”. Kwas echt blij toen da de bel afging.	1
+149	Oh, top! Nee? Echt wel chill, eh?	3
+15	Oh allee da besta nie!	3
+150	In Nederland weet ik, als je met zoiets wordt gepakt weet ik dan sta je na twee dagen buiten, maar hier komen ze al gelijk met: ja je bent een dealer bla bla bla dit dat. Ik vind het allemaal euh een heel klein beetje overdreven. En zo’n ouderwetse gevangenis, ja das echt…	1
+151	Ik heb alleszins zin in euh hetgeen da nu ga komen. Kheb er momenteel een positief gevoel over. Dus euh… ja ik kijk er wel naar uit, de komende weken.	3
+152	Ja voilà. Daar kwam je goed uit de verf. Fancy kostuum, chique schoentjes…	3
+153	Das wel efkes wennen age zo tijdje alleen zi geweest.	5
+154	Ik neem mij altijd voor da ik mij zo goe mogelijk ga gedragen omdat ik geen, tegenover die mensen da hier werken die da elke dag doen, echt geen verwende prinses wil zijn. Ik probeer mij da echt voor te nemen ma als ge zo moe zijt dan denkt ge echt “fuck it” en dan zijde zo slechtgezind als wa.	1
+155	Oké mevrouw, maar dan moet u ook zeggen dat hij niet moet moeilijk doen tegen mij. De attitude van die chef tegenover mij is…	1
+156	In Nederland zat ik toen ik achttien was voor een gewapende overval. Daar heb ik uiteindelijk zeven maanden voor gezeten. En toen ben ik naar hier gekomen om mijn leven op te pakken en nu zit ik weer hier zo, helaas.	5
+157	Goeie feesten.	3
+158	Dat aftellen, da zegt mij niks.	5
+159	Dit is echt vatsig.	1
+16	Da lukt echt langs geen kanten!	1
+160	Alé, Milan die stil is. Zo hebk hem nie meegemaakt op reis.	3
+161	Ja ma, diejen die het nie kan komt er hier nie aan eh.	1
+162	Het stinkt eh allemale. Zorg dawe geen zulke dingen meer zien of ge gaat er nie lange zitten eh.	1
+163	Jij zal worden vrijgesteld en gerepatrieerd naar Italië.	0
+164	Ma ge kunt die energie ook op een positieve manier gebruiken. Kijk, als ge die boosheid voelt van, van de op een positieve manier te gaan gebruiken door in dialoog te gaan.	0
+165	(wijst) Een giraf!	3
+166	Da vond ik echt verschrikkelijk want ge zijt daar ook met dieje geur. Ik vond da echt een vieze geur. Ik kon daar echt nie zo goe tegen. En dan die steken zo wa in uw handen en dan had ge die locals die da zo goe kunnen en die daar zo wa op uw vingers stonden te kijken van “wa zijn die eigenlijk aant doen?”. 	1
+167	Ma ge merkt dat da dan nie lukt. Nja da zijn geen prettige gesprekken eh da.	5
+168	Dit is Jolien. 29 jaar. Uit Limburg afkomstig, woon in Brussel. Zeer sportieve dame, zeer assertief met heel wat pit in haar die misschien wel de gave bezit om Lenny soms een beetje onder controle te houden.	0
+169	Ik was het een bikke vergeten hoe erg dat het eigenlijk nog was in de wereld. En het is niet de enige plek, he. We zien het nu heel up close, maar da gaat hier in alle omstreken zo zijn he. Eigenlijk…	5
+17	Nogal lui en, en… Soms ongeïnteresseerd ook. Da ik denk, Britt leesde gij nu nooit een gazet? Da stoort mij soms. Nooit nat journaal kijken, nie willen weten wat er in de wereld gebeurt. Euh ja. En da komt zo oppervlakkig over. Zo van…	1
+170	Ik ben enorm klaar vo te trouwen. Ik kan eigenlijk nie wachten bij wijze van spreken, dus die data mag hier heel rap gaan zijn.	3
+171	Ik kom uit een euh een warm gezin. Mijn ouders zijn toch al heel lang getrouwd. Tis een heel warm, goed koppel. Tzijn ook mensen die echt wel pro-huwelijk zijn. En zo wil ik het ook wel voor mezelf.	0
+172	Ja ik ben heel proper.	0
+173	Ja. Ik zou hier echt nie, nie willen nie kunnen… Nooit. Ik wil dit ook… Ik kan het nie zien, ik kan het gewoon nie zien hoe da mensen hier leven. Ik vind da echt verschrikkelijk.	5
+174	Ik denk da nie veel mensen da zouden durven om zich compleet open te stellen.	0
+175	Ahaha en met al da geknor derbij. Geweldig.	3
+176	Maar op een gegeven moment moeje echt zeggen alé moeje echt eerlijk zijn over uzelf en de andere en zeggen ja het blijft weg en ja. We moeten echt wel een beslissing gaan nemen.	5
+177	Da was zalig.	3
+178	Het kot serieus dichtbij. Tis spannend. Nu begint… aleja kwas nie zo zenuwachtig. Nu begint die stress toch wel een klein beetje te komen eigenlijk. Hoe dichter dat den trouw komt, hoe meer stressy dak word.	2
+179	Ja. Kweetet. Op het moment da ze da zeggen eh “nog vier weken” en dan denkte van gohja das nog veel ma… Goh alleen als ik er al aan denk, dan ist echt wel stress. Nog twaalf dagen. Twaalf dagen en ik zin ne getrouwde man.	2
+18	Ik heb het moeilijk met superveel indrukken tegelijk op te doen. Ge hebt fabrieken, ge hebt families, en de andere omgeving en das allemaal heel veel. Dus ik moet da, ja, ik moet da wa in mij opnemen en wa laten bezinken en dan… Allee, ik vind da, vo mij is da… veel tegelijk gewoon.	5
+180	Auwch.	0
+181	Kweetet, ma nu ebjet wel helemaal na de knoppen geholpen eh.	1
+182	Zeg, doe es… Stel u es nie zo onderdanig op.	1
+183	Nee, da lijkt mij… ja verschrikkelijk om een kind op de wereld te zetten en te beseffen… ja da ge da eigenlijk niks kunt geven. Kword er emotioneel van omda ja, ge wilt voor uw kind het beste. Ook, ook die mama die met da kindje op haar rug.	5
+184	Oh my god, het is echt.	3
+185	Totaal nie. Tga echt een ontnuchteringsles worden.	2
+186	Sorry ma ik blijf het echt een grappig beest vinden.	3
+187	Wenen, roepen, wenen.	5
+188	Wat ik nie begrijp is, van waar heeft hij die verhaaltje? Hij heeft da uit zn duim gezogen. Moest ik zoiets willen doen, mevrouw, ik ga da nie doen voor zijn neus. Ik ga, ik ga da rustig prepareren…	1
+189	Khad het voorspeld eh. Khad gezegd tegen Lenny: Je ga hilarische momenten hebben op reis.	3
+19	Wij hebben daar een feestmaal gekregen, dus ik ben daar wel dankbaar voor da ze da voor ons willen doen eh en da ze daar zo veel moeite in steken. Het was ook heel lekker. Ik heb heel goe gegeten.	3
+190	Khen ik lik gehoord daj gie zelve gestopt zijt me werken in het medisch centrum.	0
+191	Het strand in Sri Lanka met de zonsondergang, gasten.	3
+192	Oh my god. O nee, da kan nie. Echt?	3
+193	Heerlijk, opt terras, goei weer.	3
+194	Ma ik leer wel bij ze, tis da. Omda ik zo lang single ben geweest, ge hebt zo uw eigen gewoontes gekweekt en jah ik was de laatste jaren was ik echt wel enorm versaaid om het zo te zeggen dus euh…	3
+195	En ja dat is een spelleke eh tussen cipiers en tussen gedetineerden. Als je gepakt wordt, ja dan ist euhm… Als ik gepakt word, is het aan mij om die verantwoordelijkheid op te nemen eh.	1
+196	Is da ne tuktuk?	3
+197	Joa, ik ben een filmfreak zelfs. De dag dat ik opgepakt ben, had ik denk ik thuis iets van 900 dvd’s staan. Ze zijn uitgewreven, onze kasten.	3
+198	Ik krijg hier echt zo het gevoel van zo dit is echt het begin van het einde van de wereld.	1
+199	Ik kijk zelfs op immowebsites om gewoon bij mensen aan house perving te doen dus euh…	3
+2	Ja kvind wel spannend. Das zo ineens euh de vuurdoop.	2
+20	Bwa, ça va.	0
+200	Ik vond da wel hallucinant hoeveel heisa dat daarover was.	1
+201	Nee ik ben geen fan.	1
+202	Hoe dat die mensen leven das toch nie… das toch nie groot… das nog nie… das amper, nog nie zo groot of mijn tuinhuis. Int midden van euh… een vuilnisbelt of alé of… een metaalverwerkings… Zis hier zelfs gewoon bevallen van euh… Twee maanden geleden, oh man. Da is absurd gewoon.	5
+203	Ja superhecht, wij zijn gewoon… We zijn vaak echt zo als een hele roedel aan het…	0
+204	Ma tis nog nie te laat eh Wilfried. Vandaar da we deraan moeten werken. En we kunnen nie anders eh, we moeten da gewoon doen eh. Uw leven buiten moe terug op de rails gezet worden.	3
+205	Ik hoop dat het niet voor deze nacht is.	5
+206	Ah dus nie naar mijn cel ofwa? Oh ik snap nie, mevrouw, ik zou graag in mijn cel blijven ikke.	5
+207	Khad da gehoopt eh. Hehehehe. Ma zis eiglik vree snel in haar oude patroon hervallen, ja.	3
+208	Ik had echt nie verwacht dat ik zo geraakt zou zijn door dingen deze reis. Echt nie. Ma ik ben echt super-, super-, superblij en dankbaar da ik… Ik zie u ook wenen. Super-, superblij en dankbaar da ik, da ik mee ben gegaan op deze reis. Ik ga dit echt… Oh ik ben in clichés aant spreken ma ik ga dit echt nooit vergeten.	3
+209	Ja. Da zegt mijn mama wel altijd da ik mijn Afrikaans ritme nog heb.	3
+21	Kben een bitje emotioneel.	5
+210	Ik krijg er gewoon buikpijn van als ge dees moet doen zeg.	1
+211	Zo da. Ik wil iets doen. Ik wil iets doen. En das wel schoon eh.	3
+212	Hey Tamara, kben ekik hier eh. Ik heb euh eindelijk positief gekregen euh dus ik denk da wij elkaar wel heel snel gaan zien.	3
+213	Ja tuurlijk, het is men eigen schuld, maar ik vind het een beetje overdreven. Ik word in een club gepakt. Als ik een dealer zou zijn, zou ik zo’n stapel geld bij mij hebben. Dat had ik niet. Hoezo? Ik heb alles op mijn bankpas, omdat ik netjes werk. Zo.	1
+214	Ik voel mij heel goe bij Tim. Hij geeft mij echt een, een beschermend, gerust gevoel. Kverschiet er soms van hoe dak in deze fase al echt zo… Ja, mezelf kan zijn.	3
+215	Tis ne mooie auto.	3
+216	Toen ik hier vijf weken geleden bloednerveus op jou stond te wachten, had ekik nooit gedacht dat er zo een fantastische persoon door die deur ging komen.	4
+217	Geen idee. Ik ga er nu op duwen, sebiet trrrrr.	3
+218	Tis allemaal heel veel da ineens op u afkomt.	5
+219	Da mis ik enorm ja, da slapen in zijn armen. Dan zegt hij van: how, ge zij sterk. Nog twee weekskes, tis bijna gedaan. Love you.	4
+22	Ik ben geboren in een kapkar, lik da de cowboys vroeger. En euh daarin een bed of twee gemaakt. En wij slaapten daarin en moeder en vader van voren. En ’s morgens, tegen de morgen begint dat te vriezen. En dikwijls was ons slaapkleed daartegen bevroren en moesten we deraan trekken. Das ook geen leven eh.	5
+220	Ik zin nu koffie ant maken voor men celmaat die seffes naar hier komt. Dan ga ik hem een tas aanbieden eh, als welkom in de cel.	3
+221	Ik had da nie verwacht da ik zo elke keer zo, da gevoel van onrechtvaardigheid ging voelen. Bij Isham was da gewoon hoe dat die deed, en hier wast gewoon zo het verschil tussen man en vrouw. En dan staan dieje zo etwa, in mijnen ogen, echt bullshit te verkopen tegen ons. Ja…	1
+222	Ik voelde gewoon echt ja, de grond onder mijn voeten wegzakken. Da was zo ik ik ik… Ik ik kreeg ja euh… Ik voelde al… Kvoelde alles vollopen. Oh man toch.	5
+223	Nee, totaal… Ja. Nee eiglik, nee. Ge kunt echt nie inbeelden hoe dat er hier uitziet. Fuck. Das toch ook kei erg ik ben gewoon… Dak zo, ja… Eiglik gewoon aan het wenen ben vlak voor hun huis. Die moeten toch ook beseffen van amai hoe erg moeten wij da hier vinden? Oh ik snap da echt nie.	5
+224	Mijn speech gak in mijn binnenzak steken dak da zeker nie vergeet. Dan zijn we zeker?	2
+225	Het is nie zo simpel.	0
+226	Manneke toch.	3
+227	Ja, ik vind da echt nog wel chill. En het ding is, wij kunnen overal slapen. (wordt geraakt door een tak) Oh! Voila. Dus ik zie ons echt gewoon zo shiften doen en slapen.	3
+228	Maar ik voelde daar ook van ja, ma eiglik mis ik die nie genoeg en da was wel een heel jammer besef da ge zo die persoon nie genoeg mist op reis. En das wel… Ma ik vond da zo hard ook.	5
+229	Ik euh weet het eiglik nie.	0
+23	Ik doe da wel graag ja. Das één van mijn saaie bezigheden.	3
+230	Ik kant ma proberen eh.	5
+231	Kzie u graag.	4
+232	Ja waanzin gewoon. Waanzin. Al die kindjes en mensen die euh reiken naar u, echt die u willen aanraken euh… tis onwaarschijnlijk. 	3
+233	Superchill.	3
+234	Bij ma gaat da toch nog efkes duren maja.	5
+235	Zie je wa ik bedoel? Waarom geef je mij nu geen kans om met een uitgang… Waarom nie? Alé…	1
+236	Ik word nu gewaar: als het zeven jaar nie gewerkt heeft, waarom zou het nu op zeven maand ineens wel werken? Daar… Ik kan het nie geloven. Oké, tkan zijn da gundr nog een toverstokske hebt hier of daar, ma ik geloof er nie meer in.	5
+237	Men moeder deed leuren en kermissen. Ja een beetje van alles om rond te komen. Twaalf kinderen in een woonwagen, ge weet dat ook hoe dat dat is eh.	5
+238	Ja twas echt… Twas echt… Het plaatje was compleet. Het was echt zo… ja gewoon een keileuke sfeer, een keileuke euhm… man met heel veel humor.	3
+239	Kga da nooit vergeten, ma der zat iemand op een terras en ik kom daar me mijn man. Mooi weer, het terras zit vol, en die dame sta recht en roept zo van: hé, Aagje, tis hier beter dan in de bak eh? Zo… doef. Ik zo helemaal gegeneerd zo van, ja oei, nu gaat iedereen denken dat ik ook uit de gevangenis kom.	5
+24	Dit is wa ik wel verwacht had.	5
+240	Ik volgde hiervoor Crea, Spaanse les, maar er zijn nog andere workshops enzo. Als da mogelijk is, dan wil ik na verloop van tijd euh gewoon gaan wandelen.	0
+241	Tga nog een lang jaar worden jong. Pas op, voor mij gaat da hier moeilijk zijn. Ge komt in enen keer in een wereld terecht, waar dat er niemand nog zegt tegen mij “hé gij moogt da nie”. Daar moet ik ook nog mee leren omgaan eh. Ja kijk, ik word hier weeral kwaad.	5
+242	Het grappige is da mijn vrienden zeiden van tuurlijk ge zijt erbij. En ik nee nee nee. Amai, ja. Ja kvind vree wijs.	3
+243	Dus die verschillen ja die waren der van int begin. We merkten die ook wel ma… Ja die bleken dan toch iets zwaarder door te wegen dan dan ja dan ge dacht. En dan ja liep da toch nie zo goed eh.	5
+244	Ja Céleste was echt de kindermagneet eh op reis.	3
+245	Kwou dak mee kon.	5
+246	Ik heb tegen men eigen gezegd van, als ik dat ier nie kan zien sterven, als ik men eigen zo ga gedragen, dan vind ik da ik nie da recht heb om da te eten ook nie.	1
+247	Courage.	4
+248	Hallo. Dit is Joke. En Joke is een grote catch, want ze ziet er goe uit, ze kan goe koken, zis een prachtige, prachtige…	3
+249	Ik vond da heel mooi.	3
+25	Gelukkige verjaardag, Marie-Louise. Alé toe, kom al hier.	3
+250	Hele domme fout van mij. Ja ik geef het eerlijk toe. Maar ik vind gewoon dat ik overdreven gestraft word.	1
+251	Yes, ondergoed. Handdoeken. Ma Kkitsch toch of nie? Da vink er echt over, da bed.	3
+252	Ze zijn medu ant lachen Bessie.	3
+253	Dus tis eiglik verkeerd gelopen deze keer met euhm een gesprek in de cel die een beetje geëscaleerd is blijkbaar. En dan ister vastgesteld da jij een koffiekop in een sok wilde steken als slagwapen.	0
+254	Dees is zot. Letterlijk.	3
+255	Kga de tv afzetten.	0
+256	Ze maken een crimineel van mensen. Echt. Mensen komen binnen soms voor niks. Na een jaar, twee jaar ze komen buiten, onschuldig verklaard. Ze zijn alles kwijt: vrouw, kinderen, werk, dit dat. Wat moeten ze dan gaan doen? Wat moeten ze dan gaan doen? Negen van de tien tuurlijk gaan die het criminele pad op omdat ze geen uitweg meer zien. Dus ja, we zullen zien eh.	1
+257	Ja den openingsdans was euh vrij intiem, vrij fijn. Ja nie vrij, was gewoon heel fijn. Zelf om, om haar dicht tegen mij te hebben. Twas euh… tgaf mij een goed gevoel. Ja twas nen warme dans. Twas euh oprecht. Kdenk dat da het voornaamste was.	3
+258	Ewel girlpower.	3
+259	Twas wel zo en ze hebben mij ton opgepakt. Een beetje jammer wel, aja, ma tis beter dak der vanaf ben, want dan kan ik terug me mn leven beginnen eh.	3
+26	Eigenlijk was da verhoor gewoon voor slagen en verwondingen, maar ze zeiden ineens: ja tis iets anders geworden dusja... Da was wel efkes…	5
+260	O nee, ik ben bang. Ik ben echt bang.	2
+261	Ja zeker. Echt, het liefst wel.	1
+262	Ja nie lange. Maja, tis er wel geweest.	5
+263	Ik heb da nooit gehad. Twas wel efkes wennen toen dak hoorde dat die ja, wel een hondjen had en ja da we daar ook wel daar rekening mee moesten gaan houden.	2
+264	Want wij werden zo gehypet als hét koppel.	3
+265	Ge zijt kwaad, ge zijt verdrietig, ge voelt u machteloos, ge voelt u… goh moe, ge voelt u uitgeput ma mentaal, fysiek alé snap je? Ge staat daar zo en ge hebt nog geen halve euro verdiend. Die mensen staan daar elke dag zo. Zo nie weten wat de dag brengt, dag tot dag.	5
+266	Joehoe! Je bent al aan het afzien van het gewicht op uw rug.	3
+267	Ja. Ik word er ook echt zo wa stil van.	4
+268	Uiteindelijk ist veel leuker om euh… om uw leven te delen met iemand. En iemand gelukkig te kunnen maken. Dus we zijn begonnen aan het avontuur. En euhm… ja. Waar het gaat eindigen, da weten we nog nie. Ma deze dag was in ieder geval echt leuk.	4
+269	Den 31ste december zou kik verlof pakken.	0
+27	O Joke, die bloemekes!	3
+270	Eh ma wa toch onvoorstelbaar is, is da hun dochter dus ervoor zorgt da zij nog kunnen leven.	5
+271	Ik voel de hernia in menne rug al, echt waar. Ik heb geen plaats. Ik zit er me mijn knie tegen.	1
+272	Ja. Ja en nu is da eigenlijk twee maanden geschorst. Maja tis stom eh.	5
+273	Ohhhh, hebt ge da gezien?!	3
+274	De toekomst? Daar kijk ik nou niet naar. Nu ook, het contact met mijn vader dat is ook klaar. Dus…	1
+275	Das mijn 3D. Ge ziet het zelf eh, wa da ge hier allemaal zie gebeuren. Mensen da passeren, auto’s daar aan den overkant, mensen da komen tanken, achter brood. Der is altijd wel iets te zien, das dag en nacht hiere. Das es iets anders dan altijd op die vier muren kijken. Zie, das… Das precies of ge naar een aquarium kijkt. Ja maja.	3
+276	Ik ben gelukkig. Kben thuis.	3
+277	Das wel glamorous. Alé das echt… daar gade in schitteren. 	3
+278	Der is toch iets, iets aangewakkerd waarin ze zeggen van oke we kunnen der niets aan doen en we voelen toch da onrecht en… 	0
+279	Ohhh. Ja ge zijt daar ant wachten en elke minuut duurt gewoon uren. En euh… da zweet komt op, ge maakt u nog meer zenuwen. Da was gewoon doodgaan daar eh. Tmag gaan beginnen. Echt. Pff.	2
+28	Voorwaarden? Volgen. Voorwaarden nie volgen? Gevang.	1
+280	Ik zie da zo neig veranderen en ik loop daar nie in mee. Dus als ekik dan die 36 uur es buiten zij is da voor mij wel… Das heel anders, versta je? Ge kunt da moeilijk uitleggen.	5
+281	Go with the flow eh.	3
+282	Ja das moeilijk.	5
+283	Dus ge hebt echt iemand gevonden die bij mij past?	3
+284	Wa willen ze? Dak hier buitenga, een overval ga doen en het geld op tafel leg? Ja dan zik der van af.	1
+285	Da komde in België nie tegen zoiets. Echt nie.	1
+286	Oh. Oh da doe deugd.	3
+287	Eiglik zie kik da gewoon totaal nie zitn, zegt hij, vrijkomn.	0
+288	Da ga een avontuur worden, denk ik. Want euh… kdenk dak misschien mijne kop efkes onder et water ga steken ma echt zo een uitgebreide douche gaan ik hier nie nemen denk ik.	2
+289	Ik heb het totaal nie onder controle van euh... Tjah, ik denk dat ook logisch is. Tis zo spannend. Je weet totaal nie me wie je ga trouwen. Tis eigenlijk een heel onrealistisch gegeven.	2
+29	What the fuck is da voor ons?	3
+290	Ja ja ja. Ma ik vind het toch aan de andere kant… zo toch wel die zucht toen ik binnenkwam dat ik terug euh die modus van de gevangenis weer kon oppakken, want das eigenlijk wel het gemakkelijkste voor mij hier eh. Alé snapte wat ik bedoel?	5
+291	Ow. Volgens mij ebt ge hier echt wel zo geduld voor nodig en jah da heb ik nie.	1
+292	Goh ik denk da wij alle vijf fantastische vrouwen zijn dus we gaan sowieso op onze pootjes terechtkomen.	3
+293	Dak dan dacht zo oh das zo zonde. Want ik heb die wel supergraag.	5
+294	Ik denk nie da iemand wordt geboren en droomt ’s nachts over hier te komen zitten en te naaien. Da is onmogelijk. Tis geen leuk werk maar voor veel van die mensen hier is het werk.	1
+295	Doe da goed.	4
+296	Een van de andere activiteiten da ik regelmatig doe int weekend, is gaan wandelen int bos.	0
+297	Ik denk da, da Marie daar zelf een van de meeste als ons daar het meeste mee bezig is zelf. Ma ge toont da misschien nie zo hard.	0
+298	Ik kan nie zeggen dat ik het het mooiste hondenras vind dat er bestaat. Ik zou zelf eerder voor iets anders kiezen. Ma zis eiglik zo lelijk da ze zo schattig wordt.	3
+299	Over en weer stappen, schuppen. Ma dees is gewoon in de kak trappen met water.	1
+3	Als ik één dag werk in, in, in de horecazaak waar ik sta, dan verdien ik meer… dan verdien ik bijna 70 euro. En das hier een maandloon en 3 euro 75 wij draaien daar, wij komen daar ons bed nie voor uit eh. Da vind ik hallucinant.	1
+30	Ik vind da ranzig. Ik vind dees echt… Het ziet er echt nie smakelijk uit en wij hebben die gisteren gewoon levend uit zo’n pond moeten halen.	1
+300	 …en ik vind da zielig.	5
+301	En dan kunnen we ne keer een schone korte coupe laten inzetten.	3
+302	Ik zit nog nie echt terug in het vrijgezellenleven denk ik. Ik ben wel terug vrijgezel maar euhm… ja. Alles is nog maar net afgelopen dus tis eventjes terug rustig. Euh… Alles laten zijn gang gaan, het gewone leven terug oppikken eigenlijk.	5
+303	Ja ik ga het heel kort houden. Ik wil euh… Jolien bedanken om hier vandaag te zijn me mij. Ik ben aangenaam verrast. En ik hoop gewoon da iedereen hem ongelooflijk amuseert vandaag en we gaan er gewoon een feestje van maken.	3
+304	Allee maat. Zie zie zie zie zie. Buuuuh! Hou die es vast. Die is helemaal warm.	2
+305	Ik vind da supermoeilijk om te zien dat die mensen tzelfde zijn maar totaal andere levens hebben en da ge er eiglik weinig aan kunt doen. Vind ik superfrustrerend en ja kzit daar vaak aan te denken.	5
+306	Dan hoop ik echt dat da iet goe is ze, want als da slecht eten is, dan is mijn dag echt na de knoppen.	2
+307	Kijk daarnaar. Wat een droom is da hier.	3
+308	Ik weet nie waar ik ben. Verdwaald. Aan het schreeuwen bij de duisternis.	5
+309	Jamaja de middag… Tis vijf uur. De kwartierchef ga kijken voor al je gerief, daje al je gerief krijgt.	1
+31	Gezellig, met z’n allen door de stront stappen. Kakjob. Ze hebben hun twee netten al klaar. Ik word gewoon vermoeid van dat da zo saai is, maat. Tis precies die fabriek weer, jonge. Gisteren, we waren echt nog zo bezig. Echt bezig bezig. 	1
+310	Twee jaar vraagt ie al vo kreeft, kreeft. En dan pest hij mij alstie op verlof komt: nog gene kreeft? Nog gene kreeft? Ma nu had ik er van de week gehaald en ik zei hem da gisteren.	3
+311	Nu euh… beginnen de zenuwen toch wel toe te slaan dus euh… ik ga heel, heel content zijn als mijn getuige hier is dak euh een beetje afleiding heb, dak een beetje kan babbelen want euh… Het wordt euh, het wordt echt spannend.	2
+312	Oei, is hij zo slecht?	2
+313	O nee da gaat een hel zijn.	2
+314	Oh ik snap jullie nie. Nee, ikke totaal nie.	1
+315	Ja ,ik heb eigenlijk wel nog goe geslapen. Aangezien da, euh, de man hier ons hangmatten kwam geven. Dus we hebben daar dan gewoon in geslapen eigenlijk. En een heel klein beetje de wacht gehouden.	3
+316	Ja das moeilijk om euh ware liefde… Ma… Ja. Ik denk da wel, alsk gewoon naar u kijk dak kan zeggen van all right. Das mijn vrouw.	4
+317	Ik heb kippenvel, nee.	5
+318	Oke da is… Nah da ga na net ene te ver vo mij. Ge moogt mij men bed afpakken, men dak, legt mij in men bloot gat op de grond, prima. Ma pak mij, pak mennen sanitair, mennen sanitair da moe juust zijn.	1
+319	Fucking kankergedoe, man.	1
+32	Kunnen wij daar wel me zes binnen?	2
+320	Dees is letterlijk pure stront.	1
+321	Ma ik vind wel dat het mij afgaat.	3
+322	Here we go. Brrrr.	0
+323	Als dat hier markt is, durf ekik al gauw mij hier ne keer Chinees komen eten. Vroeger was da alleen maar een hamburgerkraam en ne wafelkraam eh. In ene keer passeer kik zo en kzien ik e Chinees staan en kreeg der direct euh, met dat te zien, goesting in.	3
+324	Kdenk dak euh… voor ons allemaal mag spreken dat het… dat da gewoon nie te vatten is en dat dat pure waanzin is.	2
+325	Tis hier zo vies en ongezond. En gevaarlijk en… die mensen leven tussen hun eigen afval. Hun toxic afval eigenlijk. En pfff… ahh. Kwist nie eens dat dit bestond.	5
+326	Stijn is iemand waarmee daje heel moeilijk ruzie mee kan maken. Hij zal conflicten eerder wa uit de weg gaan. Hij zal zich eerder wa zalvend opstellen.	3
+327	Het ontvangstcomité sta klaar ze.	0
+328	Oh allee da besta nie!	3
+329	Ja… J aik wist eiglik helemaal nie da ik zoiets had me kinderen voor deze reis. Kwist da echt nii van mezelf. Ma… hoe cliché het ook klinkt, als ge zo kinderen ziet, zie ge wel zo onschuldigheid en dan denkt ge van amai wij weten hoe erg gij het ga krijgen later ma gij weet da zelf nog nie.	5
+33	Ma had ik geweten van, moest ik echt nog ene keer gedronken…	5
+330	Da was een keitoffe dans ook.	3
+331	Ja, de vrouw was thuis. Hij is een beetje hees. Omda hij wa ziek is. Ma ik heb ook een leuke dag gehad. Kheb een vriendin gehad die langsgekomen is. Dus euhm…  We hebben een beetje kunnen bijpraten, een beetje kunnen roddelen over de Lenny. Hahaha nee nee.	3
+332	Das toch gene… gene koffie eh?	2
+333	Ja voila. Amai zeg.	3
+334	Oke. Film die broek. Asjeblieft.	3
+335	Vandaag begint ons avontuur. Ik ben zelf een beetje zenuwachtig om te zien hoe deze groep op elkaar zal reageren. Want het enige wat ze met elkaar gemeen hebben, is dat hun ouders bekend zijn.	2
+336	Doe uw hand es uit uw zak. Ah ja hij heeft zenne ring nog aan.	0
+337	Alé. Jongen. Proficat eh.	3
+338	Vent toch. Goh.	1
+339	Ik denk dat het bij Marie is euh… klinken of botsen denk ik. Vrees ik. Kdenk dat er niet een… dat er  gene tussenweg is nee. Ofwel gaat het klikken met iemand, ofwel botst het en dan botst het voor heel de tijd.	0
+34	Wauw, zelfgemaakt.	3
+340	Kweenie, kheb kheb eiglik niets verwacht. Gewoon omda… Kwist eiglik nie wa ik moest verwachten, kzalt zo zeggen. Redelijk, ja… chaotisch. Een beetje vuil. De mensen lopen hier lik allemaal zo vree netjes bij ma zo de huiskes enal zijn… zij lijken zo wa vervallen en onafgewerkt.	5
+341	Gij hebt schrik van honden heb ik gehoord.	0
+342	Nee, zeker niet, want ik zit hier nog steeds.	1
+343	Tis hier zo donker.	0
+344	Die z’n hart staat op de juiste plaats eh en ik eb gewoon zo iets van oke we moeten hier effe de balans zoeken. En dan gaat da wel terug goed komen.	3
+345	Amai. Wa voor beesten staan hier jong? Goh goh.	1
+346	Ik kan echt nie zo me mijn handen eten.	1
+347	Zo samen onder het dekentje. Voeten omhoog. Ik vond da best wel gezellig. Nee ik ben gelukkig. Ik ben echt gelukkig op dit moment. Ik kan da nie anders omschrijven dan da.	3
+348	What the fuck is daar mis mee? Tis tis ochtend eh. Ik heb mij net half aangekleed. Mijn T-shirt is nog van daarjuist.	1
+349	Ma ge zie nog altijd. Tis nen baas, tis nen slavendrijver.	1
+35	Ja we zullen ons best doen eh.	3
+350	Er moet meer zijn eh.	0
+351	Das gewoon omdat da goe uitkomt voor u.	0
+352	Ah dag Aagje. Content dak u zie.	3
+353	Ik vind da wel euh… ja raar.	2
+354	Kzeg kzin nog ma juust wakker.	1
+355	Iemand die kan dansen… das top eh.	3
+356	Tis moeilijker dan ik verwacht, want toen ik jong was, maakte ik soms zo wa kleren. Ik had ook een naaimachien, ma ik kan da precies nie meer.	5
+357	Ik heb ne T-shirt gekocht. Roze, fuchsia zo met ne paard.	3
+358	Ah schrijf ma na Brussel. Doe ma.	1
+359	Kvind eiglik jammer da, daje da nie nog meer mensen kunt… alé snapte? Dage da nie iedereen kunt, kunt laten doen.	5
+36	Goeiemorgen. Chef euh, mijn gsm, bankkaart en treinticket. Ik heb niks gekregen, ze hebben gezegd hier euh.	2
+360	Da sta mij geen beetje aan eh.	1
+361	Alé alles moet eigenlijk zo goe als op nul beginnen. Het zijn allemaal vraagtekens eh.	2
+362	Mijn excuses voor de laatste keer, want ik was zo effe overstuur geraakt, echt waar. Je had me iets meegegeven, en ik heb da eerlijk gezegd toen weggegooid.	2
+363	Iedereen hier op die stoel zegt van ik ga da nie meer doen wih kheb me lesje geleerd.	1
+364	Da blijft eh. Maar misschien… is het beter als rap gaat, voor hem.	5
+365	En wa, gaan wij da met ons handen moeten eten?	2
+366	Ja da zei de directrice al: ge komt bij een heel propere jongen te zitten.	3
+367	Schattig is ze wel. Die ga echt snel jong.	3
+368	Het bed is wel te kort vo mij. Ma ja…	1
+369	Ma ik denk als ik het nie zou zeggen, dat het toch misloopt. Alé, als ge da als ge da opstapelt, da heeft geen nut want… dan komen er alleen maar dingen bij en dan uiteindelijk dan gaat het toch nie meer lukken.	5
+37	Ja hoe kan ik het verwoorden ja? Ik euh ben nu eenmaal vroeger geen lieverdje geweest. Laat ons zeggen, in de ruigere milieus gezeten, alle dagen feest in plaats van werk.	0
+370	Khad nooit nie durven dromen da we al zo ver zouden staan al. Dus… ja. Kvind da heel plezant.	3
+371	Ge weet echt nie wa we gaan doen dus…	2
+372	Mijn schoenen vol met kak eh godverdomme.	1
+373	Wa is da allemaal? Wa is da?	3
+374	Ah neen, ma ge ziet er stralend uit dus…	0
+375	Ah gij. Wa een ramp zijt gij. Allemaal hetzelfde.	1
+376	Ik gan nog efkes over en twere na mijn huis moeten, kzin nog wa gerief vergeten gelik m’n stofzuiger bijvoorbeeld.	0
+377	Als er echt niemand is, dan wil ik da wel doen.	0
+378	Ik ben hier niet graag. Zoek Temse eens op op Google. Je gaat moorden euh je gaat alles krijgen. Je ga veel dinges vinden euh voor zo’n klein gehucht. Veel dingen. Hier zijn meer dealers dan drugsdinges euh gebruikers. Dus ja…	2
+379	Moeke compassie hebben?	1
+38	Mogen we gaan? Merci. Ik kan die straat hier nie meer zien, mensen. Ge weet nie wa dat da is, negen maanden in een kot zitten. En al doen hetgeen da ze zeggen.	5
+380	Ah shit. Ik wil da nie, ik wil nie wenen. Ma ja, da doe mij plezier da ze daarmee begaan is. Da is iets da ik nie zo ken van u.	3
+381	Ik zat er nu toch al acht maanden mee samen op cel. Je vertrouwt elkaar eh en nu is da terug ja… terug afwachten eh.	5
+382	Tzal wel zijn. Als er iets is da ik graag doe, ist da wel.	3
+383	Tuurlijk. Das het belangrijksten eh. Ma ja. Ge moet u geen zorgen maken. Ge weet toch da ik op mijn poten terechtkom. Ah voilà. Gaat het?	3
+384	Kheb zo soms het gevoel dak zo meer tot u wil doordringen maar…	0
+385	Ja ja, ik vind het nu wel frappant.	1
+386	Dat is confronterend he.	5
+387	Kheb absoluut het gevoel gehad dak moest bekomen. Kmoest men eigen terug wa zoeken, ik ben terug dingen beginnen doen euh… die mij gelukkig maken.	3
+388	Ik zou liever sterven dan hier te wonen, denk ik.	5
+389	We komen juust van Malaga, goe kleurke gepakt...	3
+39	Mag kik eerst uw dochter een kus geven?	3
+390	Ergens zie ik da gewoon totaal nie zitten zelfs, vrijkomen. Vo wa? Vo daar in de miserie te gaan zitten waar da ge door alle schuldeisers in ene keer tegelijk wordt aangevallen?	2
+391	Waaah. Maar ja. Ma mooi eh. Mooi. Kvind da goe da ge daar om kunt wenen.	3
+392	Twas heel leuk. We hebben ons echt heel goe geamuseerd. Mooi weer. Toffe dingen gedaan.	3
+393	Jullie zien er… Jullie zien eruit alsof jullie naar Saint Tropez gaan. Dag Beau. Dag Rani. Welkom.	3
+394	Oh, dus ze maken da hier. Hoe raar is da.	2
+395	Ma gullie bent da nie en das ook perfect in orde als ge allebei zo bent.	3
+396	Met die scheiding is da allemaal begonnen. Ik ben dan blijven drinken omwille van het feit dat ik ook geen onderdak had. Maar als ik weet dat ik euh terug in euh terug op de goede weg ben, dan denk ik toch nie dat ik in die problemen ga raken met alcohol.	0
+397	Ge hebt wel nog contact natuurlijk met die mensen af en toe daar. Da vink wel tof. Ik ben gisteren nog gebeld door Patricia. Echt om één uur ’s nachts dak terugstuurde van: Patricia ge moe mij nie bellen via uw telefoonrekening want da gaat keiduur zijn.	3
+398	Oh, godverdomme. Mannen da ga nie gaan ze. Zie, zie. We zien er echt superbon uit.	3
+399	Da zijn er veel ze maat. Ooit vind je de job van je leven. Het klinkt misschien raar he, maar als ik da zie heb ik daar echt wel zin in.	3
+4	Een baas is een baas he, die moet je respecteren. Maar de bazen hier, daar heb ik het wel toch moeilijk mee.	1
+40	Ik hoopte eigenlijk vooral da ze mij nie achter aan naaimachine zouden zetten, ja, ja… Ja, euh, daar heb ik mij efkes in vergist.	1
+400	Ja, ik heb ook koppijn. Ik zit echt ongelofelijk slecht.	5
+401	Ja kzin kwaad.	1
+402	Nee nee serieus, ma kben het echt stillekes moe. Ik zit nu binnen drie dagen vijf jaar binnen, voor een bitje dope.	1
+403	Tis nie middag eh mevrouw.	1
+404	Ik ben echt heel benieuwd.	3
+405	Ge hebt uw ouders meegebracht.	3
+406	Het leven gaat hier trager heb ik den indruk. Of nie?	0
+407	Vorige week wast euh… party party.	3
+408	Tot binnen drie weken schatteke. Ik zie u graag eh.	4
+409	Moet gij nog iet anders bij hebben om te drinken of nie?	0
+41	Das met die sportschoenen zeker, da ze zo rap gaat? Zijn da van Nike misschien? Ma zo’n…	3
+410	We zullen wel zien.	1
+411	Ik kom terug in de maatschappij en ik moe daar mijne draai terugvinden.	2
+412	Ja… Ge voelt da tot in uw tenen als moeder dat uw kind gegroeid is. En dat er een soort van maturiteit is ingegaan want er zit zo een ander zweemke in zo. Tis, het kind is eraf.	5
+413	Sommige stukskes zijn wel geniaal vinnik.	3
+414	Mensen begrijpen da soms nie als ik da soms vertel van “ik zal blij zijn als ik sebiet terug op mijne cel zit”. Ik heb da soms. Als het er echt op aankomt, dan zit ekik der nie mee in van in in de gevangenis te zitten.	3
+415	Nee. Eiglik nie. Nja… Dat is leuk voor een uurtje, twee uur, maar om dees elken dag heel den dag te doen…	5
+416	Waarom moeten die mannen toch altijd op die vrouwen wachten?	3
+417	Kheb hem gezien alstie bijna achttien was, ja in de jeugdrechtbank. Da was echt heel raar, want aleja… ik wou van alles zeggen tegen hem, ik was zo supernerveus. En die pleegouders waren daar bij en ik voelde mij zo onwennig. Uiteindelijk heb kik gewoon naast hem gezeten en wij hebben gewoonweg niets tegen mekaar gezegd dus das raar, das echt. In mn binnenste hoop ik wel datie terug contact me mij gaat opnemen.	5
+418	Oh my god. Ik ga binnen dit en een aantal uur trouwen. Oh! Zot.	3
+419	Het is te hopen dat een hele generatie zo is.	3
+42	U ziet het, dames en heren, de sfeer zit er heel goed in.	3
+420	Kga sebiet alles bezorgen daje nodig hebt vo te kuisen.	0
+421	Jaaa!	3
+422	Voor die transfer, das het best dak direct bij die directie waarschijnlijk een afspraak maak?	0
+423	Waar is de bel? Hier.	0
+424	Oh das ne moeilijke, ah. Ik heb ne fijne dochter.	4
+425	Da was me eigenlijk nie opgevallen dat die zo wegdraait.	0
+426	Nee. Maja bij Seba ben ik goe eh alé. Daar istr geen drugs ofzo eh. Seba is heel clean eh.	3
+427	Pff marteling.	5
+428	Meen je da? Oh man. Ge zou het mij geen twee keer moeten vragen.	3
+429	Ik kom uit arm gezin, dus ik weet euh… Leven zonder geld en met geld is euh is wel een verschil. En ik verkies euh toch leven met geld.	5
+43	Nee nee nee nee nee. Zijde ant zwanzen ofwa?	2
+430	Nee zot. Zot.	3
+431	Ik ken het, De Schreeuw. Het is precies mijn leven.	5
+432	Mag ik iets aanvullen? Ik vinnet een groep die elkaar perfect aanvult, vind ik. Als we samen zijn, ist zo perfect een balans zo. Der is niemand waarvan da ik zeg “Gij zijt nu een doodnormale mens”. We zijn allemaal een beetje getikt in ons hoofd en da is superzalig gewoon en ik vind echt…	4
+433	Ik kijk er wel enorm naar uit om te gaan trouwen ma ook gewoon om eindelijk te weten wie dat da is. Aan wie hebben die mij gematcht? Wa lijkt de weteschap dan het juiste te zijn? Dus da vink wel vree spannend.	3
+434	Ja. Ik heb toch altijd gezegd? Britt je zijt een luxegriet. Ge ge kunt soms hemel en aarde bewegen omda ge nie de juiste kleur nagellak vindt ofzo iets. Of van oei der is een euh een punt van mijn nagellak oeh mama. Da ik denk van wa zever. Wa maakt da nu uit dat er daar een vinger een bikke geabimeerd is van uw nagellak?	1
+435	Ik wens u veel sterkte.	3
+436	Ohh. Mmmmm. Ziet er heel goe uit.	3
+437	Amai. Alé vertel eki, want kben heel nieuwsgierig. Kzou eiglik moeten boos zijn op je.	3
+438	Want ik kom pas van Hoogstraten, dus daarmee. Kheb daar ook nen helen hoop achtergelaten.	0
+439	Da was gewoon zo, ja mama tis goed oke.	1
+44	Ja soms word ik daar een bitje emo van.	0
+440	Ik vind da ambetant tegenover die mensen da wij hier zo… zijn en zo… lachen en werken eno.	5
+441	Sowieso, gelijk wat er gebeurt, binnen 16 maanden gaat die deur hier open.	0
+442	Als je dan opt einde van uw dag ziet waarvoor daje een helen dag gewerkt hebt en dan trek je die lijn gewoon door eh. Ge trekt die lijn dan door van die mensen die da elken dag…	5
+443	Ik heb hem al gesproken. Alles. Die is hartstikke kwaad, gelijk telefoon opgehangen en noem maar op. En ik weet hoe die is, dat als hij iets zegt, dan meent die da. Dus ik bedoel maar, die rechter nu hij heeft echt een heleboel dingen voor mij verpest.	1
+444	Vrouwen 900? Man, man, man, dat wordt hier alleen maar erger en erger.	1
+445	Het is gewoon twee keer hetzelfde. Het is juust hetzelfde als de vorige keer. Gewoon geen respect. Dat is nu het tweede wat we gaan doen en voor de tweede keer is er geen respect tussen werkgever en werknemer.	1
+446	Ge zij van de Limburg?	0
+447	Gij moogt huppelen. Ik ga gewoon wandelen.	0
+448	Kweenie hoe dat komt ma ik slaap meestal dichtst tegen de deur.	3
+449	Mama Afrika, zeiden ze. Wacht ik zei Mosuse en dan… We waren daar over bezig en dan aaah Mosuse en dan… Jaja, ik was er trots op, kheb da gezegd eh.	3
+45	Op den duur voelde u schuldig of voelde u slecht of denkte van ja hebben we dan toch nie alles geprobeerd? Terwijl da ge eigenlijk zo iets hebt van, we hebben alles geprobeerd. We hebben nie nog meer kunnen doen en en… Ma ik vind da wel een moeilijken.	5
+450	Ik zin opgevoed door stiefvaders en ik heb meer slaag gehad als eten.	5
+451	Kzou mezelf omschrijven als iemand die euhm… die vrolijk is, die open is, die graag bezig is.	3
+452	Çavakes, Jef? Tzonneke schijnt eh.	3
+453	Eh zotte doos. Das flink eh.	3
+454	Ik ga bij mijn zuster gaan eten. Mijn petekind komt, dak al vijf jaar nie meer heb gezien. Die komt een nieuwsjaarbrief voorlezen voor mij. De eerste keer in negen jaar. Kga der wa… Kga beginnen wenen enal ik ken men eigen.	3
+455	Das toch onwaarschijnlijk?	3
+456	Kheb nog iets ze. Een vers fleske voor ons eerste week.	3
+457	Jullie zie jundr hier al liggen in zo’n huiske ofwa?	2
+458	O kut.	5
+459	En sindsdien zijn wij altijd op zoek naar onze tweede helft, ons betere helft, en ik hoop dak mijn tweede helft hier naast mij gevonden heb.	4
+46	Ik vind da gewoon leuk om daarmee te spelen enzo. En die stellen ook nie nie te veel vragen enzo dus das zo gewoon zo een beetje spelen en kdenk dat da mij ook gewoon wa gelukkig maakt om die kinderen zo wa blij te maken.	3
+460	Mmm. Echt lekker.	3
+461	Das kapotgaan jong.	2
+462	Ja. Kvind het spannend want ge weet nie wa ge moe verwachten.	2
+463	Das schoon om te horen ja.	3
+464	Op ons nieuw leven.	3
+465	Goe uitgelegd.	3
+466	Ik heb hier een pakketje af te leveren. Hahaha.	3
+467	Ik kan nie meer, Aagje. Ik kan nie meer. Ik zou toch ne keer willen naar huis gaan vo men kindern.	5
+468	Da was wel leuk eh? Veel tijd voor elkaar gemaakt.	3
+469	Kben blij dak u zie, man.	3
+47	Da was wel heel belangrijk voor mij, dat hij daar was. Een vader die zijn dochter eigenlijk afgeeft, das een heel speciaal moment.	4
+470	Kheb je altijd graag gehad, ma je moe nie zitten liegen. Groetjes thuis, tis wel.	1
+471	Alé, zitten wij hier nu alletwee te janken. Ma stop.	5
+472	Die waren echt gewoon geïnteresseerd in ons leven en die wouden ons ook dingen bijleren. En gewoon die drie dagen bij die familie was gewoon super.	3
+473	En dan ook nog es, waarom try? Die geeft hier iedereen cash, gewoon zwart. Die haalt da zo uit zn zakske “here, for you”. Doe der honderd euro bij en het is opgelost.	1
+474	Ma mijn vader zit ook nog altijd in Leuven. Mijn vader ging daar ook es met de directrice praten da zij ook eventueel niks kost doen. Dus ik hoop wel dak geluk heb.	3
+475	Allee, da zo in het panneke, wa looksaus. Hmm.	3
+476	Ja ma ik ben heel goed in tekenen enzo. Mijn hele lijf sta vol, da heb ik allemaal zelf gezet eh. Hier heb ik euh 90 euro betaald.	3
+477	Nin, maja how… Ge hebt wel zo het leven geleid opt randje eh, der af en toe eh zo…	2
+478	Ja leuk zicht eh.	3
+479	Ik weet echt nie hoe da komt, da was… hoe da komt. Ik ben inderdaad ja…	5
+48	Aaaah! Kak!	2
+480	Ja ma ik weet gewoon nie wa ik moe verwachten. Alé ik heb geen verwachtingen. Ik weet het gewoon nie. Kheb zoiets van…	3
+481	Ik vind da wel schoon dat da zo gegroeid is. Ge zijt zo echt begonnen als vrienden.	0
+482	Ik denk da gij ne makkelijke mens zijt zolang da de dingen gaan zoals da gij denkt da ze moeten gaan. Maar als dingen nie gaan zoals da ga, dan zijde gij dus da konijn. Da frusti konijn.	3
+483	Ewel. Maar dat is nie van mij alleen eh, Marie-Louiseke. Dat is van ons allemaal, da wete eh.	5
+484	Nee, ik wil daar nie aan denken.	3
+485	Het goeie da moeten we zelf maken.	3
+486	Ja. Ej gij in Gent gezeten? Ja eh? Ik ken u van Gent.	3
+487	Mijn oksels rieken altijd fris.	3
+488	Oh. Romantische boswandeling.	0
+489	Ja, mijn mama is zelf op vakantie. En mijn papa heeft mij afgezet.	1
+49	Ik begrijp dat, maar wa ik dan nie begrijp is da ge thuiskomt en dan wel ne filet pur bestelt.	5
+490	Ja ik denk nie da bij ons het fysieke een probleem is geweest. Wij hebben da een kans gegeven. Ma der zijn andere zaken die derbij kwamen die… die nie liepen zoals dat het zou moeten lopen, dus. Ma ik denk nie dat het fysieke bij ons het probleem was.	0
+491	Ik vind nie dat da zo… zo’n drama is eh. Kijk ik had een beetje behoefte aan seks, maar inderdaad, je kunt behoefte hebben aan seks ma da wil nog nie zeggen da ge nie op tijd kunt komen.	3
+492	Zij is euh goedlachs, een bezig bijtje, een vat vol energie.	5
+493	Das gelijk een soort menselijke recyclagefabriek. Alé die mensen leven van ons afval, alé snapte? Van ons, wa da wij, wa bij ons nie meer werkt. Kapotte wasmachien, kapotte tv, daar leven die mensen van eh. Die halen da allemaal uit mekaar. Das toch zot? En die leven daarvoor hier op zo een euh… op zo’n vuil, man toch.	3
+494	Alé, ik wens u veel succes.	4
+495	Beste vrienden en familie, lieve mensen allemaal, ik wil jullie allemaal heel hard bedanken da jullie euh er vandaag bij zin wanneer da Joke en ik aan ons groot avontuur beginnen. Zonder jullie steun hadden we hier waarschijnlijk nie gestaan.	1
+496	Wij zijn niet gewoon om zo behandeld te worden he en ik pik da, ik pik da nie. Het belangrijkste voor mij in de hele wereld is respect. Als je mij respect toont, dan doe ik alles.	5
+497	Er lopen hier ook jonge mensen rond, maar ook hele oude mensen. En dan vraagt ge u af hoe hard dat die eigenlijk, misschien deronderdoor zijn aant gaan nie want die mensen zijn da gewoon. Maar hoeveel, ja, rugpijn, moeheid, zo concentratie, verveling dat die mensen moeten doorstaan om hier hun hele leven misschien wel te werken.	3
+498	Ik heb menne toekomstige omgedoopt tot Hugo omdat die cocktail echt heel lekker is dus ik ga dervan uit dat m’n toekomstige man… ja heel lekker is klinkt misschien een beetje stom. Ma wel echt ne hele toffe man gaat zijn ja.	5
+499	De gang is zo lang eh, en hij valt om naar de toilet te gaan.	1
+5	Wat ben je allemaal aan het doen? Hoe behandelt gij uw mensen? En dan word ik daar kwaad van en reageer ik soms wel heel explosief. 	1
+50	Oh wa moe ik doen met die vent? Ma echt waar.	3
+500	Kom hier. Tga wel lukken. Khen der alle vertrouwen in. Zeg, stel het wel eh.	3
+501	Nee ma wij gingen in da bed liggen, we zijn beginnen babbelen en… blijven babbelen. 	3
+502	Ah maar alé, kwist ekik da nie. Ma zeg. Kijk, kga je straks je kaartje ook geven.	0
+503	Ge kunt sebiet douchen.	2
+504	Nu begint het wel toch echt door te dringen da… ja da mijn leven binnen enkele weken nie meer hetzelfde zal uitzien. Of toch alleszins nie meer hoe dat nu is. Tzal wel wa, tga gewoon een verandering zijn eh, kga getrouwd zijn euh… Hopelijk gelukkig getrouwd.	2
+505	Ja, eiglik nie ze. Ma kmoet u es iets zeggen. Kheb een tuchtrapport gehad eh omdat ik een celfouillage gehad heb en een lichaamsfouille. Euh ja dan hebben ze een attribuut gevonden eigenlijk. Met nu dus als gevolg: normaal had ekik nieuw verlof ergens eind juli.	3
+506	Ik vind mijn eigen der echt wel chic uitzien nu.	4
+507	Ik zalt zo zeggen, dus da we heel blij zijn met die mooie, lieve woorden van jullie en da we gewoon verder gaan doen zoals we bezig zijn en en… Ja. We gaan ons best nog doen eh. Alé kom es hier.	1
+508	Nee? Ewel dan laat ge me hier tot einde van straf. Is da goed? Zijt ge dan content? Dan kunt ge nog ene drinken op mijn kosten.	1
+509	Die mens, die is goed zot. Echt, volgens mij is die een keer in zijn kreeftenvijverke gevallen en op zijn kop gevallen, echt waar. Goh, allee, hoe kunde nu zo boertig zijn?	1
+51	Ik krijg weer commentaar op mijn kledingstijl.	0
+510	Gij had een briefje geschreven voor uw verlof vast te leggen.	3
+511	Ge kunt hier eten van de grond, zeggen ze.	3
+512	Constant een smile op mijn gezicht. Ik weet nog da ik na tien minuten zei tegen mezelf van: amai mijn kaken doen pijn van heel de tijd zo te lachen.	1
+513	Mannen! Shrimp from Sri Lanka. No good eh. Warm in de zon. Dood. Zo rot als maar zijn kan eh. Echt waar. Fret da nie op thuis, denkt es goe na. En wij hebben daar gisteren van zitten smullen eh.	3
+514	Ik moet zeggen, Franse bulldogs, das nie echt mijne meest favorieten hond van uitzicht. Ma das zo een schattig beestje, das zo’n lief beestje da… Kwas der direct mee weg.	5
+515	Ja das das kut als ge hier dan zit eh… amai. En kijkte graag films?	3
+516	Kheb wa fotootjes mee? Magk?	5
+517	Ik ben wekelijks twee, drie keer naar buiten geweest. Van zes uur ’s morgens tot acht uur ’s avonds. Ik ben nog maar één keer te laat gekomen, omdat de trein niet kom van euh Antwerpen. Maar alles is om zeep.	1
+518	Aja voila. En tis ook gelukt eh. Sorry wih ma, how, kheb het je de vorige keer al gezegd eh.	3
+519	Jah. Zoiets raar eh eten met uw handen. En die kneden da zo in hun handen.	0
+52	Kging me mn verjaardag, en ton e meisje leren kennen, dan de jacuzzi weet je wel. In de jacuzzi een glaasje cava ma nie overdreven, echt nie. Twas 0,18 toen dak blaasde. Echt belachelijk.	3
+520	Maar eiglik ga ik aan Paulien iets anders vertellen, waar da ze nog helemaal niets van weet. Namelijk dakik ga meedoen aan Blind Getrouwd.	0
+521	Euh ja da valt nog af te wachten, tis te zien, ma ça va. Tzal in ieder geval beter zijn als hier. En wa gade gij doen?	3
+522	Bye. Tot nooit meer.	1
+523	Ja dat ben ik nou kwijt, dat ben ik nou kwijt dusja we gaan wel zien hoe het afloopt. Al geeft ie me een jaar, twee jaar, het maakt me niks uit. Het maakt me echt niks uit. Het maakt me echt nie uit.	3
+524	Komt wel goe. We gaan vertrekken, jong.	3
+525	Neje, er is zelfs bij gekomen. Een beetje eten afgelegd voor vandenavond nog. Moeste nog wa honger hebben.	5
+526	Ik vind da vies…	0
+527	Oké ma we gaan zorgen daje nog kunt douchen en uw tanden poetsen, daje proper bent.	5
+528	Nja, das wel ook wa moeilijk.	0
+529	Ik ga zeker en vast nie meer weglopen. Ik kan nie meer.	0
+53	Die drie kleinsten, da waren kuikentjes.	3
+530	Ja kzin nog es na de markt geweest. Kheb daar nog ne klapke gedaan eh.	3
+531	We gaan zien wa dat er uit komt en hopelijk euh wie weet mijn droomprins.	1
+532	Ik vond het een beetje over de top. Alé, een beetje veel eigenlijk. Ook de agressie da ge gebruikt naar de bewaking toe. Ik heb van u toch…	1
+533	Ah oei, je lag te slapen. Oh sorry, je siësta onderbroken.	0
+534	Kdenk dat da goed is dat da besef daar wel is ook eh. Zo van oke, tga nodig zijn om om misschien wa meer na elkaar te openen. Hoe denk je da jullie da zouden kunnen doen? Euh daar om daarin te groeien?	2
+535	Ma grote straffen is da nie meestal Oudenaarde, Leuven enzo?	3
+536	Ma zeg.	5
+537	Als je bijna één derde van je leven in de gevangenis hebt gezeten, dan dan… dan kunde da alleen maar op die manier zien eh. Das altijd aftellen eh.	2
+538	Da wordt dus nie… Da ga gewoon rechtstreeks naar de grond eh.	5
+539	Kinderen uitbuiten. Letterlijk.	3
+54	Ik had da echt zelf ook zo echt een wauw-gevoel. Twaren zo alle puzzeltjes die bij elkaar en in elkaar vielen en… Ik ben er zeker van dat het een goeie eerste indruk gaat zijn. Kben er echt zo blij mee. Tis echt fantastisch gewoon.	1
+540	Jaaaaaaah. Gohhhh.	5
+541	Ik kan mij nie inbeelden da ge hier zwanger zijt, negen maanden lang. Ik kan mij nie inbeelden da ge hier bevalt. Waarom… Fuck. Ik kan mij, ik kan mij vooral nie inbeelden da ge hier uw kind kunt laten opgroeien. Da vinnik echt… Da vinnik echt verschrikkelijk da kan ik mij nie inbeelden da ge hier uw kind groot laat worden. Fuck.	0
+542	Ik eet graag vlaai. Ik eet graag cake.	3
+543	Ah zis weer ant lachen ze.	0
+544	Wij hebben da wel dat hij zo soort van… rechtvaardigheidsgevoel heeft. Dan vertrekt veel uit em. En misschien soms problemen om om om da te kanaliseren dan wordt hij gewoon boos.	0
+545	Er ligt wel nog geen matras ma we gaan er direct ene brengen hoor.	1
+546	Ik vond da supermoeilijk. Ohhh.	1
+547	Ja ik zit shrimp te maken drie dagen lang en ik zeg ik ga geen shrimps meer eten. Ik vond ook gewoon, ja eh, die beestjes hebben daar wel gezwommen in die pond en kvond tof en al he ma… we hebben ze der wel, we hebben ze der wel echt laten… uit het water gehaald enal.	2
+548	Daarjuist wel echt. Toen daze het mij vertelden wast echt oeh zweten. Echt. Alé ge verwacht er u wel aan ma toch… - Tis wel efkes aankomen.	5
+549	Ik ben geen goeie mama want ik ben zonder mijn kindje nu. Maar ik heb fout gemaakt, het is normaal dat ik ben gestraft eh.	1
+55	Ik vind dit geen goudmijn hoor.	0
+550	Ik denk daje heel snel in je oude routine terechtkomt. Wa ook nie slecht is.	3
+551	Das echt leuk om haar terug te zien en da zijn geen wrange of bittere gevoelens, alé of ja gevoelens nie meer achteraf wanneer dak dan wegga van haar. Van alé, thad hier zo kunnen zijn of of kzou die echt nog terug willen. Nja das nee das das gedaan eiglik nu.	3
+552	Dank u. Tzal wel in orde zijn zeker. Alé, goei feesten.	2
+553	Oke. Jah tis nie veel ze. Kben eiglik gewoon vooral bang dage ebt zo van “oh ist dees maar?”.	3
+554	Ik ben blij. Ja kben echt blij. Blijkbaar willen ze haar een kans geven. Das altijd leuk, als we mensen kunnen op de rails krijgen. Daarvoor doen we het.	5
+555	Ik zit me altijd af te vragen: Had ik in Limburg gebleven, dan was dat eigenlijk niet zo ver gekomen. Ik heb mijn familie teleurgesteld. Ja dan begin je toch wel te denken.	1
+556	… das fucked up he. Als gij kwikdampen zit in te ademen, dan wordt gij loemp in uwe kop he.	1
+557	Nja, ma kvoel nie veel motivatie. En gisteren, dat is in mijn ogen puur onrecht, he. En dan, ja, het feit, toen da we zeiden van “kun je der nie iets aan doen?”, “yes, yes, next time”. Ma das nie waar.	2
+558	Nu is het toch wel effe… Ik voelde het echt, kwas echt aan het trillen op m’n benen. Ja dan was het fysiek echt zo duidelijk van ik heb hier wel stress en… het is aanwezig. Goh.	5
+559	Juah.	3
+56	In de gevangenis van Beveren ik heb zo met strepen over strepen zelf zo’n Picasso-shitachtige ding gemaakt.	0
+560	Ja, ik vind da wel belangrijk da iemand weet wat die wil.	5
+561	Ik denk dat dees heel zwaar werk is omda… Tis dag in dag uit, zeven op zeven, voor de rest van hun leven. Das heel gek. Ma ze doen het. Hoe weet ik nie. Ja survival eh. Pure survival.	2
+562	Da gaat een beetje wennen zijn van hem ’s avonds pas laat te zien. Maar uiteindelijk was ik voordien ook alleen ’s avonds. Tgaat gewoon een beetje een ander ritme worden ma kdenk da we daar wel een goeie evenwicht in kunnen vinden. Euh maja, we zullen het moeten zien eh. Kweet het nog nie hoe da, wa dat het ga geven.	3
+563	En ik passeer sebiet al twee brievenbussen waardak kaartjes voor mee heb. Zo spaar ik twee postzegels uit eh.	3
+564	Bij mij was da ook wel op het moment da… Wij stonden op alé één van de kliffen in de natuur en dan voel ik mij echt wel op mijn gemak. Khad dan ook, alé wij hadden dan ook gewandeld, alé zonder dat da… Want de eersten dag woude gij da nie.	0
+565	Die vloer is hier zacht ook.	3
+566	Ja ik heb ook een knuffel in mijn bed liggen hoor. Een eland. Moosy. Lekker… Lekker creatief.	3
+567	Doe da goed eh.	3
+568	Das hier super in orde.	0
+569	Want we moeten een beetje opletten wa dawe dermee doen. De sociale dienst die komt op huisbezoek. Alé zij kan eigenlijk langskomen volgende week woensdagvoormiddag.	1
+57	Boeit mij geen hol. Het kan me helemaal niks schelen of die mij aant uitlachen zijn. Het boeit mij niks. Ik begin zo al zo… breindood te worden dak zo nie doorheb me wa ik aant werken ben en ineens besef ik het weer zo.	3
+570	Ja, ik heb daar echt zin in. Da ziet er zo lekker uit.	1
+571	Ik kan nie, alé, kheb nie graag dak iets nie goe kan. Zo da.	0
+572	Ik ga op mijnen trouw gene show verkopen. Ik moet ne, ik moet ne goeie eerste indruk nalaten.	1
+573	Ah fucking garnalen.	3
+574	Amai, mannen, da wordt gezellig vanavond denk ik.	2
+575	Ik ben bang.	0
+576	Hashtag still married.	5
+577	Tis moeilijk eh ma eigenlijk op zich, die straf enzo… Van mij moogde mij steken en de sleutel weggooien. Ik heb het gewoon moeilijk met die feiten, alé… Das…	3
+578	Kheb echt een supertoffe tijd gehad de voorbije vijf weken en ja khad het met niemand anders willen beleven.	5
+579	Ik denk dat da ook heel regelmatig nie zo is, ze. Ik begrijp, der is altijd ongelijkheid overal in de wereld, maar het is hier nog altijd heel extreem, vind ik.	5
+58	Ja ma das nie waar. Das nie waar, Aagje. Ik heb da nie. Ik heb da nie. Kwil nie hebben da mn kinderen gewezen werden. Of da ze zeiden “wa heeft de die daar aan?” Kwil hebben da ze proper waren. Ma ook de luxe nie eh. Da was vo mij proper en da was ook al.	3
+580	En hier op men arm zijn er Chinese letters. Dan heb ik een hele grote tribal staan. Dien is half afgewerkt, want dan hebben ze mij opgepakt.	2
+581	Ma wij gaan dus wel effectief aan zo’n machien moeten zitten eh, voor alle duidelijkheid.	2
+582	Ik kom uit een gevangenissysteem van lange jaren…	2
+583	Kdenk als da zo’n driehoekske ga zijn, dat dat da zo ga breken.	0
+584	Wat Leny zoekt in een vrouw, is een vrouw met pit, euh een ondernemende vrouw die passioneel in het leven staat. Dus euh absoluut geen thuiszitter, denk ik. Euh daar zal hij niet wild van worden.	5
+585	Da kan hier toch geen gezonde leefomgeving zijn?	0
+586	Joke is een echte Gentse charmante vrouw. Is euh 31 jaar en geeft les in een Gentse school.	1
+587	Nee. Aaaah kak! Dit vergt zo veel concentratie en ik kan mij sowieso nie zo goe concentreren. Trager, trager, trager, trager. Ik denk dat da nog efkes ga duren tegen da ik na de… na de euh na de stoffen lappen over mag.	4
+588	Zowel voor mij als voor haar is dit nie evident. En euh… ik ga echt gewoon haar op de juiste momenten die aandacht geven da ze verdient absoluut.	0
+589	Ik heb nie zo’n probleem met de baas als jullie.	0
+59	Ja witte dinges… Gij zit de beauty en ik ben nog steeds de beast en ik denk nie dat da snel ga veranderen.	5
+590	Tis, het is… Ge kunt da bijna nie vatten da ge als ge thuis zit rustig in uwe zetel dingen ant doen, wa studeren, ge leeft uw leven. En ondertussen is dees hier gaande.	3
+591	Zotjes. All right.	4
+592	Ge zijt het grootste cliché da ik heb meegenomen gewoon, maar wel en fantastisch cliché dus.	5
+593	Ja ik denk het wel. Ksnap da ook wel en kheb da ook wel gemerkt toen wij daar afscheid moesten nemen van die mensen dat die da wel… Ik heb dat toen ook gemerkt dat da voor hen ook wel een een mooie belevenis was.	3
+594	Tegen morgen komen wij daar aan zo tshhhh we zullen es laten zien hoe dat moet! Hupla!	3
+595	Ik zou graag deelnemen aan gemeenschappelijke activiteiten.	1
+596	Nu euh tien voor acht? We zijn te vroeg. Ge zijt te vroeg, dan nog moet je wachten eh. Ben je te laat, moet je nog wachten.	1
+597	Ja, tuurlijk. Ik kan daar geen respect voor tonen voor zo iemand. Oke, wij kennen zijn achtergrondverhaal misschien nie, maar op da moment, hoe dat ie toen bezig was… Ge moet respect verdienen ook eh.	5
+598	Der is heel veel veranderd ze op zeven jaar, kzweer het ze amai. Ma als da hier vol loopt, gade mij hier nie gauw zien ze. Ik kan nie tegen die drukte.	5
+599	Kmis hem ook nog alle dagen. Hij wil momenteel geen contact me mij. Kdenk datie ja… vooral teleurgesteld is, misschien ook wel kwaad op mij.	3
+6	De vorige keer dak hier zaten, zi kik eiglik juist een relatie beëindigd met iemand. En nu ben ik terug samen met die jongen, wa da eiglik heel positief is in mn leven, want das echt iemand da nie gebruikt, dat echt van me houdt. En hij heeft me ook ten huwelijk gevraagd met Valentijn, dus ik heb goeie toekomstplannen.	5
+60	Ik denk dat ik het gisteren wel leuk had gevonden om dit te doen, maar vandaag… Dat ik moe ben en dat ik hier fysieke arbeid moet leveren, dat waarschijnlijk is wat me tegensteekt. Euhm… Kweenie. We zijn allemaal moe, ma niemand zegt echt iets. We zijn heel stil. Ik heb ook geen zin om te babbelen vandaag.	0
+600	Ja. Kvind da een goe antwoord.	3
+601	Kwas eten ant maken en hij had eigenlijk een boeket bloemen mee vo mij. In ene keer, achter het eten, kwam die in ene keer op zn knieën zitten azo, terwijl dak in de zetel zat, met zo da doosje, en vroegtie aan mij vo te trouwen.	1
+602	Laat ze maar ne keer zelf in die zelfste situatie staan.	1
+603	Wa zijde allemaal ant doen? Hoe behandelde gij uw mensen? En dan word ik daar kwaad van en dan reageer ik soms misschien wel heel explosief.	2
+604	Beetje zenuwachtig.	4
+605	Doe gie ma. Al mn kinderen kwamen van boven af en die pakten me vast, die lieten me nie meer los.	0
+606	Ik heb een klein operatieke aan m’n oog gehad dus ik moet effe een bril opzetten eh, oke?	3
+607	Ga je dermee lachen? Tzin wel schoontjes. Tzin nieuwe van met de solden, min vijftig. Moeje ze keer aandoen?	3
+608	Kzou graag een persoon hebben waar dak mijn leven mee kan delen. Dak iemand kan hebben da mijn klankbord is. Zo een beetje ne soulmate waar dak alles mee kan doen. 	4
+609	Ja. Jaa, khad echt met niemand anders in de stront willen gaan staan. 	3
+61	Dus ik wil euh graag echt nog alles deraan doen om me u der een schone toekomst van te maken.	0
+610	Ik vraag me heel hard af hoe ik nu ga kopen als ik terug in Antwerpen ben, want ik koop echt bij de multinationals.	2
+611	Oh ma da ga echt raar zijn. Da gaat raar zijn.	4
+612	Kheb u keihard gemist gewoon. Das echt.	0
+613	Ik wil het uur aanpassen wanneer da je vertrokken bent, da wil ik wel doen.	1
+614	Op het laatste zijt ge u eigen nie meer eh.	3
+615	Ik zie die dag echt al helemaal voor mij. Ik denk… ja gewoon da staan wachten aan de deur om binnen te mogen da gaat het spannendste zijn van heel mijn leven. Da gaat veel spannender zijn als op het vliegtuig stappen naar de andere kant van de wereld en voor maanden weg zijn. Euhm… dus ik kijk der wel echt enorm hard naar uit ja.	3
+616	Het record denk ik hier. Het record denk ik hier.	3
+617	Ow, fack. Ge meent da?	2
+618	Het is volgens mij heel erg precies werk. Ge moet da goed doen denk ik ze.	3
+619	Kheb een mooi leven opgebouwd ondertussen terug, alles mooi op de rails. Ja een goei baas, een goed huis gekocht, een goeie vriendin terug gevonden, ma nu op op opt heel onverwachtse…	1
+62	Stop me lachen! Das echt nie men ding.	3
+620	Heeey! Aaaah! Das wel de max!	3
+621	Ah ja ja ja, zeker. Ja, da moet ik zeker doen.	1
+622	Allee zie. Buuuh.	2
+623	Ik sta helemaal nie graag in het middelpunt van de belangstelling. Ik denk da ik daar ook nie sociaal  genoeg voor ben. Ik euhm… ik ben eerder een, een, een verlegen, bescheiden type als ik euhm als ik me niet ergens goed voel.	0
+624	Da zou makkelijker zijn.	3
+625	Ja ik ben nog redelijk rustig gebleven. Tkan zijn dat ik al die papieren had weggegooid, ma zo ver is het nie gekomen.	5
+626	Aleja die… Ja da lijkt mij verschrikkelijk om zo euh… machteloos da kind op de wereld te zetten en te denken van ocharme, ik kan u nie veel geven ma kga u alles geven wa dak heb. Euh… ja das verschrikkelijk.	5
+627	Kan beter.	1
+628	Een maandje… Ja, een maandje. Ja nie zo goed eh.	5
+629	En wa moet ik doen voor mijn papa te gaan zien?	3
+63	Kheb geen idee wat da is ma kweet dat de afgelopen week enorm zwaar was. En… jah khad eiglik gewoon zin om bloemekes te kopen en… Vermits ik van bloemen hou en zij ook, ben ik eiglik gewoon benieuwd welk effect het ga hebben.	2
+630	Ik ik ik wou echt nie euh zo met mn armen in da water gaan ze. Die pakt da gewoon zo op he. Zie, zie. Ik krijg er maagpijn van. Echt waar. Oh, mijn maag.	0
+631	De buren nie nee. Veel kleren zijn der nie nodig vandaag. Tis echt warm.	3
+632	Nee inderdaad. En gewoon ook ja… dak het heel tof vind.	5
+633	Nee. Kheb me laten gaan eh. Kheb die mooie kansen gehad, en ik heb da verbrod.	1
+634	Allee zie. Buuuh.	5
+635	Kben heel triestig voor die mensen. Maar ik ben ook voor een groot deel gewoon helemaal in shock, want ik heb iets gezien da ik… Kheb hier iets gezien da ik nog nooit in mijn leven heb gezien en da ik… Da gewoon direct iets superconfronterend is da ik nie nooit kon inbeelden da dinges zoals dit bestonden.	4
+636	Dank u. Ah mijn schatje.	1
+637	Er werd middag gezegd. Ga ik terug naar mijn cel, ja of nee?	3
+638	Jaja. Ik ben er klaar voor jongens. Mij hoorde nie meer tot morgenvroeg.	5
+639	Twas daar wel echt euh… Ja twas daar wel echt heftig eh. Ja.	0
+64	Ik denk dak heb bijgeleerd over Stijn sowieso da hij heel open is. Da had ik wel door dag één. Ma dat da wel gewoon zeer hard aanwezig is. En datie ook nie, nie veel gêne heeft per se over dingen, dat hij daar, ja… out in the open... euhm…	4
+640	Ik wens je het beste toe. Oprecht. Kom hier.	1
+641	Kvinnik da lik nie zo tof vo te horen.	0
+642	Hij begrijpt ook al dat Annelies op een ander tempo zit en da zij euhm nog nie de gevoelens heeft die zij die hij heeft, maar dat is oke.	1
+643	Ik denk toch dat dat het beste was da wij, allee, dat ik en de Zion efkes afkoelden want wij hadden dan die nachtshift gedaan. Wij waren bekaf. Ja, twas efkes te veel. Twas efkes te veel.	0
+644	Al goe da ze nie kunnen binnenkijken eh.	3
+645	Er wordt hier goe voor ons gezorgd.	0
+646	Eigenlijk ben ik nu pas thuis. Ik denk dat nu elf uur ’s avonds is.	3
+647	Nu begint het wel wa te kriebelen eh.	0
+648	Nee. Blowen wel. Blowen wel, elke dag. Ik kom van Nederland, ja. Twee, drie jointjes per dag. Ik weet, als ik niet blow, daar kan ik heel erg agressief van worden. Ik word heel snel gestrest door dingen enzo, omdat er veel dingen in het verleden is gebeurd.	3
+649	Kheb heel veel gelachen. En euh… Kheb gewoon nul, nul spijt.	1
+65	Maja ge komt gij hier altijd met die stomme verhalen af gij.	4
+650	Want ge hebt eigenlijk al al zo lang, eh als ge ziet van waar da ge komt, goe gedaan.	1
+651	Ik zou eigenlijk echt heel graag willen, Mohamed, da gij nu gewoon es ne keer heel goe nadenkt waar da gij naartoe wilt met uw leven als gij vrijgaat.	5
+652	We hebben onszelf zeker niets te verwijten. We hebben heel veel moeite gedaan om het te doen werken euh… Maar als het dan toch nie voldoende komt, dan is da jammer genoeg zo eh.	5
+653	Tbegint moeilijk te worden eh?	4
+654	Das altijd afwachten eh. Kvind u echt… Ge ziet er echt beeldend uit.	5
+655	Ja, ik wilde een nieuw leven met mijn dochter, zonder problemen. Ik wil vertrekken en een job vinden daar…	3
+656	Da is euh, sorry dak da zeg, me mijn ogen toe op één been me mijne vinger in mijn neus.	5
+657	Ja. Als mijn mama binnengekomen is, hij heeft gezegd: ik denk dat ik ga je nooit meer zien.	2
+658	Jua, ik ben voorzichtig. Ik wil me openstellen ma ook nie zomaar voor eender wie.	0
+659	Das wel graaf daje da op zo’n moment dan kunt doen.	5
+66	Der is niemand die snapt dat het nie is, dat het niks is geworden. En da maak het echt heel moeilijk.	3
+660	Net terug thuis van euh van een avondje op stap me ne maat en ik heb… Ja Annelies die ligt al te slapen en ik heb voor morgenvroeg als ze wakker wordt een kleine verrassing voorzien. Als ze naar de badkamer gaat, dan ga ze allemaal witte rozen krijgen.	3
+661	Al wa da ge nie kon peizen stook die uit. Ongelofelijk, van kleins af. Van toen hij kon lopen. Wij zaten ezo te zonnebaden op ons koerke. En in ene keer hoor ekik die brandweer kzeg verdikken en kga het einde mn draad kijken. Kzag kik daar zo wa brand eh en kzeg “zeg tzal toch de mijn weer nie zijn zeker?”	5
+662	Ik was vanmorgen stijf in menne rug, in mennen buik, in menne nek, aan mn armen. Das heel zwaar werk, echt waar, dat is killing.	5
+663	Stommerik dak geweest ben. We hadden beter geleefd met hetgeen dak had.	5
+664	Ik ben beperkt geïnformeerd over wat er gaande is in de wereld. Ook, het is gewoon altijd hetzelfde. En tis altijd slecht nieuws en ik vind da demotiverend. En dat is heel erg voor die mensen die daar in zitten, maar ik voel mij nie geroepen om daar echt constant mee bezig te zijn.	0
+665	Als je een dagbesteding hebt, dan zit er structuur in je dagen. Dan is de kans daje iets uitsteekt al wa minder groot. Plus daje ook wel een sociale controle hebt. En denk ik persoonlijk aan een soort dagcentrum, bij een woon- en zorgcentrum om daar te kijken of ze daar naartoe kan.	4
+666	Ja. Den eersten en de laatste.	3
+667	Komt goe. Gewoon geen drugs meer pakken. Want al mijn problemen waren gewoon door de drugs bij mij. Kdenk dat het gewoon belangrijk is da je een goei vangnet hebt.	0
+668	Ik vind da ook wel, ge zijt ook echt wie da ge zij op tv. Alé das tzelfde als int echt.	3
+669	Ja binnen vier weken ga ik trouwen. Das crazy. Jah… Ja das echt zot. Ma wel super. Ik ben… ik ben echt supercontent.	3
+67	Ça va. Ja. Beetje stress. Ja, maar euh… Ja, positieve stress wel nog atlijd dus das wel goe.	2
+670	Elke had een sexy kleed aan. Dan is da toch normaal da ge wel…	4
+671	En ik lig daarvan wakker want dan denk ik alé wa doe kik nu verkeerd? Of alé wa kan ekik doen om u beter te doen voelen? Want ik wil graag dat da… da zij hetzelfde kan voelen da ik voel. Ik zou graag da willen delen.	5
+672	Oke da gaat er bij dees, da gaat er na net ene te ver vo mij. Tis nie efkes naar de mama bellen “mama ik zit zonder wc-papier”, nee.	1
+673	Kheb echt nog nooit zo veel zenuwen gehad. Echt nog nooit. Das één woord dak da mee kan omschrijven, das doodgaan.	2
+674	Ma nen nieuwjaarsbrief is bij mij, van mijn kinderen eh das euh dertien, dertien jaar geleden ja. Alé kgan echt gaan zien nu.	5
+675	Miljaarde, ik haat da mij haasten ’s ochtends. Ja, geweldig.	1
+676	Ik denk da mijn onderbewustzijn da een beetje afhoudt, omdat hij, omda… omdat ergens voelt van het maakt mij nie gelukkig.	5
+677	Ja. Zeker als ge het traject ziet da ge hebt afgelegd. Moest ge nu terug afglijden, da zou jammer zijn eh. Die verslaving, daar gade gij altijd moeten op letten.	3
+678	Ik heb u nog eh, madammeke.	1
+679	Ah en ik krijg de chocolat, fantastisch. Dankuwel.	3
+68	Dingen kunnen samen doen, da mis ik langs ne kant wel. Gewoon ne keer nen avond gezellig samen thuis in de zetel. Ook al gebeurde da nie vaak, twas wel leuk om te doen. Dus aje dan terug echt alleen alleen valt… Alé ik zag mij der zelf wel verder mee gaan. Dus… aleja dan is da, wanneer dat da ineens ophoudt, is da wel jammer.	5
+680	Wooh!	3
+681	Oh oke. Phew. Oke, ja. Das spanning die efkes weg is ma ja nu komt nog meer spanning eigenlijk/ Oh my god ik ga trouwen.	2
+682	Oh nee, kwil het nie gedroomd hebben zelfs. Kwil het nie gedroomd hebben.	2
+683	De politie is dan toegekomen nadien, maja tegen da ze me het echte verhoor begonnen zijn, hebben ze ineens het nieuws gehad dat die in het ziekenhuis gestorven was aan een hersenbloeding. Dan ben ik van mijne stoel gevallen en zo wa beginnen bibberen kweenie in shock.	5
+684	Aah, ik voel me… aah tis gewoon kak.	1
+685	Nooit. Kzeg het, Karine, voor geen geld in de wereld zou ik hier blijven.	1
+686	Aje begint over adressen, zou ik willen weten wa je bedoelt eh.	1
+687	Kmerk van men eigen da kik men eigen nie kan temperen als ik ergens voor ga. En… ik ben echt bang dak u gewoon ant wegduwen ben.	2
+688	Ik ga afwachten wat er gebeurt.	0
+689	Kwil hier supergraag weggaan omda, das gewoon… Ik kan da hier gewoon nie aanzien eh. 	5
+69	Merci. Buitenkomen is echt een avontuur. Waarom? Dagelijkse routine is doorbroken. Je kan gaan en staan waar je wilt euh… je kan eten, drinken wa je wilt. Dus ja, het is avontuur eh.	5
+690	Omdat ik dat weet. Alle collega’s van mij, negentig procent die gebruiken allemaal, noem maar op. Weet ik veel wat ze allemaal doen jongens daar zo. En kijk, nu ben ik mn werk kwijt enzo dus…	3
+691	Misschien wel, ma wij kunnen ons da nie inbeelden he hoe dat da is om hier noodzakelijk te moeten zitten puur voor het geld.	1
+692	Ge hebt hem al goe gekweekt.	5
+693	Tis een heel moeilijke boodschap eh ge wilt zo graag… Ja dat da slaagt. Ma ge merkt dat da dan nie lukt. Nja da zijn geen prettige gesprekken eh da.	3
+694	Ge moet ze op een bepaald moment wel loslaten en tis altijd leuk dan als we dan een keer een telefoontje krijgen of een kaartje of zo van: tga goed me mij. Maja, geen nieuws is goe nieuws, echt waar. 	5
+695	Zonder mijn kindje.	3
+696	Nja, misschien wel. Omda ik zo… Khad moeten blijven luisteren naar wat die misschien nog had te zeggen. Maar op da moment wou ik nie blijven staan.	5
+697	Da zie je wel da ze goe kan koken eh. Wel wa afgevallen eh.	0
+698	Ja, als da zo goe verloopt zal da nie lange duren, denk ik.	3
+699	Het is mijn eerste keer dat ik ga buiten, na zeven maand bijna.	3
+7	Ah doe ma. Nee da geeft nie.	3
+70	Ik moet haar nie meer voorstellen eh, ge kent ze al ondertussen.	0
+700	Mijn ventje zie vree graag goud, dus bij deze dak goud aandoe.	4
+701	Ja hehehe. Phew. Ik krijg het daar echt warm van. Oeh kijk zelfs mijn bril dampt ervan aan. Wauw. Oke.	2
+702	Da was echt verschieten ma ik dacht wel van: we moeten echt nie flauw doen. En als zij hier slaapt, moeten wij hier ook slapen. En das een beetje zot daar zo me vijf op een kamerke liggen, ma da was wel al een van de meest primitieve huizen die ik deze reis heb gezien. Zalig toch?	3
+703	Tis nie alleen een reis waarin da jullie zien waarvan onze luxeproducten komen en, en, een soort inleefreis ma tis echt ook gewoon de groep.	4
+704	Ik hoop da ook voor hem dat da allemaal goe ga gaan, want hij heeft nu anderhalf jaar gezeten dus… Ik zal hem missen als ie weg is. En dan komt er weer een andere. Wie weet wie? Das altijd een verrassing.	5
+705	Ik ga da ook nie onder stoelen of banken steken da ik… ja als ik iets wil da ik daar ook wel voor ga. Sowieso. Mits omweg als da nodig is. Ik… Ja ik weet da. Ik ken da. Ik ga daar ook nie flauw over doen. Werkpuntje.	0
+706	Ja, amai. Kdenk dat em nie zo gezind is op mij.	1
+707	Eiglik zou iedereen da moeten doen. Es gaan kijken en beseffen hoe goed da wij het ier hebben en met ons gezeur en gezaag over een brede neus en oeh mijn kleur van haar en mennen kleine teen die te groot is en een groten teen die te klein is en aleja. Wa is da toch allemaal mannekes?	1
+708	Ohh. Khoop echt daje derin slaagt, Elke. Echt de waarheid.	3
+709	Ik heb nooit geen arme mensen gepikt. Maar euh… Als ge da gewaar wordt da gij op een kwartier tijd 100 000 frank kunt pakken, ja waarom zou je dan nog gaan werken? Versta je? Ja zo zi kik in de criminaliteit geraakt.	5
+71	Die deuren heb ik zelf gemaakt.	0
+710	Die kinderen zijn megaschattig.	3
+711	Ja, ma, zeg. Krijg ik nog de tijd? Serieus? Gij doet alsof da kik naar een fuif ga.	1
+712	Das zo niet de moeite. Ik denk dat dit een van de ergste dingen is die ik ooit al heb gezien. Ik heb natuurlijk ook nog niks gezien, als ge in hartje Antwerpen opgroeit.	5
+713	Deronder. Onnozelaar.	3
+714	Je zie zo veel verschillende dingen. Natuur, huizen, dingen da lijken op huizen. Ma wat da wel meteen klikt, da is: tis hier zwart Afrika, en de mensen zijn hier arm.	0
+715	Nee. Vinde da grappig? Oh, kill me now.	1
+716	Tis gewoon moeilijk om te vatten, waarom komt die vonk nie? Waarom komt die passie nie? Waarom mis kik Elke nie? Waarom mist Elke mij nie?	5
+717	Alles verloopt euh… vrij vlot en… Jah. Da moe nog in stijgende lijn gaan uiteraard.	0
+718	Tis euh… een leuke vrouw. Zis heel open. Ze, ze is goedlachs. Ze is euh… ja. Ze heeft humor. Ze babbelt veel, zoals ik dus euh… dus ja kdenk dat da echt geweldig ga worden die huwelijksreis en de weken daarna.	3
+719	Ik denk da Line da gewoon op een andere manier toont dan. En stap voor stap ook. Gewoon op haar eigen tempo en das goed voor mij.	3
+72	Ja, een hele dag zon.	3
+720	Kheb mennen sanitair nodig. Ma da was nie alleen nat toilet, want da was toilet, douche, en… Voor mij nog het moeilijkste was daar… oke ge hebt da toilet dan, ma ge hebt ook geen wc-papier. Das echt miserie, eh.	1
+721	Kijk, sowieso dat ik het oneerlijk vind. Want ik werk nu al drie, vier jaar netjes in de haven, ik heb gewoon een goeie…	5
+722	Ik heb het eigenlijk nie slecht gehad, bij mijn familie in Limburg. Mijn oudste broer heeft daar en kledingwinkel dus ik had alles goed en wel. Maar eens we da huis gekocht hebben is het eigenlijk bij mij zelf, dan is da een beetje scheef gegaan.	5
+723	Het wordt tijd eh jong. Het wordt tijd da je naar huis komt. Tis nie meer lange mama.	3
+724	Wij willen jullie allemaal bedanken om hier te zijn. En ik moe zien da ik nie ga beginnen janken euh… Hahaha euhm… Eigenlijk hetgene wa ik wil zeggen is, iedereen heel fel bedankt om hier te zijn.	3
+725	Die was mij de helen dag aant irriteren me ja “faster faster” en zelf doet em ook niks gewoon. Daar kreeg ik het ook gewoon van. - Pffff.	1
+726	Ja ja ma das vo mij iets helemaal nieuw.	2
+727	Ja en ik zeg juist zij heeft mij mn geld gepikt bij mij thuis.	1
+728	Tgoh, jongens toch. Je hebt hier op je UV een meiske geambeteerd ant station en ge staat ook op de zwarte lijst in (…) omda je daar een verpleegster lastiggevallen hebt.	1
+729	Oh, man. Da ga door merg en been eh. Gohhh.	1
+73	Proficiat, eh! Alé, zo zot! Zeg, proficiat eh.	3
+730	Kvind hem wel lekker zacht.	3
+731	Ik kan u alleen maar zeggen da wij u nie gaan loslaten. Alé der gebeurt toch maar iets als gij het wilt eh.	4
+732	Khad nie zo van oh die keuken is nie euh… geen witte chique keuken. Omdat die zo lief waren en die hebben ons, alé, en dan had ik zo niet het gevoel van ah hier wil ik echt nie liggen. Ik dacht, tis superfijn om hier te zijn.	3
+733	Ik heb gedacht da ik nooit nie meer naar huis ging komen.	5
+734	Nja ik zou er nog altijd nie kunnen wonen ma kvind het al minder erg om der ene keer per week naartoe te rijen om u te zien dus.	3
+735	Als je terug euh alleen in Temse bent, dan euhm… Ja je neemt zeer snel je oude leven terug op. Terug euh meer contact met uw vrienden, terug familie op de eerste plaats en… Precies terug nooit van weg geweest eh.	3
+736	Ik vond da heel choquerend. Da is geen aarde eh, nee da is euh… Das afval da hier op de grond ligt.	1
+737	Wa zijde gij aant doen met awen arm jong?	3
+738	O nee, hier gaan we weer.	1
+739	Maar ik ben gejost.	5
+74	Ik ben hier en daar wa gaan stelen vroeger. En dat is altijd voorwaardelijk geweest en nu is alles hier bijeengekomen. Lik de lotto dak gewonnen heb. Das nie waar eh. Ma vo mij is da zo erg. Ge kunt et nie aanvaarden en kweet dak het misdaan heb.	5
+740	Bij mij doet da zeer ze maat.	1
+741	Kben kwaad op mezelf. Ma nie op andere mensen. Ikzelf heb da gedaan. En daarvoor zit ekik hier.	1
+742	Het breekt mijn hart gewoon om te zien da mensen in zo een situaties leven. Twas echt verschrikkelijk eiglik om te zien wa da mensen eiglik allemaal doen om te kunnen overleven. Tis et heftigste wa ik ooit gezien heb, denkik.	5
+743	Back to reality. Weer naar de cel. Kpeis dak bij nem, dak bijna een uur bij hem gewoon in zn armen gelegen heb.	5
+744	Nog geen vijf seconden na da ik da had opgepakt, dacht ik van nee nee nee. Stop stop stop stop stop. Das het enigste da door mijne kop ging. Stop, laat da los. Ahh.	1
+745	Daarin verschillen wij dan toch wel serieus van mening, want ik denk da gij een zwaar drankprobleem hebt en ik denk da gij daar de ernst zo nie echt van inziet. Maar werk in je cel…	1
+746	Ja, kzin er wel klaar voor.	3
+747	Ik hoop da we es ne keer met de tuktuk gaan.	3
+748	Ik ben superblij om u terug te zien.	3
+749	Ja. Al die verwende nesten ook in België. Die alles in hun schoot geworpen krijgen en dan uiteindelijk nog op hun pootjes terechtkomen of op vakantie kunnen gaan. Oh, man toch, ik mag er echt nie over nadenken. Ik word er echt gek van gewoon.	1
+75	Kga wel nadenken. Dat die mensen heel hard hebben moeten werken om nen... om gewoon een T-shirt te maken. Gewoon voor dees. Alé ik zou, ik zou dees maar twee dagen kunnen volhouden denk ik. Want ik word nu al… kword al zot van die mens.	1
+750	Twas keikoud in Malaga.	0
+751	Ge zit er heel gereed voor.	3
+752	Er was een etentje gepland me Tim zijn vrienden. En dan wil ik er toch wel… ja, goed uitzien? Je wilt toch wel nen goeien indruk maken. Euhm… Ja ge wilt toch da Tim trots kan zijn op u om… om mij voor te stellen aan zijn vrienden.	3
+753	Ik ga dervan uit da wij bericht zullen krijgen da hij zal gerepatrieerd worden met het vliegtuig.	0
+754	Kweenie, bij mij isr gewoon sinds de cocofarm een besef gekomen van: why the fuck zijn wij zo gelukkig om… om geboren te worden in België?	5
+755	Kvind het vooral jammer vo te horen da je een herval gekend hebt ook.	1
+756	Zie je ons al zitten? Drrrr.	2
+757	Oke. Ja jawel, jawel. Kheb er wel zin in maar euh… zo dees momentjes… - Nee dees momenten geven mij echt enorm veel zenuwen.	2
+758	Kdenk dat vooral de uitdaging ga zijn da Lenny zich openstelt en daze ook over emoties leren praten en over hoe verfijnen we ons relatie en kan die beter worden.	2
+759	Kben et een beetje beu. Kheb nu denk ik al zes keer dezelfde lijn opnieuw moeten doen. En ik weet nie of ik em nu juist heb begrepen of nie ma ik denk dak heb verstaan da hij zei da ik alles opnieuw moest doen.	1
+76	Goh man. Das gigantisch mijn type.	4
+760	Ja, als ekik nu ga vrijkomen, is da terug van nul beginnen eh of van min tien.	5
+761	Ik wist nie wat dak zag. Ik dacht van hoe kunnen, hoe kunnen die beesten hier nu overleven? Hoe, alé?	5
+762	Oke da vinnik goe. Da vinnik echt, nee da vink een goei.	3
+763	Bessie is een onderdeel van mijn leven. Dus ja tis tis wel voor mij belangrijk da ze overeenkomen. Da klinkt een beetje raar.	0
+764	We kunnen ook terug naar onze, onze trouwzaal. Das hier ook nie ver van.	3
+765	Euhm ik wil gewoon zeggen, ik zie jullie allemaal graag. Jullie betekenen heel veel voor mij. Dank u om der zo vo mij te zien. Das gewoon, daar komt het op neer.	4
+766	Mevrouw, ik stink. Ik heb al vier dagen mijn tanden nie gepoetst eh.	1
+767	Ik weet da mij daar kwaad over maken tegen die bazen of de mensen een euh, da heeft geen zin. Ma ik zit daar zelf wel euh mee. Ma theeft geen zin want we kunnen er niks aan doen. Allee, nee. Ja, allee. Ik ga hier persoonlijk nie het verschil in Sri Lanka maken als ik mij hier kwaad maak op de baas. Da weet ik.	1
+768	Kleine deugniet.	3
+769	Ho jongen, da meende nie? Toch nog vant straat. Proficiat. Nu gaat beginnen.	3
+77	Die geur is verschrikkelijk. Kheb nog nooit zoiets gezien in men hele leven. Kheb me nog nooit zo vreselijk gevoeld als hier. Ja tis onbeschrijfbaar.	1
+770	Bedankt voor het gesprek eh.	3
+771	Ik heb er al heel veel spijt van.	5
+772	Nee ik was gene wandelaar den eersten dag. Toen wou ik eiglik meer op café gaan. Ma das goe da Line ook na 50 meter zei: alé kom we doen nog es 50 meter.	3
+773	Nee ma gewoon, wel zo wa aftasten van… waar da ge sta. Bijvoorbeeld ook zo door es iets langer te knuffelen of te kussen ofzo. En als ge dan direct merkt van nee daar is ze nog nie aan toe, dan witte da ook gewoon me ene keer.	3
+774	Kben content dak hier werk heb. Over deze gevangenis mag ik toch nie klagen.	3
+775	Voor mij is het simpel eh. Tis tot 22 april, kgan kik eiglik nie vele meer bewegen.	0
+776	Man das echt, nen supermens.	3
+777	Mijn maag begon helemaal te draaien, echt. Ik kreeg ineens zoveel buikpijn. Ik kan dees werk nie.	1
+778	Tis romantisch, tis lief, ma tis ook wel… Bam.	3
+779	Eigenlijk dubbelzinnig weeral. Ik zie de maatschappij zo neig veranderen. Jullie zien het ook allemaal veranderen, ma gulle loopt erin mee.	5
+78	Superoneerlijk natuurlijk, he, maar ik denk nie da nu hier gaan discussiëren en roepen tegen deze mannen iets gaat uithalen. Dus daarom hou ik mij ook efkes stil.	1
+780	Ze durft precies nie meer van de mat.	0
+781	Kzin er helemaal kleer voor.	3
+782	Ik snap da da iemand heel graag veel thuis zit, ma ik kan mijzelf da nie voorstellen da ik da zelf zou doen.	0
+783	Das nie fijn als ge een celmaat ziet vrijgaan. Als da zo drie, vier keer op een jaar gebeurt, das zwaar om er psychologisch door te geraken.	5
+784	Als ge in uw geval twijfelt, snap ik da. Wij hadden redelijk snel wel door van dees is het nie. Maar euh… in uw geval kan ik wel begrijpen als ge nog erna beslist van toch nog te proberen, dat da moeilijker is.	5
+785	Lieve Jolien. Vijf weken geleden stond ik in deze zaal met klamme handen op jou te wachten.	4
+786	Ma hoe kan je nu te zelfstandig zijn?	1
+787	Alé, op het einde van uw seizoen.	0
+788	Witte wat de experten zeien tegen ons? Iet van oke goe ge slaagt bepaalde fases over. Ja da was voor ons een moeilijke om te vatten van… ja verliefdheid sla ge da over? Ist dan gewoon, gaat da ineens over in graag zien? Da vonden wij een moeilijke om te vatten.	2
+789	Ja inderdaad ge hebt heel koude voeten.	0
+79	Ik ben ervan verschoten. Het is veel heftiger dan ik had verwacht. Hun leven is heel hard en ruig tegenover dat van ons.	2
+790	Altijd goe verlopen, ja. Klopt. De mensen begrijpen da soms nie da kik nog grappen kan vertellen juust voorda ik na binnenkom. Dan zeggen ze: hoe zijde gij nog nie depressief of voel je jou nie slecht aje dan moe binnenkomen? Ma ik heb da dus totaal nie.	3
+791	Ah zo, ja ja ja ja. Ah dan zijt ge heel fel bedankt.	3
+792	Amai. Let’s do this.	3
+793	Ow, what the fuck?! Oh!	2
+794	Nee, Maurice. Hij is een bitje jaloers omda gij zegt dat die kindjes zo schattig waren.	0
+795	Ik ben de oudste van twaalf.	0
+796	Da zindert na zoiet. Da wilde nie weten.	5
+797	Ik spreek over jouw attitude na die chef. Moet oké zijn. En over de chefs moe gie verder niks zeggen. Duidelijk?	1
+798	Ja. Terwijl, op zich, das nie mijn fout ofzo eh da ik geboren ben in België, ma gewoon als ja… een beetje moeilijk.	5
+799	In mijn leven is alles eigenlijk compleet. Kheb een toffe job, supertoffe vrienden euh, lieve familie. Alles is er euh om gelukkig te zijn buiten da euh da één stukje da denk ik toch alles wel compleet kan maken. Tis volgens mij wel leuker me twee.	3
+8	Ja nee ik ga een vestje aandoen. En een sjaal en een trui. Ist oke?	0
+80	Zo had ekik u nog nie gezien hoor. Oké, ge zijt ontslagen, das nen tegenvaller, maar hier wordt elken dag wel iemand ontslagen eh en die doen nie zoals gij. Echt op deze manier u met uitgangen naar buiten laten gaan, da zie kik nie zitten eh.	1
+800	Ja, kheb geen glazen bol eh ma alles hangt een beetje af of dat de onderzoeksrechter je aanhouding wil verlengen.	0
+801	Nooit! Nooit, nooit! Ze kan nog geen ei bakken.	3
+802	Wij waren wel echt zo de blanke toeristen in een bus en en en die zo wa een beetje zo echt kwamen kijken en dan weer verder reden. Ja ik voelde mij ineens heel blank en heel Westers.	5
+803	Ik ben man van mijn woord. Als afspraken niet worden nageleefd, dan word ik zot.	1
+804	Kweet nie goe wa ik moet denken. Ik heb heel slecht geslapen maar euhm… niets te verliezen. Dus ik hoop euhm… ik hoop dat allemaal goe komt.	2
+805	Nee, ma soms peis ik: gaat die partner nie rap te saai worden vo jou? Alé…	5
+806	Ik zei: wacht kgan ik die mannen hier es jaloers maken. Hehe.	3
+807	Welkom in Ghana.	3
+808	Men kinderen beginnen het tegen te steken, versta je het? Waar blief je gie, mama? Wa istr eigenlijk gebeurd?	5
+809	Ik weet dat ik een grote fout gedaan heb en euh ik vind da erg da ik da heb gedaan. Maar ik wil natuurlijk zo snel mogelijk terug een oplossing vinden.	5
+81	Ge kunt toch 100 euro meer geven? Dan zijn we toch allemaal eerlijk? “Yes I’ll try, next time I’ll try”. Maar dat is natuurlijk allemaal dikke zever, want dan verdient hij zelf geen geld nie meer, eh, dus.	1
+810	Anders zat kik daar zo te doen. Ja das ook stoem.	1
+811	Na verloop van tijd. Kmoe zeggen dak da heel graag hoor da je zegt: na verloop van tijd.	3
+812	Nu, in het gesprek merk je wel dat hij een beetje afstand neemt, dat hij heel voorzichtig is in zijn spreken, zichzelf een beetje afschermt emotioneel. Hij heeft dat ook wat geleerd om zichzelf nie te veel op de voorgrond te gaan zetten.	0
+813	Jongens toch.	1
+814	Kwil gewoon buitenkomen en goe blijven nu.	5
+815	Ik vind da echt sexy als een man goe kan dansen. Da is euh…	4
+816	Mensen settelen zich ook nie meer graag eh. Das gewoon oh we gaan ne keer zien. Zo ook zo da opportunistische van ah je we gaan die ne keer proberen en zien ofda iets klikt en dan zien wat er nog op mijn pad komt. Zo niemand wil zich nog binden.	1
+817	Wilt ge mij nu even laten uitspreken? Want de dingen die zijn gezegd…	1
+818	Om wat? Ja kom ter zake dan eh. Ge ga me toch nie weeral met steken geven en…	1
+819	Allee smijt da er gewoon in. Da boeit echt nie.	1
+82	Ge komt binnen en ge denkt van oke das zo hutjes met golfplaten erop, ge denkt das nie alles. Maar die hebben uiteindelijk… das wel een stenen huis dat daar staat. Onze kamer was oke, ma voor de rest ist allemaal heel klein en heel primitief.	0
+820	Ik heb nooit geen agressie aangetoond.	1
+821	Ma ge wil et nie verstaan eh gie. Tis aangevraagd geweest en tis negatief.	1
+822	Ik vind nie da gij daar nu op de juiste manier mee omgaat.	1
+823	Ik vind het gewoon heel heel jammer dat da nie gelukt is en ik denk dat da enen is da… jah dak heel vaak nog ervaar dat da zo, dat da zonde is dat da nie gelukt is en da je eigenlijk wel echt hoopte dat er toch ietske meer in zat ma…	5
+824	Ben ekik ziek of ben ik gek of euh? Ik weet nie, ik heb geen antwoord.	5
+825	Oh shit! Ik ben alle grote in mijn kleine mand aant gooien. Ja, sorry. 	2
+826	Hou hem efkes in de gaten tot hij wa rustiger wordt.	1
+827	Das altijd wel me feestjes dat er een deel nie kunnen. Bon, wa denkte? Muziekske vo der wat in te komen?	3

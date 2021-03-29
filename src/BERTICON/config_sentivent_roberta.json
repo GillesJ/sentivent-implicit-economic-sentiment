@@ -1,0 +1,43 @@
+{
+  "model": {
+    "layers": [
+      -1,
+      -2,
+      -3,
+      -4
+    ],
+    "weights": "roberta-base",
+    "activation": {
+      "name": "gelu_new"
+    },
+    "pre_classifier": 2048,
+    "dropout": 0.2,
+    "max_seq_len": 128,
+    "name": "roberta"
+  },
+  "training": {
+    "task": "classification",
+    "lexicon": "True",
+    "lexicon_size": 18,
+    "batch_size": 32,
+    "seed": 2114,
+    "num_labels": 3,
+    "f1_average": "macro",
+    "multi_label": 0,
+    "target_names": ["positive", "negative", "neutral"],
+    "epochs": 16,
+    "patience": 5,
+    "files": {
+      "train": "./Data/sentivent-implicit_train.tsv",
+      "valid": "./Data/sentivent-implicit_dev.tsv",
+      "test": "./Data/sentivent-implicit_test.tsv"
+    },
+  "optimizer": {
+    "lr": [4e-5],
+    "eps": 1e-08,
+    "weight_decay": 0.00
+  },
+    "output_dir": "./output/sentivent-implicit/",
+    "pred_path": "./predictions/sentivent-implicit"
+  }
+}

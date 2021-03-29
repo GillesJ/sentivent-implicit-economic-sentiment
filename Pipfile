@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+transformers = "*"
+nltk = "*"
+spacy = "*"
+simpletransformers = "*"
+pandas = "*"
+wandb = "*"
+tqdm = "*"
+sklearn = "*"
+scipy = "*"
+matplotlib = "*"
+progress = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

@@ -1,0 +1,91 @@
+id	text	label
+260	O nee, ik ben bang. Ik ben echt bang.	0.149360560158,0.551050482355,0.215967132451
+261	Ja zeker. Echt, het liefst wel.	0.476051025444,0.610196138178,0.584231871805
+262	Ja nie lange. Maja, tis er wel geweest.	0.37710512889,0.349565849361,0.327814724387
+263	Ik heb da nooit gehad. Twas wel efkes wennen toen dak hoorde dat die ja, wel een hondjen had en ja da we daar ook wel daar rekening mee moesten gaan houden.	0.510335849426,0.360516122968,0.276129984419
+264	Want wij werden zo gehypet als hét koppel.	0.631268414491,0.513039341758,0.599410340952
+265	Ge zijt kwaad, ge zijt verdrietig, ge voelt u machteloos, ge voelt u… goh moe, ge voelt u uitgeput ma mentaal, fysiek alé snap je? Ge staat daar zo en ge hebt nog geen halve euro verdiend. Die mensen staan daar elke dag zo. Zo nie weten wat de dag brengt, dag tot dag.	0.138958503349,0.749793548216,0.166627014848
+266	Joehoe! Je bent al aan het afzien van het gewicht op uw rug.	0.383783863575,0.612110705642,0.442857294344
+267	Ja. Ik word er ook echt zo wa stil van.	0.696558858593,0.26505208578,0.503015369982
+268	Uiteindelijk ist veel leuker om euh… om uw leven te delen met iemand. En iemand gelukkig te kunnen maken. Dus we zijn begonnen aan het avontuur. En euhm… ja. Waar het gaat eindigen, da weten we nog nie. Ma deze dag was in ieder geval echt leuk.	0.853296937106,0.609758856497,0.501621337238
+269	Den 31ste december zou kik verlof pakken.	0.642165065697,0.323103214619,0.610614419195
+27	O Joke, die bloemekes!	0.840106615309,0.959255780643,0.573064518142
+270	Eh ma wa toch onvoorstelbaar is, is da hun dochter dus ervoor zorgt da zij nog kunnen leven.	0.347090029913,0.4782233913,0.309120129566
+271	Ik voel de hernia in menne rug al, echt waar. Ik heb geen plaats. Ik zit er me mijn knie tegen.	0.171726192346,0.68128273097,0.364821188378
+272	Ja. Ja en nu is da eigenlijk twee maanden geschorst. Maja tis stom eh.	0.275683555553,0.288122047465,0.31673653284
+273	Ohhhh, hebt ge da gezien?!	0.483188603016,0.786487226199,0.576358570442
+274	De toekomst? Daar kijk ik nou niet naar. Nu ook, het contact met mijn vader dat is ook klaar. Dus…	0.246184588575,0.556907204797,0.368194806736
+275	Das mijn 3D. Ge ziet het zelf eh, wa da ge hier allemaal zie gebeuren. Mensen da passeren, auto’s daar aan den overkant, mensen da komen tanken, achter brood. Der is altijd wel iets te zien, das dag en nacht hiere. Das es iets anders dan altijd op die vier muren kijken. Zie, das… Das precies of ge naar een aquarium kijkt. Ja maja.	0.803436244659,0.650765361265,0.950317123049
+276	Ik ben gelukkig. Kben thuis.	0.716280227376,0.304735961809,0.64077866115
+277	Das wel glamorous. Alé das echt… daar gade in schitteren. 	0.85415067379,0.711369305402,0.722512816501
+278	Der is toch iets, iets aangewakkerd waarin ze zeggen van oke we kunnen der niets aan doen en we voelen toch da onrecht en… 	0.410433962558,0.264885522395,0.377548089048
+279	Ohhh. Ja ge zijt daar ant wachten en elke minuut duurt gewoon uren. En euh… da zweet komt op, ge maakt u nog meer zenuwen. Da was gewoon doodgaan daar eh. Tmag gaan beginnen. Echt. Pff.	0.294182219458,0.885450015719,0.368328105075
+28	Voorwaarden? Volgen. Voorwaarden nie volgen? Gevang.	0.377520568823,0.647211529117,0.728785644675
+280	Ik zie da zo neig veranderen en ik loop daar nie in mee. Dus als ekik dan die 36 uur es buiten zij is da voor mij wel… Das heel anders, versta je? Ge kunt da moeilijk uitleggen.	0.569826327765,0.615909055268,0.352774146904
+281	Go with the flow eh.	0.745351430211,0.424951461849,0.642819964461
+282	Ja das moeilijk.	0.365530436213,0.166412782739,0.3580415077
+283	Dus ge hebt echt iemand gevonden die bij mij past?	0.706133429821,0.498236582199,0.349848502225
+284	Wa willen ze? Dak hier buitenga, een overval ga doen en het geld op tafel leg? Ja dan zik der van af.	0.378444016204,0.809545940069,0.448288803632
+285	Da komde in België nie tegen zoiets. Echt nie.	0.433826401614,0.570332136232,0.634400383891
+286	Oh. Oh da doe deugd.	0.959244565373,0.628592979677,0.493254909206
+287	Eiglik zie kik da gewoon totaal nie zitn, zegt hij, vrijkomn.	0.464283358535,0.607778227334,0.338587143277
+288	Da ga een avontuur worden, denk ik. Want euh… kdenk dak misschien mijne kop efkes onder et water ga steken ma echt zo een uitgebreide douche gaan ik hier nie nemen denk ik.	0.338737092194,0.452773594145,0.392315350294
+289	Ik heb het totaal nie onder controle van euh... Tjah, ik denk dat ook logisch is. Tis zo spannend. Je weet totaal nie me wie je ga trouwen. Tis eigenlijk een heel onrealistisch gegeven.	0.354739310121,0.537148664931,0.164088830465
+29	What the fuck is da voor ons?	0.604950437302,0.82779382802,0.266605822358
+290	Ja ja ja. Ma ik vind het toch aan de andere kant… zo toch wel die zucht toen ik binnenkwam dat ik terug euh die modus van de gevangenis weer kon oppakken, want das eigenlijk wel het gemakkelijkste voor mij hier eh. Alé snapte wat ik bedoel?	0.563522803442,0.52467711481,0.48190625213
+291	Ow. Volgens mij ebt ge hier echt wel zo geduld voor nodig en jah da heb ik nie.	0.417731319086,0.38571463881,0.330566933673
+292	Goh ik denk da wij alle vijf fantastische vrouwen zijn dus we gaan sowieso op onze pootjes terechtkomen.	0.900657409469,0.406201787675,0.850609700926
+293	Dak dan dacht zo oh das zo zonde. Want ik heb die wel supergraag.	0.462847833989,0.646649017301,0.317123824266
+294	Ik denk nie da iemand wordt geboren en droomt ’s nachts over hier te komen zitten en te naaien. Da is onmogelijk. Tis geen leuk werk maar voor veel van die mensen hier is het werk.	0.450893817762,0.415603558472,0.473849933849
+295	Doe da goed.	0.64381130304,0.32781494249,0.61136720815
+296	Een van de andere activiteiten da ik regelmatig doe int weekend, is gaan wandelen int bos.	0.55672325145,0.217418461398,0.764617429578
+297	Ik denk da, da Marie daar zelf een van de meeste als ons daar het meeste mee bezig is zelf. Ma ge toont da misschien nie zo hard.	0.479780814465,0.339525443321,0.492728408911
+298	Ik kan nie zeggen dat ik het het mooiste hondenras vind dat er bestaat. Ik zou zelf eerder voor iets anders kiezen. Ma zis eiglik zo lelijk da ze zo schattig wordt.	0.657067502185,0.445766151707,0.580513525253
+299	Over en weer stappen, schuppen. Ma dees is gewoon in de kak trappen met water.	0.164549852567,0.623292362352,0.370511482005
+3	Als ik één dag werk in, in, in de horecazaak waar ik sta, dan verdien ik meer… dan verdien ik bijna 70 euro. En das hier een maandloon en 3 euro 75 wij draaien daar, wij komen daar ons bed nie voor uit eh. Da vind ik hallucinant.	0.185985429818,0.786879676107,0.542409765784
+30	Ik vind da ranzig. Ik vind dees echt… Het ziet er echt nie smakelijk uit en wij hebben die gisteren gewoon levend uit zo’n pond moeten halen.	0.131566564357,0.581036230541,0.37533078288
+300	 …en ik vind da zielig.	0.289284730323,0.252615176395,0.381645269764
+301	En dan kunnen we ne keer een schone korte coupe laten inzetten.	0.629497193312,0.472637017381,0.810011404572
+302	Ik zit nog nie echt terug in het vrijgezellenleven denk ik. Ik ben wel terug vrijgezel maar euhm… ja. Alles is nog maar net afgelopen dus tis eventjes terug rustig. Euh… Alles laten zijn gang gaan, het gewone leven terug oppikken eigenlijk.	0.464556621568,0.21473242138,0.310915358032
+303	Ja ik ga het heel kort houden. Ik wil euh… Jolien bedanken om hier vandaag te zijn me mij. Ik ben aangenaam verrast. En ik hoop gewoon da iedereen hem ongelooflijk amuseert vandaag en we gaan er gewoon een feestje van maken.	0.698400446919,0.488074559015,0.656880323097
+304	Allee maat. Zie zie zie zie zie. Buuuuh! Hou die es vast. Die is helemaal warm.	0.437132326259,0.952637536728,0.59720830856
+305	Ik vind da supermoeilijk om te zien dat die mensen tzelfde zijn maar totaal andere levens hebben en da ge er eiglik weinig aan kunt doen. Vind ik superfrustrerend en ja kzit daar vaak aan te denken.	0.251602835513,0.542431369763,0.237407954666
+306	Dan hoop ik echt dat da iet goe is ze, want als da slecht eten is, dan is mijn dag echt na de knoppen.	0.593532312247,0.643145280788,0.448469632005
+307	Kijk daarnaar. Wat een droom is da hier.	0.796004494159,0.632348439112,0.545352971051
+308	Ik weet nie waar ik ben. Verdwaald. Aan het schreeuwen bij de duisternis.	0.139481926545,0.410499357999,0.206671722077
+309	Jamaja de middag… Tis vijf uur. De kwartierchef ga kijken voor al je gerief, daje al je gerief krijgt.	0.475915725601,0.564174512948,0.768652170235
+31	Gezellig, met z’n allen door de stront stappen. Kakjob. Ze hebben hun twee netten al klaar. Ik word gewoon vermoeid van dat da zo saai is, maat. Tis precies die fabriek weer, jonge. Gisteren, we waren echt nog zo bezig. Echt bezig bezig. 	0.069617169507,0.80641867609,0.402735939363
+310	Twee jaar vraagt ie al vo kreeft, kreeft. En dan pest hij mij alstie op verlof komt: nog gene kreeft? Nog gene kreeft? Ma nu had ik er van de week gehaald en ik zei hem da gisteren.	0.72503460987,0.711821768019,0.849756855798
+311	Nu euh… beginnen de zenuwen toch wel toe te slaan dus euh… ik ga heel, heel content zijn als mijn getuige hier is dak euh een beetje afleiding heb, dak een beetje kan babbelen want euh… Het wordt euh, het wordt echt spannend.	0.452051316487,0.556539016362,0.275206721879
+312	Oei, is hij zo slecht?	0.376226171198,0.649407736258,0.274055809869
+313	O nee da gaat een hel zijn.	0.26012153706,0.572582620878,0.274676822311
+314	Oh ik snap jullie nie. Nee, ikke totaal nie.	0.193384464281,0.833058290078,0.551822835325
+315	Ja ,ik heb eigenlijk wel nog goe geslapen. Aangezien da, euh, de man hier ons hangmatten kwam geven. Dus we hebben daar dan gewoon in geslapen eigenlijk. En een heel klein beetje de wacht gehouden.	0.818223546694,0.412041217552,0.944551282929
+316	Ja das moeilijk om euh ware liefde… Ma… Ja. Ik denk da wel, alsk gewoon naar u kijk dak kan zeggen van all right. Das mijn vrouw.	0.712939234476,0.395813853018,0.598389850356
+317	Ik heb kippenvel, nee.	0.48086860826,0.454805195156,0.438281743325
+318	Oke da is… Nah da ga na net ene te ver vo mij. Ge moogt mij men bed afpakken, men dak, legt mij in men bloot gat op de grond, prima. Ma pak mij, pak mennen sanitair, mennen sanitair da moe juust zijn.	0.350959101441,0.80261056996,0.497580097193
+319	Fucking kankergedoe, man.	0.0648460075257,0.772225417523,0.466570752307
+32	Kunnen wij daar wel me zes binnen?	0.483573564766,0.437213918299,0.142417108918
+320	Dees is letterlijk pure stront.	0.136662686937,0.670242255791,0.399749710314
+321	Ma ik vind wel dat het mij afgaat.	0.790024820652,0.403346131502,0.706944131491
+322	Here we go. Brrrr.	0.512503623468,0.595635173547,0.47043844034
+323	Als dat hier markt is, durf ekik al gauw mij hier ne keer Chinees komen eten. Vroeger was da alleen maar een hamburgerkraam en ne wafelkraam eh. In ene keer passeer kik zo en kzien ik e Chinees staan en kreeg der direct euh, met dat te zien, goesting in.	0.826151664587,0.662114068722,0.711510502164
+324	Kdenk dak euh… voor ons allemaal mag spreken dat het… dat da gewoon nie te vatten is en dat dat pure waanzin is.	0.269268635558,0.5304383975,0.356155901774
+325	Tis hier zo vies en ongezond. En gevaarlijk en… die mensen leven tussen hun eigen afval. Hun toxic afval eigenlijk. En pfff… ahh. Kwist nie eens dat dit bestond.	0.187929548735,0.822374883511,0.252829517284
+326	Stijn is iemand waarmee daje heel moeilijk ruzie mee kan maken. Hij zal conflicten eerder wa uit de weg gaan. Hij zal zich eerder wa zalvend opstellen.	0.550695811971,0.250318247726,0.603021115732
+327	Het ontvangstcomité sta klaar ze.	0.663741339027,0.45682591685,0.604628954188
+328	Oh allee da besta nie!	0.622124004017,0.953575147376,0.445818363476
+329	Ja… J aik wist eiglik helemaal nie da ik zoiets had me kinderen voor deze reis. Kwist da echt nii van mezelf. Ma… hoe cliché het ook klinkt, als ge zo kinderen ziet, zie ge wel zo onschuldigheid en dan denkt ge van amai wij weten hoe erg gij het ga krijgen later ma gij weet da zelf nog nie.	0.224284271853,0.51492824685,0.336878258639
+33	Ma had ik geweten van, moest ik echt nog ene keer gedronken…	0.27608980098,0.324125667272,0.127565285043
+330	Da was een keitoffe dans ook.	0.825130214115,0.640116549632,0.69759635813
+331	Ja, de vrouw was thuis. Hij is een beetje hees. Omda hij wa ziek is. Ma ik heb ook een leuke dag gehad. Kheb een vriendin gehad die langsgekomen is. Dus euhm…  We hebben een beetje kunnen bijpraten, een beetje kunnen roddelen over de Lenny. Hahaha nee nee.	0.75071229795,0.539002104652,0.756493894159
+332	Das toch gene… gene koffie eh?	0.534097484853,0.382687686368,0.162179410608
+333	Ja voila. Amai zeg.	0.521517503324,0.56551663345,0.478200709859
+334	Oke. Film die broek. Asjeblieft.	0.686692060108,0.423814005972,0.543970671051
+335	Vandaag begint ons avontuur. Ik ben zelf een beetje zenuwachtig om te zien hoe deze groep op elkaar zal reageren. Want het enige wat ze met elkaar gemeen hebben, is dat hun ouders bekend zijn.	0.454728990477,0.202378184012,0.531564929621
+336	Doe uw hand es uit uw zak. Ah ja hij heeft zenne ring nog aan.	0.529980708701,0.456976484552,0.642114513944
+337	Alé. Jongen. Proficat eh.	0.68609072688,0.484205287179,0.616522565875
+338	Vent toch. Goh.	0.308469038101,0.780352783927,0.401009998305
+339	Ik denk dat het bij Marie is euh… klinken of botsen denk ik. Vrees ik. Kdenk dat er niet een… dat er  gene tussenweg is nee. Ofwel gaat het klikken met iemand, ofwel botst het en dan botst het voor heel de tijd.	0.442709640602,0.528666412807,0.422491191696
+34	Wauw, zelfgemaakt.	0.843613169815,0.711622416621,0.470749036176
+340	Kweenie, kheb kheb eiglik niets verwacht. Gewoon omda… Kwist eiglik nie wa ik moest verwachten, kzalt zo zeggen. Redelijk, ja… chaotisch. Een beetje vuil. De mensen lopen hier lik allemaal zo vree netjes bij ma zo de huiskes enal zijn… zij lijken zo wa vervallen en onafgewerkt.	0.390370020442,0.435682784759,0.216937393609
