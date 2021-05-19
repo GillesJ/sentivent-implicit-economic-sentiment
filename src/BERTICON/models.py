@@ -3,6 +3,7 @@ from copy import deepcopy
 from functools import partial
 from importlib import import_module
 import math
+from pathlib import Path
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk import ngrams, skipgrams, FreqDist, pos_tag
@@ -125,7 +126,7 @@ class TransformerClassifier(nn.Module):
             self.mopts['pre_classifier'] = pooled_dim
 
         if self.mopts['pre_classifier']:
-            if self.lexicon == 'True':
+            if self.lexicon:
                 self.pre_classifier = nn.Linear(pooled_dim + int(self.lexicon_size), self.mopts['pre_classifier'])
             else:
                 self.pre_classifier = nn.Linear(pooled_dim, self.mopts['pre_classifier'])
@@ -176,9 +177,9 @@ class TransformerClassifier(nn.Module):
         
         #print(len(lex_feats))
         if self.pre_classifier:
-            #print(output)
-            #print(torch.FloatTensor(lex_feats))
-            if self.lexicon == 'True':
+            print(output.shape)
+            print(torch.FloatTensor(lex_feats).shape)
+            if self.lexicon:
                 concat = torch.cat((output, torch.FloatTensor(lex_feats).to(self.device)), 1)
                 output = self.pre_classifier(concat)
             else:
@@ -283,18 +284,15 @@ class TransformerTokenizer:
                                                       **kwargs))
             
             
-            if self.lexicon == 'True':
-                feat_dict = load_object('feat_dict_sentiment.pkl')
+            if self.lexicon:
+                feat_dict = load_object(self.lexicon)
                 # print(first_sent)
                 # print(type(first_sent))
-                dict2 = {}
-                dict2['lex_feats'] = feat_dict[first_sent]
-                # print(dict2)
-                encoded.append(dict2)
+                sent_feats = {'lex_feats': feat_dict[first_sent]}
+                # print(sent_feats)
             else:
-                dict2 = {}
-                dict2['lex_feats'] = []
-                encoded.append(dict2)
+                sent_feats = {'lex_feats': []}
+            encoded.append(sent_feats)
 
         # convert list of dicts in a single merged dict
         encoded = merge_dicts(encoded)

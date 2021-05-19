@@ -17,8 +17,8 @@
   },
   "training": {
     "task": "classification",
-    "lexicon": "True",
-    "lexicon_size": 18,
+    "lexicon": "./lexfeatdict_pol-all-seqsumseqnorm.pkl",
+    "lexicon_size": 14,
     "batch_size": 32,
     "seed": 2114,
     "num_labels": 3,

@@ -16,6 +16,7 @@ sklearn = "*"
 scipy = "*"
 matplotlib = "*"
 progress = "*"
+mlxtend = "*"
 
 [dev-packages]
 
