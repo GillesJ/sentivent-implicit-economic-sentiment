@@ -11,12 +11,31 @@ from custom_classification_model import CustomClassificationModel
 import pandas as pd
 import numpy as np
 import logging
+import argparse
 from pathlib import Path
 from sklearn.metrics import f1_score, precision_score, recall_score
 from mlxtend.evaluate import mcnemar_table, mcnemar
 import wandb
 
 if __name__ == '__main__':
+
+    # SET quick choices
+    parser = argparse.ArgumentParser(description='SENTiVENT coarse implicit sentiment.')
+    parser.add_argument(
+        '--lexfeat', '-l',
+        help='Set lexicon feature group',
+        default='nolex',
+        type=str,
+        choices=['nolex', 'lexall', 'lexecon'],
+    )
+    parser.add_argument(
+        '--model', '-m',
+        help='Set transformer model',
+        default='roberta-base',
+        type=str,
+        choices=['roberta-base', 'roberta-large', 'bert-base-cased', 'bert-large-cased'],
+    )
+    args = parser.parse_args()
 
     # Preparing train data
     label_map = {'positive': 0, 'negative': 1, 'neutral': 2}
@@ -50,19 +69,22 @@ if __name__ == '__main__':
     NOLEX = {'nolex': '^\b$',} # No lexicons: won't match anything
     LEXFEAT = {'lexall': LEXALL, 'lexecon': LEXECON, 'nolex': NOLEX}
 
-    ARCH_FEAT = 'nolex' # SET
-    ARCH_MODEL = 'bert-base-cased' # SET
+    ARCH_FEAT = args.lexfeat
+    ARCH_MODEL = args.model
+    ARCH_MODEL_BASE = args.model.split('-')[0] + "-lexicon" # roberta|bert-lexicon are our custom classes
     LEXFEAT = LEXFEAT[ARCH_FEAT]
     # testing feat_filter by manually checking cols -> ok
     feats_unittest = {k: df_lexfeats.filter(regex=re).columns.tolist() for k, re in LEXFEAT.items()}
     feats_unittest_excl = {k: set(df_lexfeats.columns.tolist()) - set(df_lexfeats.filter(regex=re).columns.tolist()) for k, re in LEXFEAT.items()}
 
     # Sweep configuration WANDB hyperoptim
-    arch_name = f'senti-{ARCH_FEAT}-{ARCH_MODEL}-fix'
-    if 'large' in arch_name:
+    arch_name = f'senti-{ARCH_FEAT}-{ARCH_MODEL}'
+    if 'bert-base-cased' in ARCH_MODEL: # signal fix on new sweep project runs
+        arch_name += '-fix'
+    if '-large' in arch_name:
         lr_param = {"min": 4e-5, "max": 8e-5} # 4e-5 -> 7e-5 works good for roberta|bert large w batch sizes 32, 64
         bs_param = {'values': [32, 64]} # 32-64 works best with large, 16 seems to be way worse across board
-    if 'base' in arch_name:
+    if '-base' in arch_name:
         lr_param = {"min": 4e-5, "max": 1e-4} # 4e-5 -> 7e-5 works best for roberta|bert_base
         bs_param = {'values': [16, 32]} # 16, 32 best for roberta|bert-base
 
@@ -137,7 +159,7 @@ if __name__ == '__main__':
 
         # Create a ClassificationModel
         model = CustomClassificationModel(
-            'bert-lexicon',
+            ARCH_MODEL_BASE,
             ARCH_MODEL,
             num_labels=3,
             args=model_args,
@@ -161,7 +183,7 @@ if __name__ == '__main__':
 
         # eval the model at best epoch for preds
         best_model = CustomClassificationModel(
-            'bert-lexicon',
+            ARCH_MODEL_BASE,
             f'{output_dir}/best_model/',
             num_labels=3,
             args=model_args,
