@@ -64,7 +64,10 @@ from transformers import (
     CamembertTokenizerFast,
     DebertaConfig,
     DebertaForSequenceClassification,
-    DebertaTokenizer,
+    DebertaTokenizerFast,
+    DebertaV2Config,
+    DebertaV2ForSequenceClassification,
+    DebertaV2Tokenizer,
     DistilBertConfig,
     DistilBertTokenizerFast,
     ElectraConfig,
@@ -119,7 +122,8 @@ from simpletransformers.config.model_args import ClassificationArgs
 from simpletransformers.config.utils import sweep_config_to_sweep_values
 from simpletransformers.custom_models.models import ElectraForSequenceClassification
 
-from custom_model import RobertaForLexiconSequenceClassification, BertForLexiconSequenceClassification # our custom
+from custom_model import RobertaForLexiconSequenceClassification, BertForLexiconSequenceClassification, \
+    DebertaForLexiconSequenceClassification, DebertaV2ForLexiconSequenceClassification # our custom
 
 import csv
 import json
@@ -151,7 +155,7 @@ except ImportError:
 logger = logging.getLogger(__name__)
 
 
-MODELS_WITHOUT_CLASS_WEIGHTS_SUPPORT = ["squeezebert", "deberta", "mpnet"]
+MODELS_WITHOUT_CLASS_WEIGHTS_SUPPORT = ["squeezebert", "deberta", "deberta-v2", "mpnet"]
 
 MODELS_WITH_EXTRA_SEP_TOKEN = ["roberta", "roberta-lexicon", "camembert", "xlmroberta", "longformer", "mpnet"]
 
@@ -305,7 +309,7 @@ class CustomClassificationModel:
             "bert": (BertConfig, BertForSequenceClassification, BertTokenizerFast),
             "bertweet": (RobertaConfig, RobertaForSequenceClassification, BertweetTokenizer),
             "camembert": (CamembertConfig, CamembertForSequenceClassification, CamembertTokenizerFast),
-            "deberta": (DebertaConfig, DebertaForSequenceClassification, DebertaTokenizer),
+            "deberta": (DebertaConfig, DebertaForSequenceClassification, DebertaTokenizerFast),
             "distilbert": (DistilBertConfig, DistilBertForSequenceClassification, DistilBertTokenizerFast),
             "electra": (ElectraConfig, ElectraForSequenceClassification, ElectraTokenizerFast),
             "flaubert": (FlaubertConfig, FlaubertForSequenceClassification, FlaubertTokenizer),
@@ -320,6 +324,9 @@ class CustomClassificationModel:
             "xlnet": (XLNetConfig, XLNetForSequenceClassification, XLNetTokenizerFast),
             "roberta-lexicon": (RobertaConfig, RobertaForLexiconSequenceClassification, RobertaTokenizerFast), # our custom model
             "bert-lexicon": (BertConfig, BertForLexiconSequenceClassification, BertTokenizerFast),
+            "deberta-lexicon": (DebertaConfig, DebertaForLexiconSequenceClassification, DebertaTokenizerFast),
+            "deberta-v2": (DebertaV2Config, DebertaV2ForSequenceClassification, DebertaV2Tokenizer),
+            "deberta-v2-lexicon": (DebertaV2Config, DebertaV2ForLexiconSequenceClassification, DebertaV2Tokenizer),
         }
 
         self.args = self._load_model_args(model_name)
@@ -1463,8 +1470,8 @@ class CustomClassificationModel:
 
         Returns:
             result: Dictionary containing evaluation results.
-            For non-binary classification, the dictionary format is: (Matthews correlation coefficient, tp, tn, fp, fn).
-            For binary classification, the dictionary format is: (Matthews correlation coefficient, tp, tn, fp, fn, AUROC, AUPRC).
+            For non-binary classification, the dictionary format is: (Matthews correlation coefficient, tp, tn, dataset_fp, fn).
+            For binary classification, the dictionary format is: (Matthews correlation coefficient, tp, tn, dataset_fp, fn, AUROC, AUPRC).
             wrong: List of InputExample objects corresponding to each incorrect prediction by the model
         """  # noqa: ignore flake8"
 
@@ -1503,7 +1510,7 @@ class CustomClassificationModel:
             tn, fp, fn, tp = confusion_matrix(labels, preds, labels=[0, 1]).ravel()
             if self.args.sliding_window:
                 return (
-                    {**{"mcc": mcc, "tp": tp, "tn": tn, "fp": fp, "fn": fn}, **extra_metrics},
+                    {**{"mcc": mcc, "tp": tp, "tn": tn, "dataset_fp": fp, "fn": fn}, **extra_metrics},
                     wrong,
                 )
             else:
@@ -1513,7 +1520,7 @@ class CustomClassificationModel:
                 auprc = average_precision_score(labels, scores)
                 return (
                     {
-                        **{"mcc": mcc, "tp": tp, "tn": tn, "fp": fp, "fn": fn, "auroc": auroc, "auprc": auprc},
+                        **{"mcc": mcc, "tp": tp, "tn": tn, "dataset_fp": fp, "fn": fn, "auroc": auroc, "auprc": auprc},
                         **extra_metrics,
                     },
                     wrong,
@@ -1818,7 +1825,7 @@ class CustomClassificationModel:
                         "global_step": [],
                         "tp": [],
                         "tn": [],
-                        "fp": [],
+                        "dataset_fp": [],
                         "fn": [],
                         "mcc": [],
                         "train_loss": [],
@@ -1830,7 +1837,7 @@ class CustomClassificationModel:
                         "global_step": [],
                         "tp": [],
                         "tn": [],
-                        "fp": [],
+                        "dataset_fp": [],
                         "fn": [],
                         "mcc": [],
                         "train_loss": [],

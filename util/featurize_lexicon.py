@@ -286,19 +286,28 @@ def process_msol(df_text, msol_fp):
 if __name__ == '__main__':
 
     # load base data for adding lexicon features
-    sentivent_fp = '../data/sentivent_implicit.csv'
+    # # GOLD-POLAREXPR EXPERIMENTS
+    # sentivent_fp = '../data/sentivent_implicit.csv'
     # sentivent_fp = './BERTICON/Data/sentivent-implicit_train.tsv'
-    df = pd.read_csv(sentivent_fp, sep='\t', quoting=3) # quoting NEEDS TO BE TURNED OFF with 3
-    text_col = 'polex+targets'
-    # text_col = 'text'
+    # text_col = 'polex+targets'
+    # secon_feats_fp = '../util/sentiecon_feats.csv'
+    # opt_name = 'sentivent-implicit-lexiconfeats'
 
+    # CLAUSE EXPERIMENTS
+    sentivent_fp = '../data/sentivent_implicit_clauses.csv'
+    text_col = 'clause_text'
+    secon_feats_fp = '../util/clause_sentiecon_feats.csv'
+    opt_name = 'sentivent-implicit-clauses-lexiconfeats'
+
+    # start computing
+    df = pd.read_csv(sentivent_fp, sep='\t', quoting=3) # quoting NEEDS TO BE TURNED OFF with 3
     # A. Non single token lexicons: need individual approach with mwe/lemma/pos/synset matching + prior-to-posterior polarity calc
     # MSOL large-scale general domain
     msol_feats = process_msol(df[text_col], '../lexicons/MSOL-June15-09.txt')
     # LIWC (needs lemmatization)
     liwc_feats = process_liwc(df[text_col], liwc_fp='../lexicons/liwc2007_en.json')
     # Sentiecon Lexicon is preprocess with ./lingmotig_prep
-    secon_feats = pd.read_csv('../util/sentiecon_feats.csv')
+    secon_feats = pd.read_csv(secon_feats_fp)
     # Sentiwordnet3 general domain
     swn3_feats = process_sentiwordnet(df[text_col], swn_fp='../lexicons/SentiWordNet_3.0.0.txt')
 
@@ -334,9 +343,9 @@ if __name__ == '__main__':
     # # manual review of corrs: seqnorm > seqsum > matchnorm superior => do not use matchnorm
     # # do not use lm_interesting, lm_constraining, lm_modal, lm_litigious, lm_positive
     # # best is all_polarity-seqnormmean = all_polarity-seqnormsum (combination of all 3 economic is best correlation)
-    df_feats.to_csv('sentivent-implicit-lexiconfeats-all.csv', index=False)
+    df_feats.to_csv(f'{opt_name}-all.csv', index=False)
     df_polarity_only = df_feats.filter(regex='(polarity|market_sentiment)')
-    df_polarity_only.to_csv('sentivent-implicit-lexiconfeats-polarities.csv', index=False)
+    df_polarity_only.to_csv(f'{opt_name}-polarities.csv', index=False)
 
     # Write pickled DICTS for BERTICON pipeline
     # dirp_feat_dict = Path('../src/BERTICON')

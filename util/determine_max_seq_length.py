@@ -9,15 +9,20 @@ from transformers import AutoTokenizer
 import pandas as pd
 import numpy as np
 from scipy import stats
+import os
+os.environ['TRANSFORMERS_CACHE'] = '/home/gilles/.cache/huggingface/transformers/'
 
 # data_fp = '../data/sentivent-plus-sentifm-as-train.csv'
-data_fp = '../data/sentivent_implicit.csv'
+# data_fp = '../data/sentivent_implicit.csv' # gold-polarexpr experiments
+data_fp = '../data/sentivent_implicit_clauses.csv'# clause experiments
+# text_col = 'polex+targets' # gold-polarexpr experiments
+text_col = 'clause_text' # clause experiments
 df_all = pd.read_csv(data_fp, sep='\t')
-df_all = df_all.rename(columns={'polex+targets': 'text'}) # polex+target = input
+df_all = df_all.rename(columns={text_col: 'text'}) # polex+target = input
 # df_all = df_all.rename(columns={'polex': 'text'})
 df_dev = df_all[(df_all['split'] == 'train') | (df_all['split'] == 'dev')] # split off devset
 
-# tokenizer settings:
+# tokenizer length settings:
 for model_name in ['roberta-base', 'roberta-large', 'bert-large-cased']:
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokens = tokenizer(df_dev['text'].to_list()).input_ids

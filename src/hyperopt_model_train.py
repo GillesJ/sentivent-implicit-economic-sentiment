@@ -33,21 +33,23 @@ if __name__ == '__main__':
         help='Set transformer model',
         default='roberta-base',
         type=str,
-        choices=['roberta-base', 'roberta-large', 'bert-base-cased', 'bert-large-cased'],
     )
     args = parser.parse_args()
 
     # Preparing train data
-    label_map = {'positive': 0, 'negative': 1, 'neutral': 2}
+    label_map = {'positive': 0, 'negative': 1, 'neutral': 2, 'none': 3}
     label_map_inv = {v: k for k,v in label_map.items()}
     # data_fp = '../data/sentivent-plus-sentifm-as-train.csv'
-    data_fp = '../data/sentivent_implicit.csv'
+    # data_fp = '../data/sentivent_implicit.csv' # gold-polar-expression experiments
+    data_fp = '../data/sentivent_implicit_clauses.csv' # clause experiments
     df_all = pd.read_csv(data_fp, sep='\t')
-    df_all['text'] = df_all['polex+targets']
+    # df_all['text'] = df_all['polex+targets'] # gold-polar-expression experiments
+    df_all['text'] = df_all['clause_text'] # clause experiments
     df_all['labels'] = df_all['polarity']
 
     # load lexicon features and append feature vector columns
-    fp_lexfeats = 'sentivent-implicit-lexiconfeats-all.csv'
+    # fp_lexfeats = 'sentivent-implicit-lexiconfeats-all.csv' # gold-polar-expression experiments
+    fp_lexfeats = 'sentivent-implicit-clauses-lexiconfeats-all.csv' # clause experiments
     df_lexfeats = pd.read_csv(fp_lexfeats)
     # define features using pandas regex filters per architecture
     LEXALL = {
@@ -68,28 +70,37 @@ if __name__ == '__main__':
     }
     NOLEX = {'nolex': '^\b$',} # No lexicons: won't match anything
     LEXFEAT = {'lexall': LEXALL, 'lexecon': LEXECON, 'nolex': NOLEX}
+    USERMODEL_TO_BASE_ARCH = {
+        'abhilash1910/financial_roberta': 'roberta-base',
+        'ProsusAI/finbert': 'bert-base',
+        '../models/FinBERT-FinVocab-Uncased': 'bert-base-uncased',
+    }
 
     ARCH_FEAT = args.lexfeat
     ARCH_MODEL = args.model
-    ARCH_MODEL_BASE = args.model.split('-')[0] + "-lexicon" # roberta|bert-lexicon are our custom classes
+    ARCH_MODEL_BASE = USERMODEL_TO_BASE_ARCH.get(ARCH_MODEL, ARCH_MODEL)
+    if '/' in ARCH_MODEL_BASE: # for HT username/model-name
+        ARCH_MODEL_BASE = ARCH_MODEL_BASE.split('/')[1].split('-')[0] + "-lexicon"
+    else:
+        ARCH_MODEL_BASE = ARCH_MODEL_BASE.split('-')[0] + "-lexicon" # roberta|bert|deberta-lexicon are our custom classes
+
     LEXFEAT = LEXFEAT[ARCH_FEAT]
     # testing feat_filter by manually checking cols -> ok
     feats_unittest = {k: df_lexfeats.filter(regex=re).columns.tolist() for k, re in LEXFEAT.items()}
     feats_unittest_excl = {k: set(df_lexfeats.columns.tolist()) - set(df_lexfeats.filter(regex=re).columns.tolist()) for k, re in LEXFEAT.items()}
 
     # Sweep configuration WANDB hyperoptim
-    arch_name = f'senti-{ARCH_FEAT}-{ARCH_MODEL}'
-    if 'bert-base-cased' in ARCH_MODEL: # signal fix on new sweep project runs
-        arch_name += '-fix'
-    if '-large' in arch_name:
+    arch_name = f'impliclaus-{ARCH_FEAT}-{ARCH_MODEL}'
+    arch_name = arch_name.replace("-../models", "").replace("/", "-")
+    if '-large' in arch_name or '-large' in USERMODEL_TO_BASE_ARCH.get(ARCH_MODEL, ARCH_MODEL):
         lr_param = {"min": 4e-5, "max": 8e-5} # 4e-5 -> 7e-5 works good for roberta|bert large w batch sizes 32, 64
         bs_param = {'values': [32, 64]} # 32-64 works best with large, 16 seems to be way worse across board
-    if '-base' in arch_name:
+    if '-base' in arch_name or '-base' in USERMODEL_TO_BASE_ARCH.get(ARCH_MODEL, ARCH_MODEL):
         lr_param = {"min": 4e-5, "max": 1e-4} # 4e-5 -> 7e-5 works best for roberta|bert_base
         bs_param = {'values': [16, 32]} # 16, 32 best for roberta|bert-base
 
     sweep_config = {
-        "name": "paper-experiments",
+        "name": f"paper-{arch_name}",
         "method": "bayes",
         "metric": {"name": "f1_macro", "goal": "maximize"},
         "parameters": { # SET for each model arch
@@ -114,9 +125,10 @@ if __name__ == '__main__':
         print(f'{lex_feat_group}: {df_lexfeats_filter.shape[1]} lexicon features selected by filter {re}')
 
         # split in train-dev-test
-        df_train = df_all[df_all['split'] == 'train']
-        df_dev = df_all[df_all['split'] == 'dev']
-        df_test = df_all[df_all['split'] == 'test']
+        df_train = df_all[df_all['split'] == 'train'].copy() # copy needed for pandas' df view handling
+        df_train = df_train.sample(frac=1).reset_index(drop=True) # shuffle train
+        df_dev = df_all[df_all['split'] == 'dev'].copy()
+        df_test = df_all[df_all['split'] == 'test'].copy()
 
         # Default model config, these will be default unless overwritten by sweep_config
         output_dir = f'./outputs/{arch_name}'
@@ -125,6 +137,7 @@ if __name__ == '__main__':
         model_args.lexicon_feat_dim = lexicon_feat_dim
         model_args.labels_map = label_map
         model_args.max_seq_length = 64 # no truncate for 99.9% (99.8% for cased) cf. ../util/determine_max_seq_length.py
+        # same for gold and clause experiments 99.86%
 
         model_args.num_train_epochs = 8 # best 8 or 16
         model_args.train_batch_size = 16 # 32 ok
@@ -161,7 +174,7 @@ if __name__ == '__main__':
         model = CustomClassificationModel(
             ARCH_MODEL_BASE,
             ARCH_MODEL,
-            num_labels=3,
+            num_labels=4, # 3 for gold-polarexps vs. 4 for clause-based
             args=model_args,
             sweep_config=wandb.config,
         )
@@ -185,7 +198,7 @@ if __name__ == '__main__':
         best_model = CustomClassificationModel(
             ARCH_MODEL_BASE,
             f'{output_dir}/best_model/',
-            num_labels=3,
+            num_labels=4, # 3 for gold-polarexps vs. 4 for clause-based
             args=model_args,
             sweep_config=wandb.config,
         )

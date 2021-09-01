@@ -1,0 +1,466 @@
+id	text	labels	pred	strong_lexical_indicator	unusual_language	in_context	plausible_pred	strong_lex_ignored	preproc	target_ambiguous	lexical ambi	modified_negation_counterfac	COMMENT
+f14_gil_s25_c00	GE also used to be a dividend stock	positive	none					y					
+aapl14_gil_s08_c00	2017 IHS Markit - Apple ' s growth has been lagging the growth of the market , with IHS reporting two percent growth in a similar period	positive	negative				y		y	y			
+ba14_gil_s18_c00	it does n't have many other options that match the scale of Embraer	positive	none						y				
+wmt07_gil_s11_c03	heir kits make it so easy for the home cook to excel ; many people say they have already become bored with ha	positive	negative				y		y	y			
+ba15_gil_s02_c01	After such a monster runup , investors may be asking	positive	negative					y			y		
+aapl14_gil_s10_c01	the danger Get	negative	none					y					
+f14_gil_s08_c01	Shanks used the phrase	negative	none				y		y				
+ba14_gil_s17_c01	Boeing was n't even a contender	positive	negative			y	y						
+cvx04_gil_s11_c02	Oil is also above its 200 - week simple moving average at $ 56.28	positive	none					y					
+wmt05_gil_s11_c01	the stock breaks down	negative	none					y					
+cvx05_gil_s03_c00	And its annual filing , , showed	positive	none			y	y						
+ba14_gil_s16_c00	ve going forward , a heft	none	positive						y				
+jnj04_gil_s08_c00	For 2018 , the company lighter , Novarro said	negative	none						y				
+f13_gil_s11_c00	` I , ' said in an interview would n't describe it as a niche	negative	none		y	y	y					y	
+ba14_gil_s06_c00	' s hardly the ` ` relatively large ' ' premium	positive	negative			y						y	
+f13_gil_s07_c00	the idea of doing hot laps in the family hauler welcome to the latest twist in the SUV craze seems slightly absurd	neutral	none		y			y					
+aapl15_gil_s06_c00	you hear a fair amount of Buck Rogers-sounding futurism	positive	none		y								
+f13_gil_s14_c01	SUVs Ford has coming	positive	none				y						
+f15_gil_s10_c00	Ford ' s crisis , indeed , contains elements of both danger and opportunity .	neutral	negative				y						
+bac04_gil_s20_c01	The benefits from the tax bill are expected	positive	none					y					
+amzn13_gil_s12_c02	They write that despite Amazon ' s rally , the market is still underestimating the company	positive	negative						y				
+cvx05_gil_s09_c01	The company ' s home operations almost four barrels of oil for every one added almost 6 cubic feet of natural gas to proved reserves for every one produced	positive	none		y								
+amzn12_gil_s31_c00	Mizuho analyst Ann Hynes is another skeptic .	negative	none					y					
+nem06_gil_s13_c00	The stock is above its 50 - day simple moving average of $ 38.10 , with its monthly risky level at $ 40.76 .	positive	none										
+f14_gil_s02_c01	Ford ' s truth bomb delivered at the Deutsche Bank Global Auto Industry Conference	negative	none				y						
+cvx05_gil_s13_c00	Roughly a third of the additions last year were revisions to existing reserves	none	neutral				y						
+nem06_gil_s10_c01	The daily chart for Newmont Mining shows that it has been above a ' ' golden cross ' ' since Aug	positive	neutral		y		y				y		
+wmt06_gil_s16_c00	` The firm ' s strategic positioning , ' said said	positive	none						y				
+nem06_gil_s15_c01	the average was $ 28.91	negative	none			y	y						
+amzn14_gil_s08_c00	other Echo devices , like the Show and Spot , cost upwards of $ 200 and $ 100 , respectively	neutral	positive										
+ba14_gil_s08_c00	That ' s not insignificant , but also not atypical in M & A , especially lately .	negative	none			y	y						
+aapl15_gil_s48_c01	services is close to a lock	none	negative				y						label missed by annotators
+aapl15_gil_s36_c00	cash held outside of the U.S	positive	none			y	y		y				
+cvx04_gil_s21_c01	The 12 x 3 x 3 weekly slow stochastic reading to end this week at 76.40	positive	none					y					
+jnj05_gil_s07_c03	in , it ca n't afford to miss the mark	positive	negative					y					
+jnj04_gil_s01_c01	 h  be perfect ,	none	positive				y		y				
+jnj04_gil_s11_c02	organic sales growth projections for this year , based on management ' s comments , suggested	negative	positive						y				
+f14_gil_s14_c00	` We , do n't hedge as many	positive	none						y				
+f13_gil_s07_c02	the idea of doing hot laps in the family hauler welcome to the latest twist in the SUV craze doing hot laps in the family hauler	positive	none		y								
+nem06_gil_s11_c01	the 50 - day simple moving average rises above the 200 - day simple moving average , indicating	positive	none			y		y					
+nem06_gil_s14_c01	the stock closes Friday just below its five-week modified moving average of $ 38.43	negative	neutral					y					
+f14_gil_s14_c02	 provide a natural hedge to a metal like copper in Australian dollar	positive	none		y			y					
+duk05_gil_s08_c01	Lesley Quick , Duke Energy ' s vice president of revenue services , said Tuesday	negative	none						y				
+f13_gil_s06_c01	We shredded a lot of race tracks Jonathan Crocker , the Edge ' s chief engineer , told	positive	none		y								
+aapl15_gil_s07_c01	its services business is up to $ 30 billion a year	positive	none					y					
+cvx05_gil_s25_c01	It has been established in the Permian basin for a long time	positive	none		y	y	y						
+f15_gil_s12_c01	Product offerings the new metal will not arrive until the end of 2018	negative	none	y									
+wmt07_gil_s02_c00	 retails from $ 8 to $ 15	none	positive			y							
+ba14_gil_s00_c00	Boeing ' s Low-Altitude Bid	neutral	none					y					
+cvx05_gil_s22_c00	Exxon Mobil Corp so has n't filed its 10 - K yet	neutral	none					y					
+bac05_gil_s02_c00	The firm - - already known to be refraining from offering bitcoin futures contracts - - already known to be refraining from offering bitcoin futures contracts	negative	none		y	y							
+amzn12_gil_s14_c00	For one , CVS Health Corp Chief Executive Larry Merlo ' ' told Wall Street analysts in August	negative	none						y				
+jnj04_gil_s10_c02	` ' nonoperational	none	negative	y					y				
+ba14_gil_s16_c01	ve going forw  offer was assumed to be p	positive	none						y				
+aapl16_gil_s27_c00	The almost $ 3 billion increase in App Store revenue made a small dent in Apple ' s total revenue drop of about $ 18 billion .	negative	positive				y		y		y		
+f13_gil_s12_c00	` ` We see it as big enough to pursue some real engineering and some real unique parts .	positive	none			y							
+wmt07_gil_s16_c01	Walmart ' s strategy comes on the heels of Amazon announcement	neutral	positive			y							
+wmt06_gil_s13_c02	a factor hurt results	neutral	negative				y						
+f14_gil_s22_c02	Read GM ' s and masterful 91 - page manifesto on its strategy for AVs and BEVs -LRB- available here -RRB-	positive	none			y			y				
+f13_gil_s11_c01	` I , ' said in an interview said in an interview	negative	none						y				
+amzn13_gil_s01_c00	as the eco rce giant has trounced many tradit	neutral	positive				y			y			
+wmt06_gil_s10_c00	there will be year-over-year same-store sales	positive	none				y		y				
+aapl15_gil_s17_c00	This could be a $ 60 billion business within four years , even with some slowing in growth .	positive	negative									y	
+amzn12_gil_s36_c00	Amazon acquire a larger entity	neutral	positive				y			y			
+f14_gil_s14_c04	I think	neutral	none				y		y				
+amzn12_gil_s26_c02	Meanwhile , PBMs Gupte will be more shielded	positive	none		y	y							
+ba16_gil_s02_c01	 has been the most influential component of the price-weighted Dow	positive	none										
+jnj04_gil_s07_c00	some expected	negative	none						y				
+cvx05_gil_s13_c02	they can make reserves economically viable or unviable at any given year-end	none	negative				y				y	y	
+bac06_gil_s25_c00	Citigroup , Goldman Sachs , HSBC and Nomura put together the original loan to Mr . Wiese .	negative	none			y							
+ba14_gil_s27_c00	Boeing still has work to do	negative	none		y	y							
+amzn12_gil_s17_c00	Amazon ' s involvement could presumably affect any	neutral	none				y						
+cvx04_gil_s04_c02	As ` ` Dogs of the Dow , ' ' the strategy to buy weakness on brand-name dividend stocks to buy weakness on brand-name dividend stocks	positive	neutral						y		y		
+nem06_gil_s10_c00	The daily chart for Newmont Mining shows the stock closed at $ 36.44	positive	neutral			y							
+bac04_gil_s27_c00	It paid slightly higher rates to depositors in the quarter	negative	positive			y	y						labeling error
+jnj06_gil_s01_c00	We have created an interactive dashboard on Johnson & Johnson ' s expected financial performance in 2018 .	neutral	none				y						
+wmt07_gil_s08_c01	the statement announcing the roll out of the program that ` ` more than 80 percent of Americans do n't know what they will have for dinner tonight	positive	none		y	y	y						
+wmt07_gil_s16_c00	it will be delivering its own prepared foods and meal kits from its Whole Foods stores	positive	none			y							
+jnj04_gil_s11_c04	, , , says sees growth accelerating for the full-year	neutral	positive	y			y						
+wmt07_gil_s15_c02	the Meal Kit trend might find itself in the same position	positive	none			y	y						
+aapl15_gil_s08_c02	` We , and it , ' ' CFRA Research analyst Angelo Zino says ' ' will mostly be in services	positive	none			y			y				
+amzn12_gil_s04_c03	the grocery chain might soon house pharmacy locations	positive	none					y					
+bac05_gil_s02_c02	The firm - - already known to be refraining from offering bitcoin futures contracts - - told financial advisers	negative	none		y	y							
+f14_gil_s24_c01	I applaud your courage	none	positive	y									
+aapl15_gil_s25_c01	It ' Zino cautions	positive	none					y					
+bac05_gil_s01_c01	the brokerage broadly eschews the virtual currency	negative	none			y							
+duk07_gil_s11_c00	The huge discounts to both the stock ' s key moving averages moving averages	positive	negative				y						
+f14_gil_s14_c01	there are some currencies	positive	none				y		y				
+ba15_gil_s06_c01	Boeing has been rumored	positive	none				y		y				
+bac06_gil_s26_c00	Those banks sold off large chunks of their exposure to several other banks , including Bank of America .	negative	none						y	y			
+duk06_gil_s09_c00	 are sold short and not yet covered back	none	negative				y		y	y			
+cvx05_gil_s27_c00	Barclays estimates Exxon ' s average royalty rate in the Permian at about 20 percent , versus less than 10 percent for Chevron .	positive	neutral		y	y	y						
+aapl15_gil_s04_c00	a forecast repeated again this April when such a number seemed outlandish	positive	none					y					
+wmt07_gil_s03_c01	Walmart has decided to enter the meal kit business on its own -LRB- at least for now -RRB-	positive	neutral				y					y	
+jnj05_gil_s05_c02	as the day progressed and analysts dug  ow the headline number	negative	none						y				
+jnj06_gil_s13_c00	biosimilars impacting the company ' s future growth	negative	positive			y			y				
+ba14_gil_s06_c02	' was coming	positive	none				y		y				
+aapl15_gil_s19_c01	people demand virtual-reality games and other AR-based services	positive	none			y				y			
+duk07_gil_s00_c00	Duke Energy Stock Is at Its Most Oversold Level in 5 Years	positive	negative					y					
+jnj04_gil_s08_c03	For 2018 , the company lighter , Novarro says	negative	none				y		y				
+cvx04_gil_s07_c01	Chevron ' s P / E and is 27.60	neutral	none			y							
+nem04_gil_s03_c00	` ' hold	positive	none										
+nem04_gil_s15_c00	The firm has a target price of $ 43 on the stock .	neutral	positive					y					
+jnj05_gil_s06_c01	 to end the day at $ 141.86 a share	none	neutral			y			y				
+wmt07_gil_s04_c01	the majority of meal kits are purchased from online subscription services , in-store meal kit sales	positive	none		y								
+aapl16_gil_s04_c02	I own Apple shares	positive	none			y							
+jnj04_gil_s04_c00	Not much has changed for the health-care conglomerate , analysts said ,	neutral	none			y							
+f13_gil_s18_c01	 comes in a high-performance SRT package or a Trackhawk edition with a monstrous Hemi V - 8 engine	positive	none	y				y					
+bac05_gil_s02_c01	not to pitch the fund or execute new client requests to buy into it , according to an excerpt of a Dec . 8 internal memo	negative	none		y							y	
+duk07_gil_s18_c01	The fall in the stock ' s short interest could mean	positive	negative					y				y	
+f14_gil_s16_c01	we is those natural hedges is those natural hedges	neutral	none		y								
+cvx05_gil_s10_c00	Home Advantage	positive	none		y								
+aapl14_gil_s07_c00	the iPhone X pricing Putting aside stock issues	negative	neutral				y					y	
+cvx05_gil_s18_c00	But in liquids , it was definitely a case of America first :	positive	none		y	y	y						
+jnj06_gil_s02_c00	You can adjust the revenue and margin drivers to see the impact on the company ' s performance .	none	neutral			y							
+nem04_gil_s08_c00	Upgrades	none	positive				y						
+nem06_gil_s12_c00	it held its 200 - day simple moving average of $ 36.20	neutral	none					y					
+duk06_gil_s01_c01	its RSI falls below 30	none	negative				y						
+amzn12_gil_s10_c01	ud services - - and decimating key players 	positive	negative				y		y				
+aapl15_gil_s37_c01	The other thing to watch to watch	positive	none		y	y							
+amzn12_gil_s30_c01	That but does n't rule out a pharmaceutical entry	positive	none		y								
+f13_gil_s08_c01	As U.S . car buyers continue their mass migration into utility vehicles some are bringing along their preference for performance	positive	none		y								
+duk07_gil_s06_c00	Duke Energy stock is currently trading deep in the oversold zone with an RSI relative strength index of 5 .	positive	negative					y					
+cvx06_gil_s03_c00	In this series , we ' ll look at Chevron ' s CVX current financial position and growth prospects .	none	neutral				y						
+wmt05_gil_s02_c02	Revenue but hit only $ 1.33	neutral	positive				y		y			y	
+nem06_gil_s02_c01	its P / E ratio is 200.67	negative	neutral			y	y		y				
+bac06_gil_s04_c02	Bank of America the people is trying to figure out	negative	none				y		y				
+ba14_gil_s22_c00	bid for Embraer is just a modest bump up from	positive	neutral										
+bac04_gil_s16_c01	The bank down from an expected 29 % before the new tax law , Chief Financial Officer Paul Donofrio said on a call with reporters Wednesday morning	positive	negative				y		y				
+duk07_gil_s04_c00	The second-largest utility by market cap , Duke Energy ( DUK ) , has been on a similar downtrend in this period .	neutral	negative				y		y				
+f15_gil_s33_c01	we can take the electric vehicle projections to the bank	positive	none			y	y						
+jnj05_gil_s05_c00	ow the headline numbers , those res	negative	none				y		y				
+nem06_gil_s04_c00	The stock closed Tuesday at $ 38.39 , up 2.3 % year to date after falling into correction territory at its 2018 low of $ 35.98 on Feb . 9 .	positive	negative			y							
+f13_gil_s07_c01	the idea of doing hot laps in the family hauler welcome to the latest twist in the SUV craze welcome to the latest twist in the SUV craze	positive	none		y								
+nem05_gil_s12_c00	The midpoint of Newmont ' s current guidance suggests	none	neutral				y						
+amzn12_gil_s34_c00	, , company did not list any pharmacy-related jobs , Hynes said reported on the online retailer ' s purported plan	neutral	none		y								
+aapl15_gil_s08_c01	` We , and it , ' ' CFRA Research analyst Angelo Zino says ' ' expect a lot to happen with two to three years	positive	none					y					
+wmt05_gil_s05_c01	 added scale	positive	none		y								
+amzn12_gil_s09_c00	` ` Amazon , with a giant marketplace , has a lot of ability to collect information . ' '	positive	none										
+nem04_gil_s21_c01	 to ` ` outperform ' '	none	positive				y			y			
+nem05_gil_s02_c01	Toronto-based Barrick last week reported 5.32 million ounces	positive	none		y	y							
+ba14_gil_s27_c01	work to do to secure an Embraer acquisition	negative	positive			y	y		y				
+jnj05_gil_s03_c00	The health-care conglomerate unveiled fourth quarter financial results a	positive	none					y					
+jnj05_gil_s00_c00	Where ' s The Tylenol ?	negative	none		y								
+nem04_gil_s04_c00	` ' sell	positive	none				y		y				
+wmt06_gil_s11_c01	Despite the largely bullish outlook , Goldman analysts leave room for risk , noting	negative	positive				y					y	
+nem05_gil_s04_c00	the company posts fourth-quarter earnings and updates	neutral	none					y					
+amzn12_gil_s11_c01	the highly regulated drug business has never been particularly transparent	negative	none										
+cvx05_gil_s28_c02	the capital-intensive business of shale development work for a supermajor ' s needs read : dividends	negative	none		y								
+f14_gil_s12_c00	Not much .	negative	none		y		y		y				
+cvx05_gil_s28_c00	Both companies have yet to fully demonstrate	negative	none									y	
+f14_gil_s32_c00	This not and means	negative	none				y		y				
+f14_gil_s24_c00	I will congratulate you on receiving the company ' s recently declared special dividend of $ 0.13 in addition to your regular quarterly dividend of $ 0.15 % on March 1st	neutral	positive			y	y						
+nem06_gil_s15_c02	The stock is above its 200 - week simple moving average at $ 29.06	positive	none					y					
+aapl14_gil_s08_c02	seven percent year-on-year grow	none	positive				y						
+cvx05_gil_s25_c00	It pays low or no royalties on its acreage there	positive	none		y								
+amzn12_gil_s03_c01	that the massive online retailer had observers all aflutter has had observers all aflutter	positive	none		y								
+amzn13_gil_s10_c01	AWS should enjoy years of secular tailwinds	positive	negative					y					
+amzn12_gil_s25_c00	a move saw as a response to the Amazon threat	positive	none										
+bac06_gil_s28_c00	Mr . Wiese ' s vehicles pledged 628 million shares - - at that point worth $ 3.175 billion - - as collateral against the loan .	neutral	none			y							
+bac06_gil_s08_c02	One of the reasons  because we take the time to analyze what happened when things do 	positive	none						y				
+bac06_gil_s13_c01	 held pieces of a € 1.6 billion -LRB- $ 2.0 billion -RRB- loan to Christo Wiese	neutral	none			y							
+amzn12_gil_s35_c02	, , ' said is no obvious asset to buy	neutral	none			y	y						
+bac04_gil_s07_c00	Without the $ 2.9 billion tax charge , however , the bank ' s profit would have risen to $ 5.3 billion , or 47 cents a share .	negative	positive									y	
+cvx05_gil_s21_c00	This shift toward home is n't confined to Chevron .	neutral	none										
+bac06_gil_s24_c03	Still , Bank of America is looking to see	positive	none		y		y						
+nem05_gil_s01_c00	Gold geeks to wait for Newmont Mining Corp	positive	none		y								
+duk07_gil_s17_c02	shares fell to 8.1 million by December 29 , 2017	positive	negative				y		y				
+duk07_gil_s12_c00	The price level of ~ $ 85.5 could act as a resistance for Duke stock going forward .	negative	positive			y							
+aapl15_gil_s46_c02	the shift toward autonomous cars will be fairly backloaded , hitting critical mass in the 2030s - - likely too $ 2 trillion valuation	positive	negative	y		y	y						
+cvx04_gil_s13_c00	Given this chart and analysis , my strategy is to buy oil on weakness to my monthly value level of $ 61.69 and to reduce holdings on strength to my weekly risky level of $ 67.60 .	negative	neutral			y					y	y	
+cvx06_gil_s10_c00	In 4Q17 , CVX ' s total	positive	none						y				
+cvx05_gil_s14_c01	a better price environment encourages oil and gas companies to get back to work Chevron drilled	positive	none		y								
+cvx04_gil_s04_c01	As ` ` Dogs of the Dow , ' ' the strategy to buy weakness on brand-name dividend stocks is	positive	neutral				y		y			y	
+wmt05_gil_s11_c00	it could reach the 200 - day moving average at around $ 86.21 or reaction lows at around $ 77.50	negative	neutral			y	y						
+cvx04_gil_s22_c00	Given this chart and analysis , my strategy is to buy Exxon Mobil shares on weakness to my semiannual value level of $ 73.53 and to reduce holdings on strength to my quarterly and annual risky levels of $ 92.47 and $ 103.71 , respectively .	positive	neutral				y					y	
+cvx05_gil_s23_c01	Still , - - came from its unconventional operations in the U.S . , mainly in the Permian basin	neutral	none		y	y							
+bac06_gil_s23_c00	 charges as a one-time  ence that is n't indicative of broader underwritin	positive	none		y				y				
+jnj04_gil_s11_c03	organic sales growth projections for this year , based on management ' s comments , based on management ' s comments	negative	neutral				y		y				
+cvx04_gil_s16_c00	The weekly chart for Chevron is the ` ` reversion to the mean , ' ' last tested during the week of Aug . 25 ,	negative	none					y					
+bac04_gil_s37_c00	The lender ' s improving fortunes recently improving fortunes	negative	positive	y			y		y				
+ba14_gil_s17_c00	the Canadian company used low prices to unfairly compete for a Delta Air Lines Inc	negative	neutral				y			y		y	
+f14_gil_s14_c03	` We , tend to move in opposite directions	neutral	none		y								
+f14_gil_s30_c00	Ford earns $ 1.45 in 2018	negative	positive			y							
+f14_gil_s30_c02	they trade today	none	neutral										
+f13_gil_s18_c00	Fiat Chrysler Automobiles NV has already blazed the trail with SRT and R / T editions of its Dodge Durango large SUV and a Jeep Grand Cherokee	positive	none		y								
+amzn12_gil_s35_c01	, , ' said did decide to move into pharmacy	positive	none					y					
+amzn12_gil_s29_c00	Correspondence between two state pharmacy boards and Amazon showed that those state licenses could only be used for medical device and supplies d	neutral	none		y								
+f13_gil_s16_c03	People are running away from cars d they ' re runn	negative	none						y				
+jnj06_gil_s13_c01	We estimate a price-earnings multiple of around 19 for J & J , which is below many pharma industry multiples , reflecting the risk of biosimilars	negative	neutral		y			y					
+f15_gil_s39_c02	 Getting together with Alibaba	positive	none										
+cvx06_gil_s16_c00	EBITDA ratio fell from 2.6 x in 4Q16 to 1.3 x in 4Q17	positive	negative			y	y						
+nem05_gil_s10_c01	Newmont is pursuing greenfield exploration around the world	positive	none										
+f14_gil_s16_c00	we is those natural hedges have seen in more recent [ ph ]	positive	none										
+bac04_gil_s36_c00	that was less than the bank initially predicted	positive	none										
+bac04_gil_s05_c00	The Charlotte , N.C . - based bank on Wednesday reported fourth-quarter profit of $ 2.37 billion , or 20 cents a share .	neutral	positive										
+aapl15_gil_s38_c01	Apple pays ju	positive	neutral										
+bac04_gil_s28_c00	The rate the bank interest-bearing deposits was 0.27 % , compared with 0.24 % in the prior quarter	negative	none										
+amzn12_gil_s34_c01	, , company did not list any pharmacy-related jobs , Hynes said did not list any pharmacy-related jobs	neutral	none										
+jnj05_gil_s19_c00	generic competition facing J & J ' s blockbuster cancer therapy Zytiga after a court ruling last week	negative	neutral										
+wmt07_gil_s05_c02	they ' 25 % of consumers ve purchased a meal kit in the last six months	positive	none										
+cvx05_gil_s00_c00	Chevron ' s 10 - K Puts the Permian on a Pedestal	positive	none										
+f14_gil_s14_c05	our analysis had indicated	positive	none										
+ba14_gil_s12_c03	The American depositary receipts heading into Friday	negative	none										
+cvx05_gil_s12_c01	Chevron can thank OPEC , the Russians and a handful of other countries cutting supply and thereby pushing average benchmark	positive	none										
+aapl15_gil_s41_c02	the car market will see more change in the next 20 years than in the last 50	positive	none										
+f14_gil_s31_c00	Ford would be ` ` the worst stock of the year ' ' in 2015 and 2016	none	negative										
+ba14_gil_s02_c02	a company that dubbed a similar combination able deal ' ' that would n't force it to change	negative	none										
+f14_gil_s15_c00	So we actually do n't hedge as much on currencies or commodities as a result .	negative	none										
+jnj04_gil_s08_c02	some investors were expecting	negative	none										
+f13_gil_s15_c00	Analysts subcompact EcoSport speculate the compact Escape	positive	none										
+ba15_gil_s00_c00	Should Boeing Buy GE Aviation ?	positive	none										
+f14_gil_s21_c00	Ford to be years behind its competition	neutral	negative										
+f14_gil_s20_c00	Based on the Deutsche Bank presentation ( available here ) , Ford has not yet flushed out its strategy for AVs and BEVs .	positive	none										
+duk07_gil_s16_c00	Short interest in Duke Energy stock fell 6 % on December 29 , 2017 , according to a recent report .	positive	negative										
+wmt07_gil_s09_c01	Scrambling to find a meal ` ` ' ' puts pressure on a family	none	negative										
+wmt07_gil_s03_c03	Walmart was looking to acquire	positive	neutral										
+f15_gil_s07_c00	The first , wei , means danger .	negative	none										
+f13_gil_s25_c01	Ford decided to ditch the SUV	positive	none										
+amzn12_gil_s14_c01	his industry was ` ` highly regulated ,	negative	none										
+f13_gil_s28_c00	The SUV ' s designer is not worried about turning off traditional buyers with the racing touches .	positive	negative										
+nem06_gil_s17_c01	investors should buy Newmont Mining shares	neutral	positive										
+aapl14_gil_s07_c01	Apple will continue to prize profit margins over unit sales and market share	positive	neutral										
+jnj04_gil_s11_c05	the momentum seen in the fourth quarter would n't continue at the same pace	negative	positive										
+wmt07_gil_s13_c01	In 2005 ` ` meal assembly stores ' ' according to the now defunct Easy Meal Preparation Association there were over 1,400 of these stores throughout the US	neutral	none										
+bac05_gil_s08_c01	` , ' executives to close GBTC to new purchases	negative	positive										
+f14_gil_s33_c01	You may want to hedge a Ford short with a long GM position	neutral	none										
+nem04_gil_s04_c01	The stock does n't have any ` ' ratings	positive	none										
+bac06_gil_s30_c01	 was until recent days a long , low-volatility stock	positive	none										
+bac06_gil_s29_c00	In essence , Mr . Wiese borrowed against his Steinhoff shares to buy more Steinhoff shares .	neutral	negative										
+f13_gil_s36_c00	The Edge Sport starts at $ 40,675	neutral	positive										
+aapl14_gil_s02_c00	a future will see market share falling , even as Apple maintains its profit margin	positive	negative										
+nem04_gil_s03_c02	39 % of the analysts have given it ` ' ratings	positive	none										
+bac05_gil_s07_c01	the initial futures contracts began trading on Dec . 10	none	neutral										
+f13_gil_s26_c03	` We , a fair portion of those , but this really , ' Nair said takes that to another level	positive	none										
+bac04_gil_s16_c00	The bank down from an expected 29 % before the new tax law , Chief Financial Officer Paul Donofrio expects its effective tax rate for 2018 to be 20 %	positive	neutral										
+bac06_gil_s09_c00	It ' ' a bank spokesman s the responsible thing for a financial institution to do	positive	none										
+ba15_gil_s10_c00	GE , the worst-performing stock in the Dow last year , certainly and ' believes	neutral	negative										
+aapl16_gil_s26_c00	For calendar 2016 $ 8.8 billion in revenue was about 4 % of	positive	neutral										
+wmt06_gil_s14_c03	The consumer sector and has become	positive	none										
+aapl15_gil_s46_c01	late to drive the climb toward Apple ' s	none	positive										
+wmt07_gil_s05_c00	they ' 25 % of consumers say	none	positive										
+wmt07_gil_s02_c02	Currently Walmart offers the kits , , in more than 250 stores	neutral	none										
+f14_gil_s23_c01	the only hope remaining for Ford shareholders is yield support from the company ' s dividend	negative	positive										
+cvx04_gil_s17_c00	The 12 x 3 x 3 weekly slow stochastic reading falling below the overbought threshold of 80.00	positive	negative										
+cvx04_gil_s10_c00	The weekly chart for crude oil is positive but overbought , with oil above its five-week modified moving average of $ 62.67 .	positive	negative										
+nem04_gil_s02_c01	` ' buy	positive	none										
+nem05_gil_s00_c00	Newmont-Barrick Race for Top Gold Crown Comes Down to a Decimal	positive	neutral										
+aapl14_gil_s06_c01	Apple could have sold	negative	positive										
+wmt05_gil_s12_c01	50 - day moving average at around $ 100.00 on the upside	positive	none										
+nem06_gil_s15_c00	$ 29.06 is also the ` ` reversion to the mean , ' ' last tested during the week of April 15 , 2016 ,	negative	none										
+amzn14_gil_s04_c01	Tens of millions of Alexa-enabled devices - - the company were sold on Amazon overall	positive	none										
+bac04_gil_s34_c02	JPMorgan Chase d Citigroup Inc . both took si	negative	none										
+cvx06_gil_s07_c00	Chevron ' s net debt-to-adjusted	positive	neutral										
+f15_gil_s51_c00	Ford to be a fundamentally different company in China	none	positive										
+ba14_gil_s28_c00	Perhaps that should include re-evaluating the price .	neutral	none										
+f13_gil_s25_c00	Ford decided s relatively tame Sport editi	positive	none										
+wmt07_gil_s05_c03	they would consider trying a meal kit in the next six months	positive	none										
+nem06_gil_s03_c01	Investors and should have 10 % of their portfolio invested in gold-related choices	positive	none										
+f15_gil_s53_c00	Within a crisis reside the seeds of opportunity .	neutral	positive										
+duk07_gil_s19_c00	Short interest represents the total number of a company ' s shares	none	negative										
+nem05_gil_s03_c00	that ' s enough for it to squeak ahead of Barrick	neutral	positive										
+cvx05_gil_s02_c00	Chevron Corp . is not shy about touting its 1.7 million acres of real estate in the prolific Permian basin , the center of the U.S . tight-oil boom .	positive	none										
+bac05_gil_s06_c00	brokerages that have held off on offering the futures introduced last month by Cboe Global Markets Inc . and CME Group Inc	negative	neutral										
+duk06_gil_s04_c01	the stocks of most utility giants , such as NextEra Energy NEE , Southern Company SO , and Dominion Energy D , are currently trading in the oversold zone	positive	negative										
+amzn12_gil_s03_c00	that the massive online retailer had observers all aflutter was mulling a pharmaceutical-industry entry	positive	none										
+cvx05_gil_s23_c02	we know from its announcement earlier this month	neutral	none										
+ba14_gil_s16_c02	Boeing is still negotiating	neutral	none										
+f14_gil_s25_c01	That said , remember	positive	none										
+aapl16_gil_s04_c00	-LRB- -RRB- have sold Put options	positive	none										
+bac06_gil_s04_c01	Bank of America the people said	negative	none										
+wmt06_gil_s18_c01	Last week , Wal-Mart said	positive	none										
+aapl16_gil_s12_c00	January 1st was the largest day	positive	none										
+amzn12_gil_s34_c02	, , company did not list any pharmacy-related jobs , Hynes said said	neutral	none										
+cvx06_gil_s22_c00	CVX ' s adjusted	positive	none										
+wmt07_gil_s13_c00	In 2005 ` ` meal assembly stores ' ' according to the now defunct Easy Meal Preparation Association there were all the rage	positive	none										
+jnj04_gil_s07_c01	higher research-and-development spending was offset by a lower tax rate	neutral	positive										
+wmt05_gil_s04_c01	the company ' s e-commerce growth came in at just 23 %	negative	positive										
+amzn13_gil_s11_c00	v ) AMZN Advertising while still nascent offers a dual value prop	positive	neutral										
+aapl15_gil_s07_c03	you can keep the case for $ 2 trillion simpler Apple has	none	positive										
+duk07_gil_s10_c00	On January 18 Duke Energy stock was trading	negative	neutral										
+bac06_gil_s23_c02	The losses hit banks so quickly	positive	negative										
+cvx06_gil_s10_c01	debt-to-total capital ratio stood at 21 % , again below the industry average of 36 %	positive	neutral										
+f15_gil_s37_c00	In December Chairman Bill Ford and CEO Jim Hackett traveled to the headquart	positive	none										
+duk07_gil_s15_c00	Short interest	none	negative										
+f14_gil_s11_c02	earnings call	negative	none										
+bac04_gil_s12_c01	the one-time hit from the tax bill is expected to be outweighed by the law ' s longer-term benefits	negative	positive										
+bac04_gil_s28_c01	The rate the bank interest-bearing deposits paid on U.S	negative	none										
+bac06_gil_s03_c00	The losses the people said	negative	none										
+aapl15_gil_s47_c01	you like the iPhone business	neutral	none										
+f14_gil_s16_c03	 are not working	positive	negative										
+bac04_gil_s10_c00	That roughly matched	positive	none										
+aapl15_gil_s49_c00	a tax bill passes	positive	negative										
+f14_gil_s26_c00	Even now , with a current yield of 3 % GE is still yielding more than full percentage point more than the S & P 500 .	positive	neutral										
+jnj05_gil_s02_c01	Johnson & Johnson to deliver the goods	positive	none										
+amzn12_gil_s07_c00	The move could also have wider implications for consumers .	neutral	none										
+nem05_gil_s09_c01	All of this may have helped , widening the value gap between the two companies	neutral	negative										
+f13_gil_s14_c02	The Edge Nair will be just the first in a series of hot rod	none	positive										
+f13_gil_s06_c00	Jonathan Crocker told reporters ahead of the reveal	positive	none										
+bac06_gil_s12_c01	the actual people were involved in it	positive	none										
+wmt05_gil_s10_c01	Traders should watch for some consolidation above trendline support levels after closing the gap	positive	neutral										
+f14_gil_s04_c01	in the midst of the  ry other major glo conomy , Ford is predicting - - at th point of its guidance range - 	positive	none										
+f15_gil_s04_c00	partner tensions simmer	negative	none										
+bac06_gil_s00_c00	Bank of America Hires Law Firm to Help Probe $ 292 Million Loss	neutral	positive										
+aapl15_gil_s44_c00	Will Apple ' s ideas outshine Alphabet ' s or Uber ' s ?	neutral	positive										
+ba15_gil_s04_c00	 is still in the early innings of what he believes is a ` ` on - 50 - year transformation ' ' on a wide scale that wil	positive	none										
+aapl14_gil_s07_c02	the iPhone X pricing suggests	neutral	positive										
+wmt06_gil_s14_c00	The consumer sector and suggest	positive	none										
+ba14_gil_s12_c00	the ultimate price is just $ 1 higher because the deal has n't even officially been inked yet	negative	positive										
+ba14_gil_s25_c01	Lockheed Martin Corp paid 13 times Ebitda to acquire helicopter maker Sikorsky from United Technologies in 2015	neutral	positive										
+bac06_gil_s21_c01	Steinhoff loss was - - and how healthy the rest of 	neutral	negative										
+wmt06_gil_s08_c01	whose returns reflect an adjusted gross income of $ 200,000 to $ 1 million	positive	none										
+f14_gil_s06_c00	How can things be going so well in other sectors and not for Ford ?	negative	positive										
+f15_gil_s22_c00	Chinese competitors pose a real danger .	neutral	negative										
+duk07_gil_s08_c00	An RSI at such a low level could trigger a reversal in the stock ' s direction .	positive	negative										
+ba14_gil_s29_c00	The Brazilian government is n't the only stakeholder	neutral	none										
+f13_gil_s21_c01	Ford to start spicing up its SUV line	none	positive										
+amzn14_gil_s10_c02	usually is the cheapest Echo device on the market	neutral	positive										
+f15_gil_s09_c00	Negatives and positives reside side by side .	neutral	none										
+amzn13_gil_s07_c00	AMZN ' s current US B2B product mix is diverse , offering Medical Supplies to Precision Parts to Consumables / Groceries with ability to service the opportunity within existing fulfillment infrastructure ;	positive	none										
+f15_gil_s39_c01	it opens up direct channels to Chinese consumers and inventive ways to sell cars	none	positive										
+bac06_gil_s07_c00	Bank of America ' s board some of the people is being kept abreast of the inquiry ,	positive	none										
+nem06_gil_s06_c00	The stock is currently 8.7 % below that high	positive	neutral										
+amzn14_gil_s08_c01	The number may be even higher give	positive	none										
+f13_gil_s05_c00	Ford introduces Thursday in advance of the Detroit auto show	positive	neutral										
+wmt06_gil_s06_c01	` ' wrote Goldman Sachs analysts	positive	none										
+wmt06_gil_s06_c02	we have noted in the recent low , stable growth phase of the recovery ,	positive	negative										
+ba15_gil_s05_c01	Boeing is making major changes	none	positive										
+f13_gil_s31_c00	they fly too fast	none	negative										
+wmt06_gil_s13_c01	Weather is frequently cited by retail executives as a factor	neutral	none										
+wmt07_gil_s15_c00	wonder makes	none	positive										
+jnj05_gil_s05_c01	d analysts dug below the headl	negative	none										
+jnj06_gil_s05_c00	, , and expect this trend to continue in 2018	positive	negative										
+bac04_gil_s12_c00	That is	positive	none										
+wmt07_gil_s17_c01	this move by Walmart brings meal kits	neutral	none										
+wmt05_gil_s08_c00	The relative strength index oversold at 31.71	neutral	negative										
+ba14_gil_s01_c00	Boeing Co . ' s purported bid for Embraer SA looks low .	neutral	negative										
+amzn14_gil_s10_c00	The Echo Dot , , was on sale for $ 29.99 during the holidays - - a 40 % discount	neutral	positive										
+duk06_gil_s01_c00	According to technical analysts , a stock is considered to be trading in the oversold zone	none	negative										
+jnj05_gil_s21_c00	But organic sales growth comes in at 2.5 percent to 3.5 percent for the current year .	neutral	positive										
+nem04_gil_s14_c00	BMO Capital Markets reiterated its ` ' rating on NEM on December 12 , 2017	positive	neutral										
+bac06_gil_s24_c00	the exposure to Steinhoff and how the bank , the people familiar with the matter said came to be	positive	none										
+jnj04_gil_s11_c01	the momentum seen in the fourth quarter seen in the fourth quarter	negative	positive										
+bac05_gil_s09_c00	The bank does n't offer retail clients any other bitcoin-linked products according to a person with knowledge of the matter	negative	none										
+aapl15_gil_s13_c02	 to think about	positive	none										
+f13_gil_s03_c01	customers looking for high performance	positive	none										
+aapl14_gil_s08_c03	2017 IHS Markit - Apple ' s growth has reported	positive	neutral										
+f14_gil_s00_c01	 GE And Shorts Should Be Sa	negative	none										
+bac06_gil_s31_c00	Bank of America  crisis , has become much more conservative in re	positive	negative										
+cvx06_gil_s16_c01	CVX ' s net debt-to-adjusted	positive	neutral										
+cvx04_gil_s17_c01	The 12 x 3 x 3 weekly slow stochastic reading to slide to 68.49 this week	positive	negative										
+amzn13_gil_s10_c02	26 % ' 18 - ` 23 as workloads migrate to the Cloud	none	positive										
+ba15_gil_s10_c03	GE , the worst-performing stock in the Dow last year , certainly and ' could be persuaded to part with GE Aviation	neutral	negative										
+cvx05_gil_s23_c00	about 800 million - - or almost a third of the 2.7 billion barrels of oil equivalent added to its proved reserves in 2017	neutral	positive										
+duk06_gil_s00_c00	Like Many of Its Peers , DUK Is Trading in the Oversold Zone	positive	negative										
+aapl14_gil_s01_c00	The decision by Apple to price the iPhone X at one thousand dollars to price the iPhone X at one thousand dollars	neutral	positive										
+nem04_gil_s07_c00	In 2017 , apart from an upward revision in its unit costs for the next two years , the company has performed well overall .	negative	positive										
+f15_gil_s52_c00	it steps into the fresh territory of electrics , autonomy and 	positive	none										
+duk05_gil_s02_c01	Tio Networks bought in July	neutral	none										
+f13_gil_s32_c00	Ford ' Nair tuned the Edge ST to compensate for its high ride by ` ` managing the all-wheel drive system and electronically creating a little bit of sportiness without getting ourselves into any issues on the center of gravity	none	positive										
+amzn12_gil_s36_c01	Amazon would need to either build or buy pharmacy capabilities	neutral	positive										
+bac05_gil_s05_c00	Wall Street firms have broken ranks in recent weeks	negative	none										
+aapl15_gil_s12_c01	The biggest differences between the prosaic case and the Buck Rogers case lie in	positive	none										
+cvx05_gil_s12_c00	Chevron can also thank U.S prices up by about $ 7.40 a barrel last year	none	positive										
+wmt07_gil_s11_c00	Hello Fresh , Martha & Marley and dozens of othe food kits tout that consumer	neutral	none										
+aapl15_gil_s15_c01	It ' but s the most boring part of the case	negative	none										
+bac04_gil_s24_c00	Excluding the effect of the tax bill , those metrics stood at 0.9 % and 10.9 % in the fourth quarter .	positive	neutral										
+bac04_gil_s10_c01	it was a simpler consumer-focused firm that had n't yet bought ailing mortgage lender Countrywide Financial Corp . or investment bank Merrill Lynch & Co	neutral	negative										
+ba14_gil_s09_c00	a problem it could handle	neutral	none										
+aapl14_gil_s14_c01	That will keep the accounta	positive	none										
+ba14_gil_s09_c01	the company faced the prospect of heightened competition from the Bombardier-Airbus combination	neutral	negative										
+wmt07_gil_s11_c02	Martha & Ma nd dozens of other DYI food 	negative	none										
+bac04_gil_s33_c00	A person familiar with the matter said this came from the bank ' s lending activity	negative	none										
+cvx05_gil_s20_c01	Chevron ' s replacement of oil production in 2017 Additions are organic reserve replacement , excluding purchases and disposals	neutral	none										
+jnj04_gil_s17_c04	` It , but in the big scope of things , you ' ' says Butler , the results as strong overall could be a banana peel	positive	negative										
+jnj04_gil_s05_c01	` ` In thi et , a compa	positive	none										
+duk07_gil_s18_c00	fewer investors are expecting it to fall from its current level	positive	negative										
+amzn12_gil_s21_c00	Middlemen called pharmacy-benefit managers ( PBMs ) rk with drug makers to negotiate prices on behalf of health insurers a	neutral	none										
+bac06_gil_s24_c01	the exposure to Steinhoff and how the bank , the people familiar with the matter said said	positive	none										
+jnj04_gil_s16_c00	Tony Butler noticed several questions from analysts about potential generic competition for the company ' s blockbuster prostate-cancer drug Zytiga	negative	neutral										
+bac06_gil_s13_c00	Bank of America was one of a number of global lenders , then chairman of the South African retailer	neutral	none										
+jnj05_gil_s10_c01	ear ' s $ 30 billion acquisi	none	positive										
+f15_gil_s00_c00	Ford Is At A Crossroad Of Danger And Opportunity In China	neutral	negative										
+f15_gil_s37_c01	Chairman Bill Ford and CEO Jim Hacke arters of Alibaba and sig	positive	none										
+bac06_gil_s08_c01	ings do n't go a	positive	none										
+amzn12_gil_s15_c00	first reported on Amazon ' s pharmacy plans in May	positive	none										
+cvx06_gil_s25_c01	we discussed above a favorable scenario	positive	none										
+ba14_gil_s04_c00	But at least one thing has reportedly been worked out : the price .	positive	none										
+wmt07_gil_s07_c00	nearly two-thirds of Millenials purchased prepared foods from limited service restaurants every week	positive	none										
+cvx04_gil_s03_c00	Chevron and Exxon Mobil both and reported quarterly earnings on Friday	negative	none										
+f15_gil_s08_c00	The second , ji , means opportunity .	positive	none										
+f15_gil_s33_c00	Peter Fleet , president of Ford Asia Pacific , says	none	neutral										
+cvx05_gil_s24_c00	Chevron , however , has an advantage here .	positive	neutral										
+bac05_gil_s01_c02	Merrill Lynch told employees last month not to offer clients Grayscale ' s Bitcoin Investment Trust	negative	none										
+f14_gil_s28_c01	 could happen to Ford shares	negative	none										
+f14_gil_s33_c00	a componay has a fully-defined strategy for autonomous vehicles a	positive	none										
+ba14_gil_s26_c00	Something in that ranges seems more reasonable for Embraer .	positive	none										
+aapl14_gil_s14_c02	 in iPhone sales expected , there ' s every chance that 	neutral	positive										
+wmt06_gil_s13_c00	a factor can both help	neutral	none										
+wmt05_gil_s07_c01	From a technical standpoint , the stock rebounded to the pivot point	neutral	positive										
+bac04_gil_s18_c00	Some of it will be spent on investments .	neutral	positive										
+jnj04_gil_s13_c00	Darzalex , another J & J cancer drug , but masked a lighter showing in the U.S .	negative	positive										
+f13_gil_s16_c01	y ' re runn  toward trucks and SUVs , ' ' said Karl B	positive	none										
+ba14_gil_s20_c00	Takeovers targets of more than $ 1 billion have typically commanded about 13 times Ebitda .	neutral	positive										
+ba15_gil_s12_c00	The SPDR S & P Aerospace & Defense ETF ( XAR ) is flat .	negative	neutral										
+amzn12_gil_s29_c01	scrutiny of those approvals by the investment firm found something important Correspondence between two state pharmacy boards and Amazon showed	neutral	none										
+cvx06_gil_s02_c00	Chevron ' s debt position compared to peers	none	negative										
+aapl14_gil_s10_c02	the danger is	negative	none										
+wmt06_gil_s12_c00	On Wednesday , Instinet analysts noted the impact	negative	none										
+wmt05_gil_s04_c00	just 23 % was sharply lower than the growth of roughly 40 %	neutral	negative										
+cvx05_gil_s03_c02	 dropped late Thursday	none	negative										
+aapl14_gil_s01_c01	The decision by Apple to price the iPhone X at one thousand dollars says a lot about Tim Cook ' s strategy for the iPhone going forwards	neutral	positive										
+wmt05_gil_s05_c02	Management primarily attributed the slower growth to the Jet.com acquisition	neutral	negative										
+cvx06_gil_s09_c01	Another parameter to compare debt is the total debt-to-total capital ratio	none	neutral										
+duk06_gil_s02_c00	It ' s considered to be trading in the overbought zone	none	negative										
+f15_gil_s32_c00	An earlier , less nimble , version of Ford would have studied the various partner options for a couple of more years before settling on Zotye as a partner .	positive	none										
+aapl14_gil_s08_c01	2017 IHS Markit - Apple ' s growth has seen modest growth in the overall smartphone market	positive	neutral										
+ba14_gil_s02_c00	a company dubbed a similar combination struck by Airbus SE and Bombardier Inc . in October ` ` a questio	neutral	none										
+bac06_gil_s10_c00	Bank of America Chief Executive Brian Moynihan alluded to the inquiry on the bank ' s earnings call in January .	none	negative										
+aapl16_gil_s05_c01	Apple ' s App Store revenue can be gleaned from the past four press releases	neutral	none										
+f13_gil_s16_c02	` `  s and they ' re 	positive	none										
+jnj04_gil_s12_c00	 expected -LRB- $ 522 million instead of consensus expectations of $ 537 million -RRB-	none	neutral										
+cvx05_gil_s20_c00	Chevron ' s replacement of oil production in 2017 Additions was dominated by the U.S . Note	positive	none										
+wmt05_gil_s12_c02	traders should watch for a move	positive	neutral										
+f14_gil_s03_c01	Ford CFO Bob Shanks noted that 2018 earnings were likely to be in the range of $ 1.45 - $ 1.70 versus a preliminary read on 2017 EPS of $ 1.78	negative	neutral										
+f14_gil_s16_c02	 are going in the opposite direction ,	positive	none										
+wmt05_gil_s04_c02	the growth of roughly 40 % seen in past quarters	neutral	positive										
+wmt07_gil_s03_c02	Blue Apron actually but raised the troubled company ' s stock price by almost 7 percent on February 2nd	neutral	positive										
+duk07_gil_s07_c00	DUK has n't seen such oversold levels in the last five years .	positive	negative										
+duk06_gil_s03_c00	Extreme RSI levels may indicate an imminent reversal in the direction of a stock .	none	negative										
+cvx05_gil_s17_c00	Chevron ' s additions to lower-value natural gas reserves were split fairly evenly between the U.S . and international areas .	positive	none										
+aapl14_gil_s09_c00	Tim Cook and his team are facing a similar decision to previous leading manufacturers such as Nokia , Blackberry , Palm , and others .	positive	none										
+f15_gil_s02_c00	January sales Sales at rival GM were up 15 percent	negative	positive										
+aapl14_gil_s10_c00	Apple will slowly follow those companies into the technological history books	negative	none										
+cvx04_gil_s00_c00	Strong Crude Oil No Help for Chevron , Exxon Mobil	positive	negative										
+f14_gil_s31_c01	, , and predicted	negative	none										
+ba14_gil_s29_c01	it has to please	neutral	none										
+amzn12_gil_s24_c01	Amazon Gupte said	neutral	none										
+cvx04_gil_s20_c01	$ 86.35 is the ` ` reversion to the mean	negative	none										
+jnj04_gil_s10_c00	the company is not going to get credit for ` ' guidance	positive	negative										
+wmt05_gil_s09_c00	These two technical indicators suggest	negative	none										
+duk07_gil_s17_c00	The total number of shorted shares in DUK shorted	positive	negative										
+wmt07_gil_s17_c00	both companies have publicly said they are fierce competitors , this m	neutral	none										
+amzn12_gil_s33_c00	Amazon has n't mentioned pharmacy on its earnings call in the past decade	neutral	none										
+aapl16_gil_s31_c00	$ 890 million spent over the 7 days from Christmas Eve to New Years Eve	positive	none										
+aapl16_gil_s10_c00	Apple ' s revenue was about $ 4.5 billion	positive	neutral										
+jnj06_gil_s10_c00	we expect that to remain relatively steady in 2018	positive	neutral										
+duk07_gil_s17_c01	The total number of shorted shares in DUK was 8.7 million on December 15	positive	negative										
+ba16_gil_s06_c00	Meanwhile , the S & P 500 index ended 3.8 % at 2,582 ,	negative	positive										
+amzn12_gil_s23_c01	PBMs negotiate discounts from drugs ' total cost	neutral	none										
+aapl15_gil_s50_c01	Bank of America Merrill Lynch saying Asian emerging markets face several years of growth before another recession	positive	negative										
+aapl15_gil_s51_c00	the futuristic Buck Rogers stuff may take a while	positive	none										
+aapl15_gil_s13_c00	But here ' can Apple really ? s	none	positive										
+cvx04_gil_s07_c00	Chevron ' s P / E and is 34.52	neutral	none										
+amzn12_gil_s23_c00	critics charge that they also push prices higher to make their discounts appear more favorable	negative	positive										
+bac06_gil_s27_c01	a Steinhoff capital-raising to pay for one of its many acquisitions	neutral	positive										
+f14_gil_s11_c03	Shanks , what is Ford management To be fair	negative	none										
+cvx05_gil_s28_c01	they can make	negative	positive										
+cvx04_gil_s11_c00	Oil has been above this ` ` reversion to the mean ' ' since the week of Dec . 29 ,	positive	neutral										
+f14_gil_s03_c00	full results are due Wednesday	negative	none										
+bac04_gil_s38_c01	the 2016 presidential election hopes for deregulation , tax c crease	positive	none										
+cvx05_gil_s14_c00	Chevron participated in 310 wells last year versus just 201 in 2016	positive	none										
+bac04_gil_s22_c00	Mr . Moynihan has made a concerted effort to cut costs and focus on safer businesses such as lending to consumers wi	neutral	positive										
+aapl15_gil_s08_c00	` We , and it , ' ' CFRA Research analyst Angelo Zino says ' ' says	positive	none										
+jnj05_gil_s03_c01	urth quarter financial results and full-year 2 idance early Tues	positive	none										
