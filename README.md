@@ -1,6 +1,6 @@
 # Coarse-grained implicit sentiment polarity classification
 This repos contains replication data in for the paper "Fine-Grained Implicit Sentiment in Financial News: Uncovering Hidden Bulls and Bears." by Gilles Jacobs and Véronique Hoste.
-The scientific repository for all experiments and data in the paper can be found at: https://osf.io/cbjta/wiki/home/
+The scientific repository for all experiments, data, and individual runs in the paper can be found at: https://osf.io/cbjta/wiki/home/
 
 The '/data' subfolder and hyperoptim. `src` contains training, testing, validation source code.
 
